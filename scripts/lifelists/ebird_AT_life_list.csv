@@ -1,0 +1,137 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Graugans - Anser anser,,Lange Lacke,AT-1,20 May 2015,L1103773,S27828024
+2,Blässgans - Anser albifrons,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+3,Höckerschwan - Cygnus olor,,Zicksee,AT-1,11 Dec 2015,L1776021,S27831963
+4,Nilgans - Alopochen aegyptiaca,2,Sandeck,AT-1,30 Apr 2017,L5797160,S36614370
+5,Brandgans - Tadorna tadorna,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+6,Knäkente - Spatula querquedula,,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36611824
+7,Löffelente - Spatula clypeata,,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+8,Schnatterente - Mareca strepera,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+9,Pfeifente - Mareca penelope,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+10,Stockente - Anas platyrhynchos,,Zicksee,AT-1,20 May 2015,L1776021,S27827970
+11,Spieβente - Anas acuta,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+12,Krickente (Eurasisch und Amerikanisch) - Anas crecca,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+13,Kolbenente - Netta rufina,,Zicksee,AT-1,20 May 2015,L1776021,S27827970
+14,Tafelente - Aythya ferina,,Zicksee,AT-1,20 May 2015,L1776021,S27827970
+15,Moorente - Aythya nyroca,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+16,Reiherente - Aythya fuligula,,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+17,Bergente - Aythya marila,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+18,Jagdfasan - Phasianus colchicus,,Gols,AT-1,20 May 2015,L4312168,S27827277
+19,Zwergtaucher - Tachybaptus ruficollis,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+20,Haubentaucher - Podiceps cristatus,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+21,Weiβstorch - Ciconia ciconia,,Gols,AT-1,20 May 2015,L4312168,S27827277
+22,Zwergscharbe - Microcarbo pygmeus,,Warmblueterkoppel,AT-1,22 May 2015,L1647202,S27828806
+23,Kormoran - Phalacrocorax carbo,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+24,Rohrdommel - Botaurus stellaris,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+25,Zwergdommel - Ixobrychus minutus,1,Illmitz Seebad,AT-1,29 Apr 2017,L1776010,S36612317
+26,Graureiher - Ardea cinerea,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+27,Purpurreiher - Ardea purpurea,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+28,Silberreiher - Ardea alba,,Lange Lacke,AT-1,20 May 2015,L1103773,S27828024
+29,Seidenreiher - Egretta garzetta,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+30,östlicher Kaiseradler - Aquila heliaca,,Bewahrungszone Waasen-Hanság,AT-1,22 May 2015,L2243971,S27828783
+31,Rohrweihe - Circus aeruginosus,,Gols,AT-1,20 May 2015,L4312168,S27827277
+32,Kornweihe - Circus cyaneus,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+33,Wiesenweihe - Circus pygargus,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+34,Sperber - Accipiter nisus,1,Hansag,AT-1,30 Apr 2017,L1793956,S36614267
+35,Seeadler - Haliaeetus albicilla,1,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+36,Raufuβbussard - Buteo lagopus,1,Bewahrungszone Waasen-Hanság,AT-1,11 Dec 2015,L2243971,S27832009
+37,Mäusebussard - Buteo buteo,,Gols,AT-1,20 May 2015,L4312168,S27827277
+38,Groβtrappe - Otis tarda,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+39,Teichhuhn - Gallinula chloropus,,Warmblueterkoppel,AT-1,22 May 2015,L1647202,S27828806
+40,Blässhuhn - Fulica atra,,Lange Lacke,AT-1,21 May 2015,L1103773,S27828194
+41,Stelzenläufer - Himantopus himantopus,,Lange Lacke,AT-1,21 May 2015,L1103773,S27828194
+42,Säbelschnäbler - Recurvirostra avosetta,,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+43,Kiebitz - Vanellus vanellus,,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36612305
+44,Seeregenpfeifer - Charadrius alexandrinus,,Zicklacke,AT-1,21 May 2015,L1775989,S27828578
+45,Sandregenpfeifer - Charadrius hiaticula,,Zicklacke,AT-1,21 May 2015,L1775989,S27828578
+46,Flussregenpfeifer - Charadrius dubius,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+47,Regenbrachvogel - Numenius phaeopus,1,Hansag,AT-1,30 Apr 2017,L1793956,S36614267
+48,Groβer Brachvogel - Numenius arquata,,Bewahrungszone Waasen-Hanság,AT-1,22 May 2015,L2243971,S27828783
+49,Uferschnepfe - Limosa limosa,,Lange Lacke,AT-1,21 May 2015,L1103773,S27828194
+50,Steinwälzer - Arenaria interpres,,Zicklacke,AT-1,21 May 2015,L1775989,S27828578
+51,Kampfläufer - Calidris pugnax,,Zicklacke,AT-1,21 May 2015,L1775989,S27828578
+52,Temminckstrandläufer - Calidris temminckii,,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+53,Alpenstrandläufer - Calidris alpina,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+54,Zwergstrandläufer - Calidris minuta,,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+55,Flussuferläufer - Actitis hypoleucos,5,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36611824
+56,Dunkler Wasserläufer - Tringa erythropus,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+57,Grünschenkel - Tringa nebularia,1,Warmblueterkoppel,AT-1,29 Apr 2017,L1647202,S36612334
+58,Bruchwasserläufer - Tringa glareola,2,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36611824
+59,Rotschenkel - Tringa totanus,,Lange Lacke,AT-1,21 May 2015,L1103773,S27828194
+60,Lachmöwe - Chroicocephalus ridibundus,,Gols,AT-1,20 May 2015,L4312168,S27827277
+61,Zwergmöwe - Hydrocoloeus minutus,,Warmblueterkoppel,AT-1,22 May 2015,L1647202,S27828806
+62,Schwarzkopfmöwe - Ichthyaetus melanocephalus,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+63,Mittelmeermöwe - Larus michahellis,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+64,Steppenmöwe - Larus cachinnans,,Zicksee,AT-1,11 Dec 2015,L1776021,S27831963
+65,Heringsmöwe - Larus fuscus,1,Sandeck,AT-1,30 Apr 2017,L5797160,S36614370
+66,Zwergseeschwalbe - Sternula albifrons,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+67,Raubseeschwalbe - Hydroprogne caspia,2,Sandeck,AT-1,30 Apr 2017,L5797160,S36614370
+68,Weiβflügel-Seeschwalbe - Chlidonias leucopterus,,Lange Lacke,AT-1,20 May 2015,L1103773,S27828024
+69,Fluβseeschwalbe - Sterna hirundo,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+70,Felsentaube/Stra§entaube - Columba livia,,Gols,AT-1,20 May 2015,L4312168,S27827277
+71,Ringeltaube - Columba palumbus,,Gols,AT-1,20 May 2015,L4312168,S27827277
+72,Turteltaube - Streptopelia turtur,3,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+73,Türkentaube - Streptopelia decaocto,,Gols,AT-1,20 May 2015,L4312168,S27827277
+74,Kuckuck - Cuculus canorus,1,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36612305
+75,Schleiereule - Tyto alba,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+76,Waldohreule - Asio otus,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+77,Sumpfohreule - Asio flammeus,,Nationalpark Neusiedler See-Seewinkel,AT-1,22 May 2015,L963694,S27831576
+78,Mauersegler - Apus apus,3,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36612305
+79,Wiedehopf - Upupa epops,,Gols,AT-1,20 May 2015,L4312168,S27827277
+80,Eisvogel - Alcedo atthis,,Zicksee,AT-1,11 Dec 2015,L1776021,S27831963
+81,Bienenfresser - Merops apiaster,,Gols,AT-1,20 May 2015,L4312168,S27827277
+82,Buntspecht - Dendrocopos major,,Reith,AT-5,18 Mar 2016,L4399479,S28408570
+83,Blutspecht - Dendrocopos syriacus,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+84,Grünspecht - Picus viridis,,Zicksee,AT-1,20 May 2015,L1776021,S27827970
+85,Turmfalke - Falco tinnunculus,,Gols,AT-1,20 May 2015,L4312168,S27827277
+86,Baumfalke - Falco subbuteo,1,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36612305
+87,Wanderfalke - Falco peregrinus,1,Sandeck,AT-1,30 Apr 2017,L5797160,S36614370
+88,Neuntöter - Lanius collurio,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+89,Raubwürger - Lanius excubitor,,Bewahrungszone Waasen-Hanság,AT-1,11 Dec 2015,L2243971,S27832009
+90,Pirol - Oriolus oriolus,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+91,Elster - Pica pica,,Gols,AT-1,20 May 2015,L4312168,S27827277
+92,Tannenhäher - Nucifraga caryocatactes,1,Reith,AT-5,18 Mar 2016,L4399479,S28408570
+93,Dohle - Corvus monedula,,Gols,AT-1,20 May 2015,L4312168,S27827277
+94,Saatkrähe - Corvus frugilegus,,Hansag,AT-1,30 Apr 2017,L1793956,S36614267
+95,Rabenkrähe - Corvus corone,,Gols,AT-1,20 May 2015,L4312168,S27827277
+96,Nebelkrähe - Corvus cornix,,Bewahrungszone Waasen-Hanság,AT-1,11 Dec 2015,L2243971,S27832009
+97,Feldlerche - Alauda arvensis,,Lange Lacke,AT-1,21 May 2015,L1103773,S27828194
+98,Haubenlerche - Galerida cristata,,Nationalpark Neusiedler See-Seewinkel,AT-1,22 May 2015,L963694,S27831576
+99,Uferschwalbe - Riparia riparia,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+100,Rauchschwalbe - Hirundo rustica,,Gols,AT-1,20 May 2015,L4312168,S27827277
+101,Mehlschwalbe - Delichon urbicum,,Gols,AT-1,20 May 2015,L4312168,S27827277
+102,Tannenmeise - Periparus ater,,Reith,AT-5,18 Mar 2016,L4399479,S28408570
+103,Blaumeise - Cyanistes caeruleus,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+104,Kohlmeise - Parus major,,Gols,AT-1,20 May 2015,L4312168,S27827277
+105,Beutelmeise - Remiz pendulinus,,Nationalpark Neusiedler See--Biological Station,AT-1,21 May 2015,L1120016,S27828733
+106,Kleiber - Sitta europaea,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+107,Zilpzalp - Phylloscopus collybita,,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36612305
+108,Gelbspötter - Hippolais icterina,,Nationalpark Neusiedler See--Biological Station,AT-1,22 May 2015,L1120016,S27831551
+109,Mariskenrohrsänger - Acrocephalus melanopogon,1,Illmitz Seebad,AT-1,29 Apr 2017,L1776010,S36612317
+110,Schilfrohrsänger - Acrocephalus schoenobaenus,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+111,Teichrohrsänger - Acrocephalus scirpaceus,,Warmblueterkoppel,AT-1,28 Apr 2017,L1647202,S36611824
+112,Drosselrohrsänger - Acrocephalus arundinaceus,3,Illmitz Seebad,AT-1,29 Apr 2017,L1776010,S36612317
+113,Rohrschwirl - Locustella luscinioides,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+114,Feldschwirl - Locustella naevia,1,Sandeck,AT-1,30 Apr 2017,L5797160,S36614370
+115,Mönchsgrasmücke - Sylvia atricapilla,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+116,Sperbergrasmücke - Sylvia nisoria,1,Podersdorfer Pferdekoppel,AT-1,30 Apr 2017,L3140798,S36614195
+117,Klappergrasmücke - Sylvia curruca,1,Podersdorfer Pferdekoppel,AT-1,30 Apr 2017,L3140798,S36614195
+118,Nachtigall - Luscinia megarhynchos,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+119,Hausrotschwanz - Phoenicurus ochruros,,Gols,AT-1,20 May 2015,L4312168,S27827277
+120,Braunkehlchen - Saxicola rubetra,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+121,Schwarzkehlchen - Saxicola rubicola,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+122,Steinschmätzer - Oenanthe oenanthe,,Hansag,AT-1,30 Apr 2017,L1793956,S36614267
+123,Amsel - Turdus merula,,Gols,AT-1,20 May 2015,L4312168,S27827277
+124,Singdrossel - Turdus philomelos,,Reith,AT-5,18 Mar 2016,L4399479,S28408570
+125,Star - Sturnus vulgaris,,Gols,AT-1,20 May 2015,L4312168,S27827277
+126,Wiesenschafstelze - Motacilla flava,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+127,Bachstelze - Motacilla alba,,Gols,AT-1,20 May 2015,L4312168,S27827277
+128,Brachpieper - Anthus campestris,1,Parndorfer Platte,AT-1,01 May 2017,L3140740,S36614390
+129,Goldammer - Emberiza citrinella,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+130,Rohrammer - Emberiza schoeniclus,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+131,Buchfink - Fringilla coelebs,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+132,Grünling - Chloris chloris,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+133,Bluthänfling - Linaria cannabina,,Zicksee,AT-1,20 May 2015,L1776021,S27827970
+134,Stieglitz - Carduelis carduelis,,Zicksee,AT-1,20 May 2015,L1776021,S27827970
+135,Haussperling - Passer domesticus,,Gols,AT-1,20 May 2015,L4312168,S27827277
+136,Feldsperling - Passer montanus,,Gols,AT-1,20 May 2015,L4312168,S27827277

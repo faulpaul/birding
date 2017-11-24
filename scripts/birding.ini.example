@@ -1,0 +1,12 @@
+####### Example ini File for birding script ############
+[SectionGeneral]
+fileCSS:paul.css
+path:app
+
+[SectionOrnithode]
+user:{ornitho.de user}
+pass:{ornitho.de password}
+
+[SectionEbird]
+user:{ebird.org user}
+pass:{ebird.org password}
