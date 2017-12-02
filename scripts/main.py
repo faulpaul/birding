@@ -16,7 +16,7 @@
 # login in eigene funktion
 
 # import Python packages
-import sys, locale, requests, datetime, re, time, csv, urllib2
+import sys, locale, requests, datetime, re, time, csv, urllib
 from bs4 import BeautifulSoup
 from lxml import etree
 from configparser import ConfigParser
@@ -86,7 +86,7 @@ def main():
     ############ Europe from ebird
     targetsEurope = []
     for country in europe:
-	targetsEurope += ebirdGetArea("7", country, "country", "eur", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)
+    targetsEurope += ebirdGetArea("7", country, "country", "eur", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)
         #time in days, area, lifelist BOSNIEN
     writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS)
 

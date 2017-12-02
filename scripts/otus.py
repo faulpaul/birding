@@ -31,20 +31,20 @@ def othusGetSightings(time):
     for line in urllib2.urlopen(url):
         if str("Beob[" + str(i) + "]['Titel']") in line:
             name = otusCleanLine(line)
-    	#if "Beob[0]['id']" in line:
-    	#	print(line)
-    	if str("Beob[" + str(i) + "]['Datum']") in line:
+        #if "Beob[0]['id']" in line:
+        #    print(line)
+        if str("Beob[" + str(i) + "]['Datum']") in line:
             date = datetime.strptime(otusCleanLine(line), '%d.%m.%Y') 
-    	if str("Beob[" + str(i) + "]['Ort']") in line:
-	    location = line.split("=")[1]
-    	#if "Beob[0]['Beobachter']" in line:
-    	#	print(line)
-    	if str("Beob[" + str(i) + "]['lat']") in line:
-	    lat = otusCleanLine(line)
-    	if str("Beob[" + str(i) + "]['lng']") in line:
-	    lng = otusCleanLine(line)
-	    targets.append([number, name, sciname, source, href, lat, lng, location, date, "DE"])
-	    if mindate <= date:
-		i += 1
-	    else:
-    		return(targets)
+        if str("Beob[" + str(i) + "]['Ort']") in line:
+        location = line.split("=")[1]
+        #if "Beob[0]['Beobachter']" in line:
+        #    print(line)
+        if str("Beob[" + str(i) + "]['lat']") in line:
+        lat = otusCleanLine(line)
+        if str("Beob[" + str(i) + "]['lng']") in line:
+        lng = otusCleanLine(line)
+        targets.append([number, name, sciname, source, href, lat, lng, location, date, "DE"])
+        if mindate <= date:
+        i += 1
+        else:
+            return(targets)

@@ -79,11 +79,11 @@ def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber
             continue
     pagelist = sorted(set(pagelist))
     try:
-	if pagelist[-1] > currentpage: 
-        	currentpage += 1
-        	ornithoSpecies.append(OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, currentpage, ornithoSpecies, area))
+    if pagelist[-1] > currentpage: 
+            currentpage += 1
+            ornithoSpecies.append(OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, currentpage, ornithoSpecies, area))
     except:
-	pass
+    pass
     return ornithoSpecies
 
 # the function is used to match all sightings againts the lifelist
@@ -159,7 +159,7 @@ def ornithoGetSpecies(time, area, ornithopayload, ornithospecieslist):
     targets = []
     for speciesid in ornithospecieslist:
         ornithodataurl = "http://www.ornitho." + area + "/index.php?m_id=94&sp_DChoice=offset&sp_DOffset=" + time + "&sp_S=" + str(speciesid) + "&submit=Abfrage+starten&mp_item_per_page=60&sp_SChoice=species&mp_current_page="
-    	OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
+        OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
     targets = OrnithoGetLocations(ornithopayload, ornithologin, ornithoSpecies)
     return targets
 

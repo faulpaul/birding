@@ -34,8 +34,8 @@ def buildMap(targetlist, maplat, maplng, zoomset):
     birdVar += "var locations = ["
     for sight in targetlist:
         i += 1
-	#print(sight)
-	birdVar += "[\'" + str(sight[1]) +" (" + str(sight[0]) + ") " + "| " + "\'," + str(sight[5]) + "," + str(sight[6]) + "," + str(i) + "],"
+    #print(sight)
+    birdVar += "[\'" + str(sight[1]) +" (" + str(sight[0]) + ") " + "| " + "\'," + str(sight[5]) + "," + str(sight[6]) + "," + str(i) + "],"
     birdVar += "];"
     return birdVar
 
@@ -57,7 +57,7 @@ def buildHTMLpage(targetlist,fileCSS,fileJS):
     source += "<tr><th>Datum</th><th>Land</th><th>Anzahl</th><th>Name</th><th>Wiss. Name</th><th>Ort</th><th>Quelle</th></tr>\n"
     for line in targetlist:
         try: target = [line[8], line[9], line[0], line[1], line[2], line[7], line[3]]  # date, land, number, commonname, sciencename, source, locationname,
-	except: print(line)
+    except: print(line)
         source += "<tr>"
         for column in target:
             source += "<td>"

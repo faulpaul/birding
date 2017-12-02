@@ -17,16 +17,16 @@ def ebirdGetLifelist(lifelist, ebirdpayload):
     #ebirdloginurl="https://secure.birds.cornell.edu/cassso/login"
     #ebirdlifelisturl="http://ebird.org/ebird/MyEBird?cmd=list&time=life&fmt=csv&rtype=country&r=" + lifelist
     #with requests.Session() as s:
-    #	s.post(ebirdloginurl, data=ebirdpayload)
+    #    s.post(ebirdloginurl, data=ebirdpayload)
     #    download = s.get(ebirdlifelisturl)
-#	decoded_content = download.content.decode('utf-8')
-#	cr = csv.reader(decoded_content.splitlines(), delimiter=',')
+#    decoded_content = download.content.decode('utf-8')
+#    cr = csv.reader(decoded_content.splitlines(), delimiter=',')
     filename = "./lifelists/ebird_" + lifelist + "_life_list.csv"
     with open(filename, "rb") as mylist:
-    	reader = csv.reader(mylist)
-	next(reader, None)
-	for row in reader:
-		ebirdLifelist.append(row[1].split(" - ")[1].strip(" "))
+        reader = csv.reader(mylist)
+    next(reader, None)
+    for row in reader:
+        ebirdLifelist.append(row[1].split(" - ")[1].strip(" "))
     return(ebirdLifelist)
 
 def ebirdGetAllSpecies(ebirdlistspecies, region, area, time):
@@ -50,18 +50,18 @@ def ebirdCompareSpecies(ebirdLifelist, ebirdSpecies):
     # return the ones not yet on lifelist
     ebirdRelevantSpecies = []
     for j in ebirdLifelist:
-	for i in ebirdSpecies:
-	    if (j == i) or ("(" in i) or (" x " in i) or ("Sylvia melanocephala" in i) or ("Monticola solitarius" in i) or ("Alectoris rufa" in i):
-		ebirdSpecies.remove(i)
+    for i in ebirdSpecies:
+        if (j == i) or ("(" in i) or (" x " in i) or ("Sylvia melanocephala" in i) or ("Monticola solitarius" in i) or ("Alectoris rufa" in i):
+        ebirdSpecies.remove(i)
     #return(ebirdRelevantSpecies)
-    return(ebirdSpecies)	    
+    return(ebirdSpecies)        
 
 def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area, time):
     # get list of sightings for all relevant species
     ebirdTargets = []
     for species in ebirdRelevantSpecies:
-	if ("," in species) or ("/" in species) or ("." in species):
-		continue 
+    if ("," in species) or ("/" in species) or ("." in species):
+        continue 
         url = ebirdlistallsightings + "&back=" + time + "&rtype=" + region + "&r=" + area +"&sci=" + species.replace(" ", "%20") #Leerzeichen zu %20 
         xmlsource = urllib2.urlopen(url)
         context = etree.iterparse(xmlsource)
@@ -76,17 +76,17 @@ def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area,
                 sciname = elem.text
             if elem.tag == "obs-dt":
                 try: date = datetime.datetime.strptime(elem.text, "%Y-%m-%d %H:%M")
-		except: date = datetime.datetime.strptime(elem.text, "%Y-%m-%d")
+        except: date = datetime.datetime.strptime(elem.text, "%Y-%m-%d")
             if elem.tag == "lat":
                latitude = elem.text
             if elem.tag == "lng":
                longitude = elem.text
             if elem.tag == "sighting":
-		source = "<a target=\"_blank\" href=\"" + url + "\">ebird.org</a>"
+        source = "<a target=\"_blank\" href=\"" + url + "\">ebird.org</a>"
                 try: ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
                 except:
-			number = "x"
-			ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
+            number = "x"
+            ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
             if elem.getparent() is None: break #fix for bug 1185701
     #xmlsource.close()
     return ebirdTargets
