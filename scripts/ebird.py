@@ -8,7 +8,7 @@
 # the results (i.e. sightings which are not yet on your lifelist) are written into an html file
 # the script can be found at goessinger.eu for more information send an email to paul (at) goessinger (dot) eu
 # all configuration is done in the main.py
-import csv, urllib2, datetime, time, requests
+import csv, urllib, datetime, time, requests
 from lxml import etree
 
 def ebirdGetLifelist(lifelist, ebirdpayload):
@@ -22,11 +22,11 @@ def ebirdGetLifelist(lifelist, ebirdpayload):
 #    decoded_content = download.content.decode('utf-8')
 #    cr = csv.reader(decoded_content.splitlines(), delimiter=',')
     filename = "./lifelists/ebird_" + lifelist + "_life_list.csv"
-    with open(filename, "rb") as mylist:
+    with open(filename, "rt") as mylist:
         reader = csv.reader(mylist)
-    next(reader, None)
-    for row in reader:
-        ebirdLifelist.append(row[1].split(" - ")[1].strip(" "))
+        next(reader, None)
+        for row in reader:
+            ebirdLifelist.append(row[1].split(" - ")[1].strip(" "))
     return(ebirdLifelist)
 
 def ebirdGetAllSpecies(ebirdlistspecies, region, area, time):
@@ -34,7 +34,7 @@ def ebirdGetAllSpecies(ebirdlistspecies, region, area, time):
     ebirdSpecies = []
     # open connection
     ebirdlistspecies = ebirdlistspecies + "&back=" + time + "&rtype=" + region + "&r=" + area
-    xmlsource = urllib2.urlopen(ebirdlistspecies)
+    xmlsource = urllib.request.urlopen(ebirdlistspecies)
     context = etree.iterparse(xmlsource)
     for action, elem in context:
             if elem.tag == "sci-name":
@@ -50,9 +50,9 @@ def ebirdCompareSpecies(ebirdLifelist, ebirdSpecies):
     # return the ones not yet on lifelist
     ebirdRelevantSpecies = []
     for j in ebirdLifelist:
-    for i in ebirdSpecies:
-        if (j == i) or ("(" in i) or (" x " in i) or ("Sylvia melanocephala" in i) or ("Monticola solitarius" in i) or ("Alectoris rufa" in i):
-        ebirdSpecies.remove(i)
+        for i in ebirdSpecies:
+            if (j == i) or ("(" in i) or (" x " in i) or ("Sylvia melanocephala" in i) or ("Monticola solitarius" in i) or ("Alectoris rufa" in i):
+                 ebirdSpecies.remove(i)
     #return(ebirdRelevantSpecies)
     return(ebirdSpecies)        
 
@@ -60,10 +60,10 @@ def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area,
     # get list of sightings for all relevant species
     ebirdTargets = []
     for species in ebirdRelevantSpecies:
-    if ("," in species) or ("/" in species) or ("." in species):
-        continue 
+        if ("," in species) or ("/" in species) or ("." in species):
+            continue 
         url = ebirdlistallsightings + "&back=" + time + "&rtype=" + region + "&r=" + area +"&sci=" + species.replace(" ", "%20") #Leerzeichen zu %20 
-        xmlsource = urllib2.urlopen(url)
+        xmlsource = urllib.request.urlopen(url)
         context = etree.iterparse(xmlsource)
         for action, elem in context:
             if elem.tag == "loc-name":
@@ -76,17 +76,17 @@ def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area,
                 sciname = elem.text
             if elem.tag == "obs-dt":
                 try: date = datetime.datetime.strptime(elem.text, "%Y-%m-%d %H:%M")
-        except: date = datetime.datetime.strptime(elem.text, "%Y-%m-%d")
+                except: date = datetime.datetime.strptime(elem.text, "%Y-%m-%d")
             if elem.tag == "lat":
                latitude = elem.text
             if elem.tag == "lng":
                longitude = elem.text
             if elem.tag == "sighting":
-        source = "<a target=\"_blank\" href=\"" + url + "\">ebird.org</a>"
+                source = "<a target=\"_blank\" href=\"" + url + "\">ebird.org</a>"
                 try: ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
                 except:
-            number = "x"
-            ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
+				    number = "x"
+                    ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
             if elem.getparent() is None: break #fix for bug 1185701
     #xmlsource.close()
     return ebirdTargets

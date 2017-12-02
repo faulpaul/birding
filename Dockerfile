@@ -9,6 +9,6 @@ ENV LANG='de_DE.UTF-8' LANGUAGE='de_DE.UTF-8' LC_ALL='de_DE.UTF-8'
 RUN ln -fs /usr/share/zoneinfo/Europe/Berlin /etc/localtime && dpkg-reconfigure -f noninteractive tzdata
 
 RUN sed -i "$ d" /etc/crontab
-RUN echo "15 *    * * *   root    cd /scripts/ && python main.py" >> /etc/crontab
+RUN echo "15 *    * * *   root    cd /scripts/ && python3 main.py" >> /etc/crontab
 RUN echo "#"  >> /etc/crontab
 RUN /etc/init.d/cron start

@@ -79,11 +79,11 @@ def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber
             continue
     pagelist = sorted(set(pagelist))
     try:
-    if pagelist[-1] > currentpage: 
+        if pagelist[-1] > currentpage: 
             currentpage += 1
             ornithoSpecies.append(OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, currentpage, ornithoSpecies, area))
     except:
-    pass
+        pass
     return ornithoSpecies
 
 # the function is used to match all sightings againts the lifelist
