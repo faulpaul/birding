@@ -17,7 +17,7 @@ import time
 
 def writeData(targets, maplat, maplng, zoomset, filenameJS, filenameHTML, path, fileCSS, googleAPI):
     #check if there are any sightings
-	if targets: 
+    if targets: 
 	    #draw map
         contentmap = buildMap(targets, maplat, maplng, zoomset)
         writeFile(contentmap ,path + filenameJS)
@@ -30,14 +30,14 @@ def writeFile(content, filename):
     file.write(content)
     file.close()
 
-def buildMap(targetlist, maplat, maplng, zoomset):
+def buildMap(targets, maplat, maplng, zoomset):
     i = 0
     birdVar = "var centerloc = {lat: " + maplat + ", lng: "+ maplng + "};\n var zoomset = " + str(zoomset) + "\n\n"
     birdVar += "var locations = ["
-    for sight in targetlist:
+    for sight in targets:
         i += 1
-    #print(sight)
-    birdVar += "[\'" + str(sight[1]) +" (" + str(sight[0]) + ") " + "| " + "\'," + str(sight[5]) + "," + str(sight[6]) + "," + str(i) + "],"
+        #print(sight)
+        birdVar += "[\'" + str(sight[1]) +" (" + str(sight[0]) + ") " + "| " + "\'," + str(sight[5]) + "," + str(sight[6]) + "," + str(i) + "],"
     birdVar += "];"
     return birdVar
 
@@ -50,7 +50,7 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "</head>\n"
     source += "<script src=\"sorttable.js\"></script>\n"
     source += "<script src=\"markerclusterer.js\" type=\"text/javascript\"></script>\n"
-    source += "<script src=\"https://maps.googleapis.com/maps/api/js?v=3.exp&key=" + googleAPI + " type=\"text/javascript\"></script>\n"
+    source += "<script src=\"https://maps.googleapis.com/maps/api/js?v=3.exp&key=" + googleAPI + "\" type=\"text/javascript\"></script>\n"
     source += "<div class=\"date\">File generated: " + time.strftime("%Y/%m/%d @ %H:%M:%S") + "</div>\n"
     source += "<body id=birding><div id=header>All relevant sightings in your area:</div>\n"
     source += "<div id=\"map\"></div>\n"

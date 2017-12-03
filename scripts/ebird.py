@@ -68,8 +68,8 @@ def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area,
         for action, elem in context:
             if elem.tag == "loc-name":
                 location = elem.text.rstrip()
-			if elem.tag == "location-private":
-			    location = "private"
+            if elem.tag == "location-private":
+                location = "private"
             if elem.tag == "how-many":
                 number = elem.text
             if elem.tag == "com-name":
@@ -87,7 +87,7 @@ def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area,
                 source = "<a target=\"_blank\" href=\"" + url + "\">ebird.org</a>"
                 try: ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
                 except:
-				    number = "x"
+                    number = "x"
                     ebirdTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
             if elem.getparent() is None: break #fix for bug 1185701
     #xmlsource.close()
