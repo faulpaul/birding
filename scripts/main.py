@@ -46,6 +46,7 @@ config = ConfigParser()
 config.read("/scripts/birding.ini")
 path = config.get('SectionGeneral', 'path')
 fileCSS  = config.get('SectionGeneral', 'fileCSS')
+googleAPI = config.get('SectionGeneral', 'googleAPI')
 ornithodeuser = config.get('SectionOrnithode', 'user')
 ornithodepass = config.get('SectionOrnithode', 'pass')
 ebirduser = config.get('SectionEbird', 'user')
@@ -77,33 +78,33 @@ def main():
     targetsGermany = ebirdGetArea("7", "DE", "country", "DE", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist
     targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
     targetsGermany += othusGetSightings(7) #time
-    writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS)
+    writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
 
     ############ Austria from ebird & ornitho.at
     targetsAustria = ebirdGetArea("7", "AT", "country", "AT", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist
     targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
-    writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS)
+    writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird
     targetsEurope = []
     for country in europe:
         targetsEurope += ebirdGetArea("7", country, "country", "eur", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)
         #time in days, area, lifelist BOSNIEN
-    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS)
+    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
 
     ############ Oman, Israel, Egypth from ebird
     targetsOman = ebirdGetArea("7", "OM", "country", "world", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist OMAN
-    writeData(targetsOman, "20.83", "56.89", "7", "omanJS.js", "oman.html", path, fileCSS)
+    writeData(targetsOman, "20.83", "56.89", "7", "omanJS.js", "oman.html", path, fileCSS, googleAPI)
     targetsIsrael = ebirdGetArea("7", "IL", "country", "world", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist ISRAEL
-    writeData(targetsIsrael, "31.76", "35.21", "7", "israelJS.js", "israel.html", path, fileCSS)
+    writeData(targetsIsrael, "31.76", "35.21", "7", "israelJS.js", "israel.html", path, fileCSS, googleAPI)
     targetsEgypt = ebirdGetArea("7", "EG", "country", "world", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist ISRAEL
-    writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS)
+    writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS, googleAPI)
 
     ############ USA  from ebird
     targetsUSA = ebirdGetArea("7", "US-NV", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEVADA
     targetsUSA += ebirdGetArea("7", "US-CA", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist CALIFORNIA
     #targetsUSA += ebirdGetArea("7", "US-TX", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist TEXAS
-    writeData(targetsUSA, "36.18", "-115,33", "7", "usaJS.js", "usa.html", path, fileCSS)
+    writeData(targetsUSA, "36.18", "-115,33", "7", "usaJS.js", "usa.html", path, fileCSS, googleAPI)
 
 if __name__ == "__main__":
     main()

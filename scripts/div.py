@@ -15,13 +15,15 @@ import time
 #                                  #
 ####################################
 
-def writeData(targets, maplat, maplng, zoomset, filenameJS, filenameHTML, path, fileCSS):
-    #draw map
-    contentmap = buildMap(targets, maplat, maplng, zoomset)
-    writeFile(contentmap ,path + filenameJS)
-    # write HTML file
-    contenthtml = buildHTMLpage(targets, fileCSS, filenameJS)
-    writeFile(contenthtml, path + filenameHTML)
+def writeData(targets, maplat, maplng, zoomset, filenameJS, filenameHTML, path, fileCSS, googleAPI):
+    #check if there are any sightings
+	if targets: 
+	    #draw map
+        contentmap = buildMap(targets, maplat, maplng, zoomset)
+        writeFile(contentmap ,path + filenameJS)
+        # write HTML file
+        contenthtml = buildHTMLpage(targets, fileCSS, filenameJS, googleAPI)
+        writeFile(contenthtml, path + filenameHTML)
 
 def writeFile(content, filename):
     file = open(filename, "w")
@@ -39,7 +41,7 @@ def buildMap(targetlist, maplat, maplng, zoomset):
     birdVar += "];"
     return birdVar
 
-def buildHTMLpage(targetlist,fileCSS,fileJS):
+def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source = "<html><head>\n"
     source += "<title>Automatic generated sightings page</title>\n"
     source += "<link rel=\"stylesheet\" href=\"" + fileCSS + "\">\n"
@@ -48,7 +50,7 @@ def buildHTMLpage(targetlist,fileCSS,fileJS):
     source += "</head>\n"
     source += "<script src=\"sorttable.js\"></script>\n"
     source += "<script src=\"markerclusterer.js\" type=\"text/javascript\"></script>\n"
-    source += "<script src=\"https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDeIg57NgZuq8MA_5TsLuOVAyhI1Vpnq5k\" type=\"text/javascript\"></script>\n"
+    source += "<script src=\"https://maps.googleapis.com/maps/api/js?v=3.exp&key=" + googleAPI + " type=\"text/javascript\"></script>\n"
     source += "<div class=\"date\">File generated: " + time.strftime("%Y/%m/%d @ %H:%M:%S") + "</div>\n"
     source += "<body id=birding><div id=header>All relevant sightings in your area:</div>\n"
     source += "<div id=\"map\"></div>\n"

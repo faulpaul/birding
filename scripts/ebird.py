@@ -68,6 +68,8 @@ def ebirdGetSightings(ebirdRelevantSpecies, ebirdlistallsightings, region, area,
         for action, elem in context:
             if elem.tag == "loc-name":
                 location = elem.text.rstrip()
+			if elem.tag == "location-private":
+			    location = "private"
             if elem.tag == "how-many":
                 number = elem.text
             if elem.tag == "com-name":

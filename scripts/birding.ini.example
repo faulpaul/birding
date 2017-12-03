@@ -1,7 +1,8 @@
 ####### Example ini File for birding script ############
 [SectionGeneral]
 fileCSS:paul.css
-path:app
+path:/app/
+goohleAPI:{google maps API key} 
 
 [SectionOrnithode]
 user:{ornitho.de user}
