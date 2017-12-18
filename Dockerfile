@@ -11,4 +11,4 @@ RUN ln -fs /usr/share/zoneinfo/Europe/Berlin /etc/localtime && dpkg-reconfigure 
 RUN sed -i "$ d" /etc/crontab
 RUN echo "15 *    * * *   root    cd /scripts/ && python3 main.py" >> /etc/crontab
 RUN echo "#"  >> /etc/crontab
-ENTRYPOINT /etc/init.d/cron start
+RUN /etc/init.d/cron start
