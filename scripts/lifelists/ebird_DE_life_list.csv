@@ -1,259 +1,260 @@
 Row #,Species,Count,Location,S/P,Date,LocID,SubID
-1,Greater Rhea - Rhea americana,20,Nandus,DE-MV,25 Jun 2016,L4740805,S30414348
-2,Streifengans - Anser indicus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
-3,Ross-Schneegans - Anser rossii,2,Ismaninger Speichersee,DE-BY,01 Nov 2015,L1514846,S28058173
-4,Graugans - Anser anser,2,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-5,Blässgans - Anser albifrons,20,Rambin,DE-MV,16 Jan 2016,L4348483,S28040650
-6,Waldsaatgans - Anser fabalis,10,Rambin,DE-MV,16 Jan 2016,L4348483,S28040650
-7,Tundrasaatgans - Anser serrirostris,8,Illerstausee,DE-BY,27 Dec 2016,L5192738,S33284109
-8,Ringelgans - Branta bernicla,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-9,Weiβwangengans - Branta leucopsis,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-10,Kanadagans - Branta canadensis,40,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-11,Höckerschwan - Cygnus olor,1,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-12,Trauerschwan - Cygnus atratus,1,Ismaninger Speichersee,DE-BY,24 Jul 2017,L1514846,S38313717
-13,Pfeifschwan/Zwergschwan - Cygnus columbianus,1,Bodensee--Eriskircher Ried,DE-BW,14 Nov 2015,L2111946,S28157108
-14,Singschwan - Cygnus cygnus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-15,Nilgans - Alopochen aegyptiaca,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-16,Rostgans - Tadorna ferruginea,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-17,Brandgans - Tadorna tadorna,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-18,Wood Duck - Aix sponsa,8,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-19,Mandarinente - Aix galericulata,30,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-20,Knäkente - Spatula querquedula,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-21,Löffelente - Spatula clypeata,8,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-22,Schnatterente - Mareca strepera,8,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-23,Pfeifente - Mareca penelope,1,Ismaninger Speichersee,DE-BY,13 Sep 2015,L1514846,S28092509
-24,Stockente - Anas platyrhynchos,8,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-25,Spieβente - Anas acuta,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-26,Krickente (Eurasisch und Amerikanisch) - Anas crecca,6,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
-27,Kolbenente - Netta rufina,4,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-28,Tafelente - Aythya ferina,200,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-29,Moorente - Aythya nyroca,3,Chiemsee--southwest,DE-BY,01 Oct 2016,L962335,S31848982
-30,Reiherente - Aythya fuligula,200,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-31,Bergente - Aythya marila,60,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
-32,Eiderente - Somateria mollissima,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-33,Samtente - Melanitta fusca,1,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
-34,Trauerente - Melanitta nigra,1,Starnberger See--Seeshaupt,DE-BY,06 Dec 2015,L1304836,S28157104
-35,Eisente - Clangula hyemalis,2,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
-36,Schellente - Bucephala clangula,45,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-37,Zwergsäger - Mergellus albellus,1,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
-38,Gänsesäger - Mergus merganser,4,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-39,Mittelsäger - Mergus serrator,2,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
-40,Wachtel - Coturnix coturnix,2,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
-41,Jagdfasan - Phasianus colchicus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-42,Birkhuhn - Tetrao tetrix,2,Wank,DE-BY,03 Apr 2016,L4355037,S28719804
-43,Alpenschneehuhn - Lagopus muta,1,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
-44,Sterntaucher - Gavia stellata,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-45,Prachttaucher - Gavia arctica,18,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-46,Eistaucher - Gavia immer,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-47,Zwergtaucher - Tachybaptus ruficollis,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-48,Ohrentaucher - Podiceps auritus,1,Starnberger See - südlicher Teil,DE-BY,26 Dec 2016,L4314686,S33208029
-49,Rothalstaucher - Podiceps grisegena,1,Starnberger See - südlicher Teil,DE-BY,30 Dec 2015,L4314686,S28157092
-50,Haubentaucher - Podiceps cristatus,8,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-51,Schwarzhalstaucher - Podiceps nigricollis,3,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
-52,Chilean Flamingo - Phoenicopterus chilensis,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
-53,Rosaflamingo - Phoenicopterus roseus,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
-54,Schwarzstorch - Ciconia nigra,1,Marnbach,DE-BY,05 Sep 2015,L4384378,S28228457
-55,Weiβstorch - Ciconia ciconia,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-56,Zwergscharbe - Microcarbo pygmeus,1,Illerstausee,DE-BY,27 Dec 2016,L5192738,S33284109
-57,Kormoran - Phalacrocorax carbo,2,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-58,Rohrdommel - Botaurus stellaris,1,Maisinger See refuge,DE-BY,27 Feb 2016,L976292,S27841351
-59,Graureiher - Ardea cinerea,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-60,Purpurreiher - Ardea purpurea,2,Abtorfung W Neuried,DE-BY,28 May 2017,L5901398,S37226955
-61,Silberreiher - Ardea alba,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-62,Seidenreiher - Egretta garzetta,1,Chiemsee--Hirschauer Bucht,DE-BY,06 Sep 2015,L2299294,S28228451
-63,Rallenreiher - Ardeola ralloides,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,25 May 2017,L942914,S37226904
-64,Nachtreiher - Nycticorax nycticorax,2,Echinger Stausee,DE-BY,06 May 2017,L4296672,S36614476
-65,Heiliger Ibis - Threskiornis aethiopicus,1,Ismaninger Speichersee,DE-BY,13 Sep 2015,L1514846,S28092509
-66,Waldrapp - Geronticus eremita,12,Burghausen,DE-BY,18 Jun 2016,L4718359,S30313398
-67,Löffler - Platalea leucorodia,5,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-68,Fischadler - Pandion haliaetus,2,Gülper See,DE-BB,15 Apr 2016,L2381953,S28988630
-69,Wespenbussard - Pernis apivorus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-70,Schlangenadler - Circaetus gallicus,1,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
-71,Steinadler - Aquila chrysaetos,1,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
-72,Rohrweihe - Circus aeruginosus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-73,Kornweihe - Circus cyaneus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
-74,Wiesenweihe - Circus pygargus,,Wiesenweihengebiet,DE-BY,21 May 2016,L4631884,S29853383
-75,Sperber - Accipiter nisus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
-76,Habicht - Accipiter gentilis,1,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
-77,Rotmilan - Milvus milvus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-78,Schwarzmilan - Milvus migrans,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-79,Seeadler - Haliaeetus albicilla,13,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
-80,Raufuβbussard - Buteo lagopus,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
-81,Mäusebussard - Buteo buteo,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-82,Groβtrappe - Otis tarda,18,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
-83,Wachtelkönig - Crex crex,5,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
-84,Wasserralle - Rallus aquaticus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-85,Tüpfelsumpfhuhn - Porzana porzana,1,Kochelmoos,DE-BY,05 Jun 2017,L4421087,S37418866
-86,Kleines Sumpfhuhn - Zapornia parva,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-87,Teichhuhn - Gallinula chloropus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
-88,Blässhuhn - Fulica atra,400,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-89,Kranich - Grus grus,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
-90,Stelzenläufer - Himantopus himantopus,2,Ismaninger Speichersee,DE-BY,20 May 2016,L1514846,S29830183
-91,Säbelschnäbler - Recurvirostra avosetta,4,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-92,Austernfischer - Haematopus ostralegus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-93,Kiebitzregenpfeifer - Pluvialis squatarola,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-94,Goldregenpfeifer - Pluvialis apricaria,,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
-95,Kiebitz - Vanellus vanellus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-96,Seeregenpfeifer - Charadrius alexandrinus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-97,Sandregenpfeifer - Charadrius hiaticula,,Insel Sylt--List,DE-SH,06 May 2016,L1033468,S29511751
-98,Flussregenpfeifer - Charadrius dubius,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
-99,Groβer Brachvogel - Numenius arquata,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-100,Pfuhlschnepfe - Limosa lapponica,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-101,Uferschnepfe - Limosa limosa,1,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
-102,Steinwälzer - Arenaria interpres,60,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-103,Knutt - Calidris canutus,,Insel Sylt--List,DE-SH,06 May 2016,L1033468,S29511751
-104,Kampfläufer - Calidris pugnax,4,Chiemsee--southwest,DE-BY,18 Sep 2016,L962335,S31656173
-105,Sanderling - Calidris alba,3,Sankt-Peter-Ording Strand ,DE-SH,24 Sep 2016,L4947398,S31745244
-106,Alpenstrandläufer - Calidris alpina,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-107,Zwergstrandläufer - Calidris minuta,2,Ismaninger Speichersee,DE-BY,03 Sep 2017,L1514846,S39188562
-108,Waldschnepfe - Scolopax rusticola,3,Grafenaschau,DE-BY,13 Apr 2016,L4485443,S28935697
-109,Bekassine - Gallinago gallinago,3,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
-110,Odinshühnchen - Phalaropus lobatus,1,Chiemsee--southwest,DE-BY,18 Sep 2016,L962335,S31656173
-111,Flussuferläufer - Actitis hypoleucos,4,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-112,Waldwasserläufer - Tringa ochropus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
-113,Dunkler Wasserläufer - Tringa erythropus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-114,Grünschenkel - Tringa nebularia,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
-115,Bruchwasserläufer - Tringa glareola,20,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
-116,Rotschenkel - Tringa totanus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-117,Schwalbenmöwe - Xema sabini,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
-118,Lachmöwe - Chroicocephalus ridibundus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-119,Zwergmöwe - Hydrocoloeus minutus,1,"Königshafen, Uthörn",DE-SH,07 May 2016,L4428404,S29510305
-120,Schwarzkopfmöwe - Ichthyaetus melanocephalus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-121,Sturmmöwe - Larus canus,,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
-122,Silbermöwe/Kanadamöwe - Larus argentatus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-123,Mittelmeermöwe - Larus michahellis,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-124,Steppenmöwe - Larus cachinnans,1,Bodensee--Eriskircher Ried,DE-BW,14 Nov 2015,L2111946,S28157108
-125,Heringsmöwe - Larus fuscus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-126,Mantelmöwe - Larus marinus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-127,Zwergseeschwalbe - Sternula albifrons,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-128,Lachseeschwalbe - Gelochelidon nilotica,3,Neufeld Hafen,DE-SH,05 May 2016,L4425622,S29510009
-129,Raubseeschwalbe - Hydroprogne caspia,1,Ismaninger Speichersee,DE-BY,03 Sep 2017,L1514846,S39188562
-130,Trauerseeschwalbe - Chlidonias niger,6,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
-131,Weiβbart-Seeschwalbe - Chlidonias hybrida,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Jun 2017,L942914,S37396576
-132,Fluβseeschwalbe - Sterna hirundo,3,Bernried,DE-BY,02 May 2015,L4384400,S28228546
-133,Küstenseeschwalbe - Sterna paradisaea,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-134,Brandseeschwalbe - Thalasseus sandvicensis,2,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
-135,Felsentaube/Stra§entaube - Columba livia,2,Park Roseninsel,DE-BY,27 Feb 2016,L4314419,S27841418
-136,Hohltaube - Columba oenas,1,Bauerbach,DE-BY,14 Sep 2015,L4384375,S28228448
-137,Ringeltaube - Columba palumbus,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-138,Türkentaube - Streptopelia decaocto,3,"Oberes Steinach, Buehl",DE-BW,21 Oct 2015,L1117084,S28228424
-139,Kuckuck - Cuculus canorus,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-140,Uhu - Bubo bubo,1,Auweiher und Umgebug,DE-BY,06 Feb 2016,L4348474,S28040619
-141,Sperlingskauz - Glaucidium passerinum,1,Eibsee,DE-BY,16 Mar 2016,L962982,S28247877
-142,Waldkauz - Strix aluco,1,Auweiher und Umgebug,DE-BY,06 Feb 2016,L4348474,S28040619
-143,Waldohreule - Asio otus,7,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-144,Ziegenmelker - Caprimulgus europaeus,2,Forest Tennenlohe,DE-BY,21 May 2016,L2832195,S29853397
-145,Mauersegler - Apus apus,7,Bernried,DE-BY,05 May 2015,L4384400,S28228527
-146,Wiedehopf - Upupa epops,1,Döberitzer Heide,DE-BB,16 Apr 2016,L2433086,S28989050
-147,Eisvogel - Alcedo atthis,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-148,Wendehals - Jynx torquilla,1,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-149,Kleinspecht - Dendrocopos minor,2,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
-150,Mittelspecht - Dendrocopos medius,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,01 Nov 2016,L942914,S32325062
-151,Weiβrückenspecht - Dendrocopos leucotos,3,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
-152,Buntspecht - Dendrocopos major,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-153,Dreizehenspecht - Picoides tridactylus,2,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
-154,Schwarzspecht - Dryocopus martius,1,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
-155,Grünspecht - Picus viridis,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-156,Grauspecht - Picus canus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-157,Turmfalke - Falco tinnunculus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-158,Rotfuβfalke - Falco vespertinus,2,Ismaninger Speichersee,DE-BY,06 May 2017,L1514846,S36614723
-159,Baumfalke - Falco subbuteo,4,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
-160,Wanderfalke - Falco peregrinus,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-161,Gelbkopfamazone - Amazona oratrix,8,Rosensteinpark,DE-BW,16 Jun 2016,L4421051,S30265151
-162,Neuntöter - Lanius collurio,1,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
-163,Raubwürger - Lanius excubitor,1,Maisinger See refuge,DE-BY,09 Jan 2016,L976292,S28228565
-164,Pirol - Oriolus oriolus,1,Ismaninger Speichersee,DE-BY,15 May 2016,L1514846,S29725570
-165,Eichelhäher - Garrulus glandarius,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-166,Elster - Pica pica,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-167,Tannenhäher - Nucifraga caryocatactes,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,15 Aug 2015,L942914,S28228476
-168,Alpendohle - Pyrrhocorax graculus,1,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-169,Dohle - Corvus monedula,10,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
-170,Saatkrähe - Corvus frugilegus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
-171,Rabenkrähe - Corvus corone,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-172,Nebelkrähe - Corvus cornix,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-173,Kolkrabe - Corvus corax,6,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-174,Bartmeise - Panurus biarmicus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-175,Heidelerche - Lullula arborea,3,Forest Tennenlohe,DE-BY,21 May 2016,L2832195,S29853397
-176,Feldlerche - Alauda arvensis,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
-177,Haubenlerche - Galerida cristata,2,Naturpark Westhavelland - Großer Graben-Niederung und Umgebung,DE-BB,16 Apr 2016,L3050511,S28988676
-178,Uferschwalbe - Riparia riparia,2,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
-179,Felsenschwalbe - Ptyonoprogne rupestris,2,Falkenwand,DE-BY,13 Jun 2015,L4420894,S28228489
-180,Rauchschwalbe - Hirundo rustica,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
-181,Mehlschwalbe - Delichon urbicum,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
-182,Tannenmeise - Periparus ater,2,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
-183,Haubenmeise - Lophophanes cristatus,,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
-184,Sumpfmeise - Poecile palustris,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-185,Weidenmeise - Poecile montanus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-186,Blaumeise - Cyanistes caeruleus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-187,Kohlmeise - Parus major,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-188,Beutelmeise - Remiz pendulinus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 Oct 2016,L942914,S31961555
-189,Schwanzmeise - Aegithalos caudatus,6,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-190,Kleiber - Sitta europaea,2,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
-191,Mauerläufer - Tichodroma muraria,1,Falkenwand,DE-BY,11 Jun 2017,L4420894,S37621009
-192,Waldbaumläufer - Certhia familiaris,1,Bernried,DE-BY,02 May 2015,L4384400,S28228546
-193,Gartenbaumläufer - Certhia brachydactyla,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-194,Zaunkönig - Troglodytes troglodytes,1,Park Roseninsel,DE-BY,27 Feb 2016,L4314419,S27841418
-195,Wasseramsel - Cinclus cinclus,1,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
-196,Wintergoldhähnchen - Regulus regulus,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-197,Sommergoldhähnchen - Regulus ignicapilla,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-198,Fitis - Phylloscopus trochilus,5,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-199,Zilpzalp - Phylloscopus collybita,1,Bernried,DE-BY,02 May 2015,L4384400,S28228546
-200,Berglaubsänger - Phylloscopus bonelli,2,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-201,Waldlaubsänger - Phylloscopus sibilatrix,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-202,Gelbspötter - Hippolais icterina,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-203,Schilfrohrsänger - Acrocephalus schoenobaenus,10,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-204,Sumpfrohrsänger - Acrocephalus palustris,2,zwischen Ähndl und Lindenbach-Brücke,DE-BY,22 May 2017,L4467952,S37058313
-205,Teichrohrsänger - Acrocephalus scirpaceus,3,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-206,Drosselrohrsänger - Acrocephalus arundinaceus,1,Abtorfung W Neuried,DE-BY,28 May 2017,L5901398,S37226955
-207,Rohrschwirl - Locustella luscinioides,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-208,Feldschwirl - Locustella naevia,2,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
-209,Mönchsgrasmücke - Sylvia atricapilla,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-210,Gartengrasmücke - Sylvia borin,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-211,Klappergrasmücke - Sylvia curruca,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
-212,Dorngrasmücke - Sylvia communis,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-213,Grauschnäpper - Muscicapa striata,2,Schwaiganger,DE-BY,02 Aug 2015,L4384383,S28228485
-214,Rotkehlchen - Erithacus rubecula,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-215,Nachtigall - Luscinia megarhynchos,,Wiesenweihengebiet,DE-BY,21 May 2016,L4631884,S29853383
-216,Blaukehlchen - Luscinia svecica,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 Oct 2016,L942914,S31961555
-217,Zwergschnäpper - Ficedula parva,1,Walchenseekraftwerk,DE-BY,03 Jun 2017,L5901392,S37375167
-218,Trauerschnäpper - Ficedula hypoleuca,1,Linderhof,DE-BY,11 Jun 2017,L5981275,S37620972
-219,Halsbandschnäpper - Ficedula albicollis,2,Schleifermosach östlich Freising,DE-BY,15 May 2016,L4451541,S29725556
-220,Gartenrotschwanz - Phoenicurus phoenicurus,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
-221,Hausrotschwanz - Phoenicurus ochruros,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-222,Braunkehlchen - Saxicola rubetra,8,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
-223,Schwarzkehlchen - Saxicola rubicola,1,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
-224,Steinschmätzer - Oenanthe oenanthe,2,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
-225,Ringdrossel - Turdus torquatus,2,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-226,Amsel - Turdus merula,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-227,Wacholderdrossel - Turdus pilaris,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-228,Singdrossel - Turdus philomelos,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
-229,Misteldrossel - Turdus viscivorus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-230,Star - Sturnus vulgaris,30,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
-231,Alpenbraunelle - Prunella collaris,2,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
-232,Heckenbraunelle - Prunella modularis,1,Notkarspitze,DE-BY,04 Jun 2015,L4384394,S28228498
-233,Wiesenschafstelze - Motacilla flava,4,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
-234,Gebirgsstelze - Motacilla cinerea,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
-235,Bachstelze - Motacilla alba,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-236,Wiesenpieper - Anthus pratensis,,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
-237,Baumpieper - Anthus trivialis,4,Klammspitze,DE-BY,05 Aug 2015,L4384386,S28228481
-238,Bergpieper - Anthus spinoletta,,Wank,DE-BY,03 Jul 2016,L4355037,S30518983
-239,Goldammer - Emberiza citrinella,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
-240,Ortolan - Emberiza hortulana,1,Ortolanfläche,DE-BY,21 May 2016,L4631880,S29853380
-241,Rohrammer - Emberiza schoeniclus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
-242,Grauammer - Emberiza calandra,,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+1,Ringschnabelente - Aythya collaris,1,Ismaninger Speichersee,DE-BY,18 Dec 2017,L1514846,S41176398
+2,Zwergstrandläufer - Calidris minuta,2,Ismaninger Speichersee,DE-BY,03 Sep 2017,L1514846,S39188562
+3,Raubseeschwalbe - Hydroprogne caspia,1,Ismaninger Speichersee,DE-BY,03 Sep 2017,L1514846,S39188562
+4,Trauerschwan - Cygnus atratus,1,Ismaninger Speichersee,DE-BY,24 Jul 2017,L1514846,S38313717
+5,Mauerläufer - Tichodroma muraria,1,Falkenwand,DE-BY,11 Jun 2017,L4420894,S37621009
+6,Trauerschnäpper - Ficedula hypoleuca,1,Linderhof,DE-BY,11 Jun 2017,L5981275,S37620972
+7,Tüpfelsumpfhuhn - Porzana porzana,1,Kochelmoos,DE-BY,05 Jun 2017,L4421087,S37418866
+8,Weiβbart-Seeschwalbe - Chlidonias hybrida,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Jun 2017,L942914,S37396576
+9,Zwergschnäpper - Ficedula parva,1,Walchenseekraftwerk,DE-BY,03 Jun 2017,L5901392,S37375167
+10,Purpurreiher - Ardea purpurea,2,Abtorfung W Neuried,DE-BY,28 May 2017,L5901398,S37226955
+11,Drosselrohrsänger - Acrocephalus arundinaceus,1,Abtorfung W Neuried,DE-BY,28 May 2017,L5901398,S37226955
+12,Rallenreiher - Ardeola ralloides,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,25 May 2017,L942914,S37226904
+13,Sumpfrohrsänger - Acrocephalus palustris,2,zwischen Ähndl und Lindenbach-Brücke,DE-BY,22 May 2017,L4467952,S37058313
+14,Alpenbirkenzeisig - Acanthis cabaret,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,12 May 2017,L942914,S36765685
+15,Rotfuβfalke - Falco vespertinus,2,Ismaninger Speichersee,DE-BY,06 May 2017,L1514846,S36614723
+16,Nachtreiher - Nycticorax nycticorax,2,Echinger Stausee,DE-BY,06 May 2017,L4296672,S36614476
+17,Tundrasaatgans - Anser serrirostris,8,Illerstausee,DE-BY,27 Dec 2016,L5192738,S33284109
+18,Zwergscharbe - Microcarbo pygmeus,1,Illerstausee,DE-BY,27 Dec 2016,L5192738,S33284109
+19,Ohrentaucher - Podiceps auritus,1,Starnberger See - südlicher Teil,DE-BY,26 Dec 2016,L4314686,S33208029
+20,Mittelspecht - Dendrocopos medius,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,01 Nov 2016,L942914,S32325062
+21,Girlitz - Serinus serinus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,30 Oct 2016,L942914,S32308389
+22,Beutelmeise - Remiz pendulinus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 Oct 2016,L942914,S31961555
+23,Blaukehlchen - Luscinia svecica,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 Oct 2016,L942914,S31961555
+24,Moorente - Aythya nyroca,3,Chiemsee--southwest,DE-BY,01 Oct 2016,L962335,S31848982
+25,Sanderling - Calidris alba,3,Sankt-Peter-Ording Strand ,DE-SH,24 Sep 2016,L4947398,S31745244
+26,Kampfläufer - Calidris pugnax,4,Chiemsee--southwest,DE-BY,18 Sep 2016,L962335,S31656173
+27,Odinshühnchen - Phalaropus lobatus,1,Chiemsee--southwest,DE-BY,18 Sep 2016,L962335,S31656173
+28,Bergpieper - Anthus spinoletta,,Wank,DE-BY,03 Jul 2016,L4355037,S30518983
+29,Zitronenzeisig - Carduelis citrinella,4,Wank,DE-BY,03 Jul 2016,L4355037,S30518983
+30,Greater Rhea - Rhea americana,20,Nandus,DE-MV,25 Jun 2016,L4740805,S30414348
+31,Waldrapp - Geronticus eremita,12,Burghausen,DE-BY,18 Jun 2016,L4718359,S30313398
+32,Gelbkopfamazone - Amazona oratrix,8,Rosensteinpark,DE-BW,16 Jun 2016,L4421051,S30265151
+33,Ziegenmelker - Caprimulgus europaeus,2,Forest Tennenlohe,DE-BY,21 May 2016,L2832195,S29853397
+34,Heidelerche - Lullula arborea,3,Forest Tennenlohe,DE-BY,21 May 2016,L2832195,S29853397
+35,Ortolan - Emberiza hortulana,1,Ortolanfläche,DE-BY,21 May 2016,L4631880,S29853380
+36,Wiesenweihe - Circus pygargus,,Wiesenweihengebiet,DE-BY,21 May 2016,L4631884,S29853383
+37,Nachtigall - Luscinia megarhynchos,,Wiesenweihengebiet,DE-BY,21 May 2016,L4631884,S29853383
+38,Stelzenläufer - Himantopus himantopus,2,Ismaninger Speichersee,DE-BY,20 May 2016,L1514846,S29830183
+39,Pirol - Oriolus oriolus,1,Ismaninger Speichersee,DE-BY,15 May 2016,L1514846,S29725570
+40,Halsbandschnäpper - Ficedula albicollis,2,Schleifermosach östlich Freising,DE-BY,15 May 2016,L4451541,S29725556
+41,Zwergmöwe - Hydrocoloeus minutus,1,"Königshafen, Uthörn",DE-SH,07 May 2016,L4428404,S29510305
+42,Sandregenpfeifer - Charadrius hiaticula,,Insel Sylt--List,DE-SH,06 May 2016,L1033468,S29511751
+43,Knutt - Calidris canutus,,Insel Sylt--List,DE-SH,06 May 2016,L1033468,S29511751
+44,Lachseeschwalbe - Gelochelidon nilotica,3,Neufeld Hafen,DE-SH,05 May 2016,L4425622,S29510009
+45,Wiedehopf - Upupa epops,1,Döberitzer Heide,DE-BB,16 Apr 2016,L2433086,S28989050
+46,Haubenlerche - Galerida cristata,2,Naturpark Westhavelland - Großer Graben-Niederung und Umgebung,DE-BB,16 Apr 2016,L3050511,S28988676
+47,Raufuβbussard - Buteo lagopus,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+48,Groβtrappe - Otis tarda,18,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+49,Kranich - Grus grus,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+50,Klappergrasmücke - Sylvia curruca,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+51,Gartenrotschwanz - Phoenicurus phoenicurus,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+52,Grauammer - Emberiza calandra,,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+53,Fischadler - Pandion haliaetus,2,Gülper See,DE-BB,15 Apr 2016,L2381953,S28988630
+54,Waldschnepfe - Scolopax rusticola,3,Grafenaschau,DE-BY,13 Apr 2016,L4485443,S28935697
+55,Birkhuhn - Tetrao tetrix,2,Wank,DE-BY,03 Apr 2016,L4355037,S28719804
+56,Sperlingskauz - Glaucidium passerinum,1,Eibsee,DE-BY,16 Mar 2016,L962982,S28247877
+57,Dreizehenspecht - Picoides tridactylus,2,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
+58,Tannenmeise - Periparus ater,2,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
+59,Haubenmeise - Lophophanes cristatus,,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
+60,Wasseramsel - Cinclus cinclus,1,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
+61,Felsentaube/Stra§entaube - Columba livia,2,Park Roseninsel,DE-BY,27 Feb 2016,L4314419,S27841418
+62,Zaunkönig - Troglodytes troglodytes,1,Park Roseninsel,DE-BY,27 Feb 2016,L4314419,S27841418
+63,Rohrdommel - Botaurus stellaris,1,Maisinger See refuge,DE-BY,27 Feb 2016,L976292,S27841351
+64,Uhu - Bubo bubo,1,Auweiher und Umgebug,DE-BY,06 Feb 2016,L4348474,S28040619
+65,Waldkauz - Strix aluco,1,Auweiher und Umgebug,DE-BY,06 Feb 2016,L4348474,S28040619
+66,Bergente - Aythya marila,60,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
+67,Samtente - Melanitta fusca,1,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
+68,Seeadler - Haliaeetus albicilla,13,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
+69,Sturmmöwe - Larus canus,,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
+70,Blässgans - Anser albifrons,20,Rambin,DE-MV,16 Jan 2016,L4348483,S28040650
+71,Waldsaatgans - Anser fabalis,10,Rambin,DE-MV,16 Jan 2016,L4348483,S28040650
+72,Eisente - Clangula hyemalis,2,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
+73,Zwergsäger - Mergellus albellus,1,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
+74,Mittelsäger - Mergus serrator,2,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
+75,Raubwürger - Lanius excubitor,1,Maisinger See refuge,DE-BY,09 Jan 2016,L976292,S28228565
+76,Rothalstaucher - Podiceps grisegena,1,Starnberger See - südlicher Teil,DE-BY,30 Dec 2015,L4314686,S28157092
+77,Trauerente - Melanitta nigra,1,Starnberger See--Seeshaupt,DE-BY,06 Dec 2015,L1304836,S28157104
+78,Pfeifschwan/Zwergschwan - Cygnus columbianus,1,Bodensee--Eriskircher Ried,DE-BW,14 Nov 2015,L2111946,S28157108
+79,Steppenmöwe - Larus cachinnans,1,Bodensee--Eriskircher Ried,DE-BW,14 Nov 2015,L2111946,S28157108
+80,Ross-Schneegans - Anser rossii,2,Ismaninger Speichersee,DE-BY,01 Nov 2015,L1514846,S28058173
+81,Türkentaube - Streptopelia decaocto,3,"Oberes Steinach, Buehl",DE-BW,21 Oct 2015,L1117084,S28228424
+82,Hohltaube - Columba oenas,1,Bauerbach,DE-BY,14 Sep 2015,L4384375,S28228448
+83,Pfeifente - Mareca penelope,1,Ismaninger Speichersee,DE-BY,13 Sep 2015,L1514846,S28092509
+84,Heiliger Ibis - Threskiornis aethiopicus,1,Ismaninger Speichersee,DE-BY,13 Sep 2015,L1514846,S28092509
+85,Seidenreiher - Egretta garzetta,1,Chiemsee--Hirschauer Bucht,DE-BY,06 Sep 2015,L2299294,S28228451
+86,Krickente (Eurasisch und Amerikanisch) - Anas crecca,6,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
+87,Flussregenpfeifer - Charadrius dubius,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
+88,Grünschenkel - Tringa nebularia,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
+89,Schwarzstorch - Ciconia nigra,1,Marnbach,DE-BY,05 Sep 2015,L4384378,S28228457
+90,Tannenhäher - Nucifraga caryocatactes,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,15 Aug 2015,L942914,S28228476
+91,Chilean Flamingo - Phoenicopterus chilensis,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+92,Rosaflamingo - Phoenicopterus roseus,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+93,Bruchwasserläufer - Tringa glareola,20,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+94,Schwalbenmöwe - Xema sabini,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+95,Trauerseeschwalbe - Chlidonias niger,6,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+96,Gebirgsstelze - Motacilla cinerea,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+97,Baumpieper - Anthus trivialis,4,Klammspitze,DE-BY,05 Aug 2015,L4384386,S28228481
+98,Grauschnäpper - Muscicapa striata,2,Schwaiganger,DE-BY,02 Aug 2015,L4384383,S28228485
+99,Streifengans - Anser indicus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+100,Schwarzhalstaucher - Podiceps nigricollis,3,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+101,Teichhuhn - Gallinula chloropus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+102,Waldwasserläufer - Tringa ochropus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+103,Wiesenschafstelze - Motacilla flava,4,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+104,Stieglitz - Carduelis carduelis,,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+105,Alpenschneehuhn - Lagopus muta,1,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+106,Steinadler - Aquila chrysaetos,1,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+107,Alpenbraunelle - Prunella collaris,2,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+108,Schneesperling - Montifringilla nivalis,6,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+109,Felsenschwalbe - Ptyonoprogne rupestris,2,Falkenwand,DE-BY,13 Jun 2015,L4420894,S28228489
+110,Wachtel - Coturnix coturnix,2,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+111,Kleinspecht - Dendrocopos minor,2,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+112,Schwarzspecht - Dryocopus martius,1,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+113,Schwarzkehlchen - Saxicola rubicola,1,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+114,Heckenbraunelle - Prunella modularis,1,Notkarspitze,DE-BY,04 Jun 2015,L4384394,S28228498
+115,Alpendohle - Pyrrhocorax graculus,1,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+116,Kolkrabe - Corvus corax,6,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+117,Sommergoldhähnchen - Regulus ignicapilla,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+118,Berglaubsänger - Phylloscopus bonelli,2,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+119,Waldlaubsänger - Phylloscopus sibilatrix,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+120,Ringdrossel - Turdus torquatus,2,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+121,Wacholderdrossel - Turdus pilaris,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+122,Fichtenkreuzschnabel - Loxia curvirostra,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+123,Habicht - Accipiter gentilis,1,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+124,Bekassine - Gallinago gallinago,3,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+125,Weiβrückenspecht - Dendrocopos leucotos,3,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+126,Baumfalke - Falco subbuteo,4,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+127,Karmingimpel - Carpodacus erythrinus,2,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+128,Schlangenadler - Circaetus gallicus,1,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+129,Wachtelkönig - Crex crex,5,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+130,Neuntöter - Lanius collurio,1,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+131,Feldschwirl - Locustella naevia,2,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+132,Kornweihe - Circus cyaneus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
+133,Sperber - Accipiter nisus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
+134,Dohle - Corvus monedula,10,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
+135,Saatkrähe - Corvus frugilegus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
+136,Goldregenpfeifer - Pluvialis apricaria,,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+137,Uferschnepfe - Limosa limosa,1,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+138,Brandseeschwalbe - Thalasseus sandvicensis,2,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+139,Uferschwalbe - Riparia riparia,2,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+140,Wiesenpieper - Anthus pratensis,,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+141,Grünling - Chloris chloris,1,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+142,Ringelgans - Branta bernicla,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+143,Weiβwangengans - Branta leucopsis,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+144,Eiderente - Somateria mollissima,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+145,Jagdfasan - Phasianus colchicus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+146,Löffler - Platalea leucorodia,5,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+147,Säbelschnäbler - Recurvirostra avosetta,4,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+148,Austernfischer - Haematopus ostralegus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+149,Kiebitzregenpfeifer - Pluvialis squatarola,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+150,Seeregenpfeifer - Charadrius alexandrinus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+151,Pfuhlschnepfe - Limosa lapponica,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+152,Steinwälzer - Arenaria interpres,60,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+153,Alpenstrandläufer - Calidris alpina,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+154,Dunkler Wasserläufer - Tringa erythropus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+155,Rotschenkel - Tringa totanus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+156,Silbermöwe/Kanadamöwe - Larus argentatus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+157,Heringsmöwe - Larus fuscus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+158,Mantelmöwe - Larus marinus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+159,Zwergseeschwalbe - Sternula albifrons,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+160,Küstenseeschwalbe - Sterna paradisaea,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+161,Wanderfalke - Falco peregrinus,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+162,Fitis - Phylloscopus trochilus,5,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+163,Schilfrohrsänger - Acrocephalus schoenobaenus,10,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+164,Teichrohrsänger - Acrocephalus scirpaceus,3,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+165,Dorngrasmücke - Sylvia communis,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+166,Steinschmätzer - Oenanthe oenanthe,2,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+167,Weiβstorch - Ciconia ciconia,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+168,Wespenbussard - Pernis apivorus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+169,Rohrweihe - Circus aeruginosus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+170,Schwarzmilan - Milvus migrans,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+171,Kiebitz - Vanellus vanellus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+172,Groβer Brachvogel - Numenius arquata,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+173,Schwarzkopfmöwe - Ichthyaetus melanocephalus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+174,Mittelmeermöwe - Larus michahellis,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+175,Waldohreule - Asio otus,7,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+176,Grauspecht - Picus canus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+177,Gelbspötter - Hippolais icterina,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+178,Rohrschwirl - Locustella luscinioides,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+179,Gartengrasmücke - Sylvia borin,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+180,Braunkehlchen - Saxicola rubetra,8,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+181,Mauersegler - Apus apus,7,Bernried,DE-BY,05 May 2015,L4384400,S28228527
+182,Haussperling - Passer domesticus,,Bernried,DE-BY,05 May 2015,L4384400,S28228527
+183,Fluβseeschwalbe - Sterna hirundo,3,Bernried,DE-BY,02 May 2015,L4384400,S28228546
+184,Waldbaumläufer - Certhia familiaris,1,Bernried,DE-BY,02 May 2015,L4384400,S28228546
+185,Zilpzalp - Phylloscopus collybita,1,Bernried,DE-BY,02 May 2015,L4384400,S28228546
+186,Feldlerche - Alauda arvensis,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
+187,Rauchschwalbe - Hirundo rustica,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
+188,Mehlschwalbe - Delichon urbicum,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
+189,Star - Sturnus vulgaris,30,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
+190,Bluthänfling - Linaria cannabina,2,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
+191,Rostgans - Tadorna ferruginea,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+192,Flussuferläufer - Actitis hypoleucos,4,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+193,Kuckuck - Cuculus canorus,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+194,Wendehals - Jynx torquilla,1,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+195,Mönchsgrasmücke - Sylvia atricapilla,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+196,Rotkehlchen - Erithacus rubecula,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+197,Hausrotschwanz - Phoenicurus ochruros,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+198,Bachstelze - Motacilla alba,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+199,Goldammer - Emberiza citrinella,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+200,Nilgans - Alopochen aegyptiaca,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+201,Brandgans - Tadorna tadorna,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+202,Knäkente - Spatula querquedula,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+203,Rotmilan - Milvus milvus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+204,Wasserralle - Rallus aquaticus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+205,Kleines Sumpfhuhn - Zapornia parva,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+206,Lachmöwe - Chroicocephalus ridibundus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+207,Eisvogel - Alcedo atthis,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+208,Bartmeise - Panurus biarmicus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+209,Weidenmeise - Poecile montanus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+210,Gartenbaumläufer - Certhia brachydactyla,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+211,Rohrammer - Emberiza schoeniclus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+212,Wood Duck - Aix sponsa,8,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+213,Mandarinente - Aix galericulata,30,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+214,Ringeltaube - Columba palumbus,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+215,Grünspecht - Picus viridis,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+216,Eichelhäher - Garrulus glandarius,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+217,Elster - Pica pica,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+218,Nebelkrähe - Corvus cornix,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+219,Wintergoldhähnchen - Regulus regulus,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+220,Singdrossel - Turdus philomelos,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+221,Graugans - Anser anser,2,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+222,Kanadagans - Branta canadensis,40,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+223,Höckerschwan - Cygnus olor,1,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+224,Schnatterente - Mareca strepera,8,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+225,Bergfink - Fringilla montifringilla,3,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+226,Kernbeiβer - Coccothraustes coccothraustes,1,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+227,Gimpel - Pyrrhula pyrrhula,4,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+228,Feldsperling - Passer montanus,,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+229,Singschwan - Cygnus cygnus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+230,Löffelente - Spatula clypeata,8,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+231,Spieβente - Anas acuta,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+232,Zwergtaucher - Tachybaptus ruficollis,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+233,Graureiher - Ardea cinerea,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+234,Silberreiher - Ardea alba,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+235,Mäusebussard - Buteo buteo,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+236,Buntspecht - Dendrocopos major,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+237,Turmfalke - Falco tinnunculus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+238,Rabenkrähe - Corvus corone,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+239,Blaumeise - Cyanistes caeruleus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+240,Kohlmeise - Parus major,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+241,Amsel - Turdus merula,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+242,Misteldrossel - Turdus viscivorus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
 243,Buchfink - Fringilla coelebs,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-244,Bergfink - Fringilla montifringilla,3,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-245,Kernbeiβer - Coccothraustes coccothraustes,1,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-246,Karmingimpel - Carpodacus erythrinus,2,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
-247,Gimpel - Pyrrhula pyrrhula,4,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-248,Grünling - Chloris chloris,1,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
-249,Bluthänfling - Linaria cannabina,2,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
-250,Alpenbirkenzeisig - Acanthis cabaret,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,12 May 2017,L942914,S36765685
-251,Fichtenkreuzschnabel - Loxia curvirostra,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
-252,Stieglitz - Carduelis carduelis,,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
-253,Zitronenzeisig - Carduelis citrinella,4,Wank,DE-BY,03 Jul 2016,L4355037,S30518983
-254,Girlitz - Serinus serinus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,30 Oct 2016,L942914,S32308389
-255,Erlenzeisig - Spinus spinus,10,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
-256,Haussperling - Passer domesticus,,Bernried,DE-BY,05 May 2015,L4384400,S28228527
-257,Feldsperling - Passer montanus,,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
-258,Schneesperling - Montifringilla nivalis,6,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+244,Erlenzeisig - Spinus spinus,10,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+245,Stockente - Anas platyrhynchos,8,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+246,Kolbenente - Netta rufina,4,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+247,Tafelente - Aythya ferina,200,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+248,Reiherente - Aythya fuligula,200,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+249,Schellente - Bucephala clangula,45,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+250,Gänsesäger - Mergus merganser,4,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+251,Sterntaucher - Gavia stellata,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+252,Prachttaucher - Gavia arctica,18,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+253,Eistaucher - Gavia immer,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+254,Haubentaucher - Podiceps cristatus,8,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+255,Kormoran - Phalacrocorax carbo,2,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+256,Blässhuhn - Fulica atra,400,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+257,Sumpfmeise - Poecile palustris,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+258,Schwanzmeise - Aegithalos caudatus,6,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+259,Kleiber - Sitta europaea,2,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
