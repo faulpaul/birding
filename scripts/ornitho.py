@@ -30,7 +30,7 @@ def dms2dec(dms_str):
     return sign * (int(degree) + float(minute) / 60 + float(second) / 3600 + float(frac_seconds) / 36000)
 
 # ornitho does not offer any API and the results are spread over several pages
-# the first function ist to get the data from each page
+# the first function will get the data from each page
 def OrnithoGetPage(s, dataurl):
     htmlsource = s.get(dataurl)
     return htmlsource
@@ -86,18 +86,9 @@ def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber
         pass
     return ornithoSpecies
 
-# the function is used to match all sightings againts the lifelist
-def OrnithoMatchSightings(ornitholifeList, ornithoSpecies):
-    ornithorelevantsightings = []
-    for j in ornitholifeList:
-        for i in ornithoSpecies:
-            if ((i[2] == j[1]) and (j[4] == False) and ("." not in i[2]) and ("?" not in i[2])):
-                ornithorelevantsightings.append(i)
-    return ornithorelevantsightings
-
 # the function reads the location for each relevant sighting
 def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
-    locations = []
+    targets = []
     s = requests.Session()
     response = s.post(ornithologin, data=ornithopayload)
     for sighting in ornithorelevantSpecies:
@@ -129,28 +120,8 @@ def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
                                 m = re.findall("[0-9][0-9]*\xc2\xb0[0-9][0-9]*'[0-9][0-9]*.[0-9][0-9]''\s[E,N]", str(table2.text))
                                 sighting[5] = dms2dec(m[1])
                                 sighting[6] = dms2dec(m[0])
-                                locations.append(sighting)
+                                targets.append(sighting)
                 break
-    return locations
-
-def ornithoGetArea(time, area, ornithopayload):
-    ornithologin = "http://www.ornitho." + area + "/index.php"
-    ornitholifelisturl = "http://www.ornitho." + area + "/index.php?m_id=11&mp_item_per_page=100"
-    ornithodataurl = "http://www.ornitho." + area + "/index.php?m_id=5&sp_DOffset=" + time + "&mp_item_per_page=60&mp_current_page="
-    ornitholifeList = []
-    ornithoSpecies = []
-    targets = []
-    # get lifelist
-    ornitholifeList = OrnithoGetLifelist(ornithopayload, ornithologin, ornitholifelisturl)
-    print("done ornithoLifelist")
-    # get current sightings
-    ornithoSpecies = OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
-    print("done ornithoSpecies")
-    # match current sightings against lifelist
-    ornithorelevantSpecies = OrnithoMatchSightings(ornitholifeList, ornithoSpecies)
-    print("ornithoRelevantSightings")
-    # get locations from all relevant sightings
-    targets = OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies)
     return targets
 
 def ornithoGetSpecies(time, area, ornithopayload, ornithospecieslist):
@@ -159,7 +130,7 @@ def ornithoGetSpecies(time, area, ornithopayload, ornithospecieslist):
     targets = []
     for speciesid in ornithospecieslist:
         ornithodataurl = "http://www.ornitho." + area + "/index.php?m_id=94&sp_DChoice=offset&sp_DOffset=" + time + "&sp_S=" + str(speciesid) + "&submit=Abfrage+starten&mp_item_per_page=60&sp_SChoice=species&mp_current_page="
-        OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
+        ornithoSpecies = OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
     targets = OrnithoGetLocations(ornithopayload, ornithologin, ornithoSpecies)
     return targets
 
