@@ -75,15 +75,15 @@ europe = ["AL", "AD", "AM", "AT", "AZ", "BY", "BE", "BA", "BG", "FR", "HR", "CY"
 
 def main():
     ############ Germany from ebird, ornitho.de & otus
-    targetsGermany = ebirdGetArea("7", "DE", "country", "DE", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist
-    targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
-    targetsGermany += othusGetSightings(7) #time
-    writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
+#    targetsGermany = ebirdGetArea("7", "DE", "country", "DE", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist
+#    targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
+#    targetsGermany += othusGetSightings(7) #time
+#    writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
 
     ############ Austria from ebird & ornitho.at
-    targetsAustria = ebirdGetArea("7", "AT", "country", "AT", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist
-    targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
-    writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
+#    targetsAustria = ebirdGetArea("7", "AT", "country", "AT", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist
+#    targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
+#    writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird
     targetsEurope = []
