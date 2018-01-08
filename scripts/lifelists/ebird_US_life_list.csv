@@ -1,190 +1,192 @@
 Row #,Species,Count,Location,S/P,Date,LocID,SubID
-1,Schneegans - Anser caerulescens,,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
-2,Blässgans - Anser albifrons,,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
-3,Kanadagans - Branta canadensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-4,Höckerschwan - Cygnus olor,2,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-5,Wood Duck - Aix sponsa,6,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-6,Cinnamon Teal - Spatula cyanoptera,14,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
-7,Löffelente - Spatula clypeata,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-8,Schnatterente - Mareca strepera,,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-9,Kanadapfeifente - Mareca americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-10,Stockente - Anas platyrhynchos,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-11,Spieβente - Anas acuta,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-12,Krickente (Eurasisch und Amerikanisch) - Anas crecca,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-13,Riesentafelente - Aythya valisineria,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-14,Ringschnabelente - Aythya collaris,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-15,Bergente - Aythya marila,2,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
-16,Brillenente - Melanitta perspicillata,,Coyote Hills Regional Park,US-CA,18 Feb 2016,L216132,S27691580
-17,Büffelkopfente - Bucephala albeola,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
-18,Schellente - Bucephala clangula,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-19,Kappensäger - Lophodytes cucullatus,,Hollywood Reservoir,US-CA,06 Jan 2018,L380940,S41693158
-20,Gänsesäger - Mergus merganser,3,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-21,Mittelsäger - Mergus serrator,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-22,Schwarzkopfruderente - Oxyura jamaicensis,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
-23,California Quail - Callipepla californica,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-24,Gambel's Quail - Callipepla gambelii,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-25,Wild Turkey - Meleagris gallopavo,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
-26,Bindentaucher - Podilymbus podiceps,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-27,Ohrentaucher - Podiceps auritus,,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
-28,Schwarzhalstaucher - Podiceps nigricollis,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-29,Western Grebe - Aechmophorus occidentalis,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-30,Clark's Grebe - Aechmophorus clarkii,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
-31,Dunkler Sturmtaucher - Ardenna grisea,,Lighthouse Pt.,US-CA,21 Sep 2015,L600607,S27996840
-32,Black-vented Shearwater - Puffinus opisthomelas,,Lighthouse Pt.,US-CA,21 Sep 2015,L600607,S27996840
-33,Brandt's Cormorant - Phalacrocorax penicillatus,,Pier 39,US-CA,20 Sep 2015,L213054,S27996768
-34,Pelagic Cormorant - Phalacrocorax pelagicus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-35,Double-crested Cormorant - Phalacrocorax auritus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-36,American White Pelican - Pelecanus erythrorhynchos,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-37,Brown Pelican - Pelecanus occidentalis,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-38,Great Blue Heron - Ardea herodias,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-39,Silberreiher - Ardea alba,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-40,Schmuckreiher - Egretta thula,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-41,Nachtreiher - Nycticorax nycticorax,,Alcatraz Island,US-CA,20 Sep 2015,L253857,S27956822
-42,White-faced Ibis - Plegadis chihi,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
-43,Turkey Vulture - Cathartes aura,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-44,Fischadler - Pandion haliaetus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-45,White-tailed Kite - Elanus leucurus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-46,Steinadler - Aquila chrysaetos,2,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-47,Northern Harrier - Circus hudsonius,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-48,Sharp-shinned Hawk - Accipiter striatus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-49,Cooper's Hawk - Accipiter cooperii,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-50,Weißkopfseeadler - Haliaeetus leucocephalus,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-51,Red-shouldered Hawk - Buteo lineatus,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-52,Red-tailed Hawk - Buteo jamaicensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-53,American Coot - Fulica americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-54,Kanadakranich - Antigone canadensis,9,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
-55,Black-necked Stilt - Himantopus mexicanus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-56,American Avocet - Recurvirostra americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-57,Black Oystercatcher - Haematopus bachmani,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
-58,Kiebitzregenpfeifer - Pluvialis squatarola,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-59,Snowy Plover - Charadrius nivosus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-60,Semipalmated Plover - Charadrius semipalmatus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-61,Killdeer - Charadrius vociferus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-62,Regenbrachvogel - Numenius phaeopus,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-63,Long-billed Curlew - Numenius americanus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-64,Marbled Godwit - Limosa fedoa,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-65,Steinwälzer - Arenaria interpres,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-66,Black Turnstone - Arenaria melanocephala,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-67,Surfbird - Calidris virgata,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-68,Sanderling - Calidris alba,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-69,Wiesenstrandläufer - Calidris minutilla,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-70,Western Sandpiper - Calidris mauri,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-71,Kleiner Schlammläufer - Limnodromus griseus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-72,Groβer Schlammläufer - Limnodromus scolopaceus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-73,Wilson's Snipe - Gallinago delicata,35,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
-74,Odinshühnchen - Phalaropus lobatus,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
-75,Drosseluferläufer - Actitis macularius,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-76,Wandering Tattler - Tringa incana,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-77,Greater Yellowlegs - Tringa melanoleuca,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-78,Willet - Tringa semipalmata,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
-79,Kleiner Gelbschenkel - Tringa flavipes,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-80,Trottellumme - Uria aalge,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-81,Bonapartemöwe - Chroicocephalus philadelphia,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-82,Heermann's Gull - Larus heermanni,,Pier 39,US-CA,20 Sep 2015,L213054,S27996768
-83,Ringschnabelmöwe - Larus delawarensis,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-84,Western Gull - Larus occidentalis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-85,California Gull - Larus californicus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-86,Heringsmöwe - Larus fuscus,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
-87,Glaucous-winged Gull - Larus glaucescens,1,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-88,Forster's Tern - Sterna forsteri,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
-89,Royal Tern - Thalasseus maximus,3,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-90,Schmuckseeschwalbe - Thalasseus elegans,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-91,Felsentaube/Stra§entaube - Columba livia,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-92,Band-tailed Pigeon - Patagioenas fasciata,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-93,Türkentaube - Streptopelia decaocto,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-94,Mourning Dove - Zenaida macroura,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-95,Greater Roadrunner - Geococcyx californianus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-96,Great Horned Owl - Bubo virginianus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-97,Sumpfohreule - Asio flammeus,1,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
-98,White-throated Swift - Aeronautes saxatalis,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-99,Anna's Hummingbird - Calypte anna,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-100,Allen's Hummingbird - Selasphorus sasin,1,Hollywood Reservoir,US-CA,06 Jan 2018,L380940,S41693158
-101,Belted Kingfisher - Megaceryle alcyon,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-102,Acorn Woodpecker - Melanerpes formicivorus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-103,Red-bellied Woodpecker - Melanerpes carolinus,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
-104,Red-naped Sapsucker - Sphyrapicus nuchalis,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
-105,Red-breasted Sapsucker - Sphyrapicus ruber,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-106,Ladder-backed Woodpecker - Picoides scalaris,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-107,Nuttall's Woodpecker - Picoides nuttallii,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
-108,Downy Woodpecker - Picoides pubescens,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-109,Hairy Woodpecker - Picoides villosus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
-110,White-headed Woodpecker - Picoides albolarvatus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-111,Northern Flicker - Colaptes auratus,,Grand Canyon NP--Mather Point,US-AZ,24 Sep 2015,L586552,S27956526
-112,American Kestrel - Falco sparverius,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-113,Merlin - Falco columbarius,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-114,Wanderfalke - Falco peregrinus,,Little Sur River mouth,US-CA,22 Sep 2015,L475271,S27956290
-115,Red-masked Parakeet - Psittacara erythrogenys,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-116,Black Phoebe - Sayornis nigricans,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-117,Say's Phoebe - Sayornis saya,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-118,Cassin's Kingbird - Tyrannus vociferans,4,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-119,Loggerhead Shrike - Lanius ludovicianus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-120,Hutton's Vireo - Vireo huttoni,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-121,Steller's Jay - Cyanocitta stelleri,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-122,Blue Jay - Cyanocitta cristata,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
-123,California Scrub-Jay - Aphelocoma californica,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-124,Black-billed Magpie - Pica hudsonia,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
-125,Clark's Nutcracker - Nucifraga columbiana,,Devils Postpile NM,US-CA,24 Sep 2015,L278424,S27956489
-126,American Crow - Corvus brachyrhynchos,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-127,Kolkrabe - Corvus corax,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-128,Ohrenlerche - Eremophila alpestris,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-129,Tree Swallow - Tachycineta bicolor,7,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-130,Violet-green Swallow - Tachycineta thalassina,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
-131,Rauchschwalbe - Hirundo rustica,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
-132,Black-capped Chickadee - Poecile atricapillus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
-133,Mountain Chickadee - Poecile gambeli,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-134,Chestnut-backed Chickadee - Poecile rufescens,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-135,Oak Titmouse - Baeolophus inornatus,5,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-136,Juniper Titmouse - Baeolophus ridgwayi,,Grand Canyon NP--Mather Point,US-AZ,24 Sep 2015,L586552,S27956526
-137,Verdin - Auriparus flaviceps,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
-138,Bushtit - Psaltriparus minimus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-139,Red-breasted Nuthatch - Sitta canadensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-140,White-breasted Nuthatch - Sitta carolinensis,,Bryce Canyon NP -- Visitor Center,US-UT,27 Sep 2015,L695942,S27956320
-141,Pygmy Nuthatch - Sitta pygmaea,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-142,Brown Creeper - Certhia americana,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-143,Rock Wren - Salpinctes obsoletus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-144,Canyon Wren - Catherpes mexicanus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-145,House Wren - Troglodytes aedon,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-146,Marsh Wren - Cistothorus palustris,5,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-147,Bewick's Wren - Thryomanes bewickii,,Sunset SB,US-CA,22 Sep 2015,L454234,S27996862
-148,Cactus Wren - Campylorhynchus brunneicapillus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-149,American Dipper - Cinclus mexicanus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
-150,Ruby-crowned Kinglet - Regulus calendula,4,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-151,Wrentit - Chamaea fasciata,4,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-152,Western Bluebird - Sialia mexicana,,Bryce Canyon NP -- Visitor Center,US-UT,27 Sep 2015,L695942,S27956320
-153,Wanderdrossel - Turdus migratorius,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-154,California Thrasher - Toxostoma redivivum,,Sunset SB,US-CA,22 Sep 2015,L454234,S27996862
-155,Sage Thrasher - Oreoscoptes montanus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-156,Northern Mockingbird - Mimus polyglottos,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-157,Star - Sturnus vulgaris,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-158,Pazifikpieper - Anthus rubescens,2,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-159,Cedar Waxwing - Bombycilla cedrorum,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-160,Phainopepla - Phainopepla nitens,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-161,Common Yellowthroat - Geothlypis trichas,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-162,Yellow Warbler - Setophaga petechia,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-163,Yellow-rumped Warbler - Setophaga coronata,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
-164,Townsend's Warbler - Setophaga townsendi,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-165,Chipping Sparrow - Spizella passerina,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-166,Brewer's Sparrow - Spizella breweri,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-167,Black-throated Sparrow - Amphispiza bilineata,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
-168,Dark-eyed Junco - Junco hyemalis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-169,White-crowned Sparrow - Zonotrichia leucophrys,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-170,Golden-crowned Sparrow - Zonotrichia atricapilla,,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-171,Savannah Sparrow - Passerculus sandwichensis,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-172,Song Sparrow - Melospiza melodia,7,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-173,Lincoln's Sparrow - Melospiza lincolnii,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
-174,California Towhee - Melozone crissalis,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-175,Spotted Towhee - Pipilo maculatus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
-176,Summer Tanager - Piranga rubra,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
-177,Western Tanager - Piranga ludoviciana,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-178,Northern Cardinal - Cardinalis cardinalis,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
-179,Black-headed Grosbeak - Pheucticus melanocephalus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-180,Western Meadowlark - Sturnella neglecta,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-181,Red-winged Blackbird - Agelaius phoeniceus,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
-182,Brewer's Blackbird - Euphagus cyanocephalus,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
-183,Great-tailed Grackle - Quiscalus mexicanus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-184,House Finch - Haemorhous mexicanus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-185,Purple Finch - Haemorhous purpureus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
-186,Fichtenkreuzschnabel - Loxia curvirostra,15,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-187,Pine Siskin - Spinus pinus,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
-188,Lesser Goldfinch - Spinus psaltria,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
-189,Haussperling - Passer domesticus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+1,Costa's Hummingbird - Calypte costae,2,Joshua Tree NP,US-CA,08 Jan 2018,L385590,S41755618
+2,Lark Sparrow - Chondestes grammacus,,Joshua Tree NP,US-CA,08 Jan 2018,L385590,S41755618
+3,Red-breasted Merganser - Mergus serrator,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+4,Ruddy Turnstone - Arenaria interpres,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+5,Surfbird - Calidris virgata,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+6,Glaucous-winged Gull - Larus glaucescens,1,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+7,Royal Tern - Thalasseus maximus,3,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+8,Cassin's Kingbird - Tyrannus vociferans,4,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+9,Lincoln's Sparrow - Melospiza lincolnii,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+10,Hooded Merganser - Lophodytes cucullatus,,Hollywood Reservoir,US-CA,06 Jan 2018,L380940,S41693158
+11,Allen's Hummingbird - Selasphorus sasin,1,Hollywood Reservoir,US-CA,06 Jan 2018,L380940,S41693158
+12,Snow Goose - Anser caerulescens,,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+13,Greater White-fronted Goose - Anser albifrons,,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+14,Cinnamon Teal - Spatula cyanoptera,14,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+15,Sandhill Crane - Antigone canadensis,9,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+16,Wilson's Snipe - Gallinago delicata,35,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+17,Short-eared Owl - Asio flammeus,1,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+18,Surf Scoter - Melanitta perspicillata,,Coyote Hills Regional Park,US-CA,18 Feb 2016,L216132,S27691580
+19,Mute Swan - Cygnus olor,2,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+20,Northern Pintail - Anas acuta,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+21,Canvasback - Aythya valisineria,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+22,Common Goldeneye - Bucephala clangula,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+23,Bald Eagle - Haliaeetus leucocephalus,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+24,Merlin - Falco columbarius,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+25,House Wren - Troglodytes aedon,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+26,Marsh Wren - Cistothorus palustris,5,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+27,American Pipit - Anthus rubescens,2,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+28,Common Yellowthroat - Geothlypis trichas,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+29,Savannah Sparrow - Passerculus sandwichensis,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+30,Red-winged Blackbird - Agelaius phoeniceus,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+31,Greater Scaup - Aythya marila,2,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+32,Bufflehead - Bucephala albeola,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+33,Horned Grebe - Podiceps auritus,,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+34,Clark's Grebe - Aechmophorus clarkii,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+35,Black Oystercatcher - Haematopus bachmani,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+36,Wood Duck - Aix sponsa,6,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+37,Gadwall - Mareca strepera,,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+38,Common Merganser - Mergus merganser,3,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+39,California Quail - Callipepla californica,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+40,Golden Eagle - Aquila chrysaetos,2,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+41,Downy Woodpecker - Picoides pubescens,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+42,Hutton's Vireo - Vireo huttoni,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+43,Tree Swallow - Tachycineta bicolor,7,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+44,Oak Titmouse - Baeolophus inornatus,5,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+45,Ruby-crowned Kinglet - Regulus calendula,4,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+46,Wrentit - Chamaea fasciata,4,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+47,Golden-crowned Sparrow - Zonotrichia atricapilla,,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+48,Song Sparrow - Melospiza melodia,7,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+49,Red Crossbill - Loxia curvirostra,15,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+50,Pine Siskin - Spinus pinus,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+51,Gambel's Quail - Callipepla gambelii,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+52,Sharp-shinned Hawk - Accipiter striatus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+53,Greater Roadrunner - Geococcyx californianus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+54,White-throated Swift - Aeronautes saxatalis,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+55,Ladder-backed Woodpecker - Picoides scalaris,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+56,American Kestrel - Falco sparverius,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+57,Bushtit - Psaltriparus minimus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+58,Rock Wren - Salpinctes obsoletus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+59,Canyon Wren - Catherpes mexicanus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+60,Cactus Wren - Campylorhynchus brunneicapillus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+61,Chipping Sparrow - Spizella passerina,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+62,Brewer's Sparrow - Spizella breweri,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+63,Black-throated Sparrow - Amphispiza bilineata,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+64,Lesser Black-backed Gull - Larus fuscus,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+65,Red-bellied Woodpecker - Melanerpes carolinus,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+66,Blue Jay - Cyanocitta cristata,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+67,Northern Cardinal - Cardinalis cardinalis,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+68,Ring-necked Duck - Aythya collaris,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+69,Western Grebe - Aechmophorus occidentalis,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+70,Snowy Egret - Egretta thula,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+71,Whimbrel - Numenius phaeopus,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+72,Spotted Sandpiper - Actitis macularius,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+73,Lesser Yellowlegs - Tringa flavipes,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+74,Forster's Tern - Sterna forsteri,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+75,Nuttall's Woodpecker - Picoides nuttallii,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+76,Violet-green Swallow - Tachycineta thalassina,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+77,Verdin - Auriparus flaviceps,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+78,Summer Tanager - Piranga rubra,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+79,White-breasted Nuthatch - Sitta carolinensis,,Bryce Canyon NP -- Visitor Center,US-UT,27 Sep 2015,L695942,S27956320
+80,Western Bluebird - Sialia mexicana,,Bryce Canyon NP -- Visitor Center,US-UT,27 Sep 2015,L695942,S27956320
+81,Wild Turkey - Meleagris gallopavo,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+82,Red-naped Sapsucker - Sphyrapicus nuchalis,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+83,Hairy Woodpecker - Picoides villosus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+84,Black-billed Magpie - Pica hudsonia,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+85,Black-capped Chickadee - Poecile atricapillus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+86,Spotted Towhee - Pipilo maculatus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+87,Loggerhead Shrike - Lanius ludovicianus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+88,Horned Lark - Eremophila alpestris,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+89,Sage Thrasher - Oreoscoptes montanus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+90,Northern Mockingbird - Mimus polyglottos,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+91,Cedar Waxwing - Bombycilla cedrorum,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+92,Phainopepla - Phainopepla nitens,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+93,Western Meadowlark - Sturnella neglecta,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+94,Great-tailed Grackle - Quiscalus mexicanus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+95,Lesser Goldfinch - Spinus psaltria,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+96,Clark's Nutcracker - Nucifraga columbiana,,Devils Postpile NM,US-CA,24 Sep 2015,L278424,S27956489
+97,Northern Flicker - Colaptes auratus,,Grand Canyon NP--Mather Point,US-AZ,24 Sep 2015,L586552,S27956526
+98,Juniper Titmouse - Baeolophus ridgwayi,,Grand Canyon NP--Mather Point,US-AZ,24 Sep 2015,L586552,S27956526
+99,Ruddy Duck - Oxyura jamaicensis,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+100,White-faced Ibis - Plegadis chihi,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+101,Red-necked Phalarope - Phalaropus lobatus,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+102,Yellow-rumped Warbler - Setophaga coronata,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+103,Band-tailed Pigeon - Patagioenas fasciata,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+104,Acorn Woodpecker - Melanerpes formicivorus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+105,White-headed Woodpecker - Picoides albolarvatus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+106,Common Raven - Corvus corax,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+107,Mountain Chickadee - Poecile gambeli,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+108,Brown Creeper - Certhia americana,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+109,American Dipper - Cinclus mexicanus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+110,Peregrine Falcon - Falco peregrinus,,Little Sur River mouth,US-CA,22 Sep 2015,L475271,S27956290
+111,Eared Grebe - Podiceps nigricollis,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+112,Osprey - Pandion haliaetus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+113,White-tailed Kite - Elanus leucurus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+114,Northern Harrier - Circus hudsonius,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+115,Snowy Plover - Charadrius nivosus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+116,Semipalmated Plover - Charadrius semipalmatus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+117,Long-billed Curlew - Numenius americanus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+118,Sanderling - Calidris alba,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+119,Willet - Tringa semipalmata,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+120,Bewick's Wren - Thryomanes bewickii,,Sunset SB,US-CA,22 Sep 2015,L454234,S27996862
+121,California Thrasher - Toxostoma redivivum,,Sunset SB,US-CA,22 Sep 2015,L454234,S27996862
+122,Northern Shoveler - Spatula clypeata,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+123,American Wigeon - Mareca americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+124,Green-winged Teal - Anas crecca,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+125,Pied-billed Grebe - Podilymbus podiceps,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+126,American White Pelican - Pelecanus erythrorhynchos,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+127,Great Egret - Ardea alba,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+128,American Coot - Fulica americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+129,Black-necked Stilt - Himantopus mexicanus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+130,American Avocet - Recurvirostra americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+131,Black-bellied Plover - Pluvialis squatarola,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+132,Killdeer - Charadrius vociferus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+133,Marbled Godwit - Limosa fedoa,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+134,Least Sandpiper - Calidris minutilla,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+135,Western Sandpiper - Calidris mauri,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+136,Short-billed Dowitcher - Limnodromus griseus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+137,Long-billed Dowitcher - Limnodromus scolopaceus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+138,Greater Yellowlegs - Tringa melanoleuca,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+139,Bonaparte's Gull - Chroicocephalus philadelphia,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+140,Ring-billed Gull - Larus delawarensis,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+141,California Gull - Larus californicus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+142,Barn Swallow - Hirundo rustica,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+143,Sooty Shearwater - Ardenna grisea,,Lighthouse Pt.,US-CA,21 Sep 2015,L600607,S27996840
+144,Black-vented Shearwater - Puffinus opisthomelas,,Lighthouse Pt.,US-CA,21 Sep 2015,L600607,S27996840
+145,Black-crowned Night-Heron - Nycticorax nycticorax,,Alcatraz Island,US-CA,20 Sep 2015,L253857,S27956822
+146,Pelagic Cormorant - Phalacrocorax pelagicus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+147,Double-crested Cormorant - Phalacrocorax auritus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+148,Brown Pelican - Pelecanus occidentalis,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+149,Great Blue Heron - Ardea herodias,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+150,Cooper's Hawk - Accipiter cooperii,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+151,Black Turnstone - Arenaria melanocephala,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+152,Wandering Tattler - Tringa incana,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+153,Common Murre - Uria aalge,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+154,Elegant Tern - Thalasseus elegans,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+155,Eurasian Collared-Dove - Streptopelia decaocto,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+156,Great Horned Owl - Bubo virginianus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+157,Belted Kingfisher - Megaceryle alcyon,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+158,Red-breasted Sapsucker - Sphyrapicus ruber,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+159,Red-masked Parakeet - Psittacara erythrogenys,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+160,Black Phoebe - Sayornis nigricans,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+161,Say's Phoebe - Sayornis saya,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+162,Chestnut-backed Chickadee - Poecile rufescens,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+163,Pygmy Nuthatch - Sitta pygmaea,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+164,Yellow Warbler - Setophaga petechia,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+165,Townsend's Warbler - Setophaga townsendi,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+166,White-crowned Sparrow - Zonotrichia leucophrys,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+167,California Towhee - Melozone crissalis,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+168,Western Tanager - Piranga ludoviciana,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+169,Black-headed Grosbeak - Pheucticus melanocephalus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+170,House Finch - Haemorhous mexicanus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+171,Purple Finch - Haemorhous purpureus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+172,House Sparrow - Passer domesticus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+173,Brandt's Cormorant - Phalacrocorax penicillatus,,Pier 39,US-CA,20 Sep 2015,L213054,S27996768
+174,Heermann's Gull - Larus heermanni,,Pier 39,US-CA,20 Sep 2015,L213054,S27996768
+175,Canada Goose - Branta canadensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+176,Mallard - Anas platyrhynchos,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+177,Turkey Vulture - Cathartes aura,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+178,Red-shouldered Hawk - Buteo lineatus,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+179,Red-tailed Hawk - Buteo jamaicensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+180,Western Gull - Larus occidentalis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+181,Rock Pigeon - Columba livia,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+182,Mourning Dove - Zenaida macroura,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+183,Anna's Hummingbird - Calypte anna,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+184,Steller's Jay - Cyanocitta stelleri,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+185,California Scrub-Jay - Aphelocoma californica,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+186,American Crow - Corvus brachyrhynchos,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+187,Red-breasted Nuthatch - Sitta canadensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+188,American Robin - Turdus migratorius,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+189,European Starling - Sturnus vulgaris,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+190,Dark-eyed Junco - Junco hyemalis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+191,Brewer's Blackbird - Euphagus cyanocephalus,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
