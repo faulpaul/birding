@@ -105,8 +105,8 @@ def main():
     targetsUSAwest += ebirdGetArea("7", "US-CA", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist CALIFORNIA
     #targetsUSAwest += ebirdGetArea("7", "US-TX", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist TEXAS
     writeData(targetsUSAwest, "36.18", "-115.33", "7", "usaJSwest.js", "usawest.html", path, fileCSS, googleAPI)
-    targetUSAeast = ebirdGetArea("7", "US-NJ", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEW JERSY
-    targetUSAeast += ebirdGetArea("7", "US-NY", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEW YORK
+    targetsUSAeast = ebirdGetArea("7", "US-NJ", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEW JERSY
+    targetsUSAeast += ebirdGetArea("7", "US-NY", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEW YORK
     writeData(targetsUSAeast, "36.18", "-115.33", "7", "usaJSeast.js", "usaeast.html", path, fileCSS, googleAPI)
 
 if __name__ == "__main__":
