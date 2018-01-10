@@ -101,8 +101,8 @@ def main():
     writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS, googleAPI)
 
     ############ USA  from ebird
-    targetsUSAwest = ebirdGetArea("7", "US-NV", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEVADA
-    targetsUSAwest += ebirdGetArea("7", "US-CA", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist CALIFORNIA
+    #targetsUSAwest = ebirdGetArea("7", "US-NV", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEVADA
+    targetsUSAwest = ebirdGetArea("7", "US-CA", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist CALIFORNIA
     #targetsUSAwest += ebirdGetArea("7", "US-TX", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist TEXAS
     writeData(targetsUSAwest, "36.18", "-115.33", "7", "usaJSwest.js", "usawest.html", path, fileCSS, googleAPI)
     targetsUSAeast = ebirdGetArea("7", "US-NJ", "subnational1", "US", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist NEW JERSY
