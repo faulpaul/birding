@@ -86,11 +86,13 @@ def main():
 #    writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird
-    targetsEurope = []
-    for country in europe:
-        targetsEurope += ebirdGetArea("7", country, "country", "eur", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)
-        #time in days, area, lifelist BOSNIEN
-    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+#    targetsEurope = []
+#    for country in europe:
+#        targetsEurope += ebirdGetArea("7", country, "country", "eur", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)
+#        #time in days, area, lifelist BOSNIEN
+#    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+    targetsIceland = ebirdGetArea("7", "IS", "country", "IS", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist OMAN
+    writeData(targetsIceland, "64.48", "-18.26", "7", "icelandJS.js", "iceland.html", path, fileCSS, googleAPI)
 
     ############ Oman, Israel, Egypth from ebird
     targetsOman = ebirdGetArea("7", "OM", "country", "world", ebirdlistspecies, ebirdlistallsightings, ebirdpayload)#time in days, area, lifelist OMAN
