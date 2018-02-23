@@ -51,6 +51,7 @@ ornithodeuser = config.get('SectionOrnithode', 'user')
 ornithodepass = config.get('SectionOrnithode', 'pass')
 ebirduser = config.get('SectionEbird', 'user')
 ebirdpass = config.get('SectionEbird', 'pass')
+ebirdkey = config.get('SectionEbird', 'key')
 
 #ornitho.de
 ornithodepayload = { "login":"1", "USERNAME":ornithodeuser, "REMEMBER":"ON", "PASSWORD":ornithodepass }
