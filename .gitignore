@@ -3,3 +3,15 @@
 
 # ignore precompiled files
 *.pyc
+
+# ignore html/js files
+*.html
+*.js
+
+# ignore files from virtualenv
+bin
+include
+lib
+Pipfile
+Pipfile.lock
+pip-selfcheck.json
