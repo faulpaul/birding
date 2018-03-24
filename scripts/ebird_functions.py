@@ -2,13 +2,15 @@
 # comparing it to a csv life list
 # an returning the sightings
 
-import csv, requests, datetime
+import csv, requests, datetime, os.path
 from ebird.api import region_observations, region_species
 
 # read life list
 def ebirdGetLifeList(region):
     ebirdLifeList = []
     filename = "./lifelists/ebird_" + region + "_life_list.csv"
+    if not os.path.exists(filename):
+        filename = "./lifelists/ebird_world_life_list.csv"
     with open(filename, "rt") as mylist:
        reader = csv.reader(mylist)
        next(reader, None)
@@ -46,7 +48,8 @@ def ebirdGetSightings(ebirdRelevantSpecies, region, time):
 def ebirdCleanData(ebirdTargets, region):
     ebirdCleanTargets = []
     for species in ebirdTargets:
-        number = species["howMany"]
+        try: number = species["howMany"]
+        except: number = "x"
         name = species["comName"]
         sciname = species["sciName"]
         source = "<a target=\"_blank\" href=ebird.org>ebird.org</a>"
