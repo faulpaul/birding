@@ -63,7 +63,7 @@ europe = ["AL", "AD", "AM", "AT", "AZ", "BY", "BE", "BA", "BG", "FR", "HR", "CY"
 def main():
     ############ Germany from ebird, ornitho.de & otus
     targetsGermany = ebirdGetArea("DE", "7") 
-    targetsGermany = ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
+    targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
     targetsGermany += othusGetSightings(7) #time
     writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
 
