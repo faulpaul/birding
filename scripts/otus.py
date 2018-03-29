@@ -7,7 +7,6 @@
 # the results are later written into an html file
 # the script can be found at goessinger.eu for more information send an email to paul (at) goessinger (dot) eu
 
-#from lxml import etree
 import urllib
 from datetime import datetime, timedelta
 

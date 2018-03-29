@@ -8,7 +8,6 @@
 # the results (i.e. sightings which are not yet on your lifelist) are written into an html file
 # the script can be found at goessinger.eu for more information send an email to paul (at) goessinger (dot) eu
 
-#from lxml import etree
 import requests, datetime, re, time, gc
 from bs4 import BeautifulSoup
 

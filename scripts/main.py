@@ -68,9 +68,9 @@ def main():
     writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
 
     ############ Austria from ebird & ornitho.at
-    targetsAustria = ebirdGetArea("AT", "7")
-    targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
-    writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
+    #targetsAustria = ebirdGetArea("AT", "7")
+    #targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
+    #writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird
     targetsEurope = []
@@ -81,21 +81,21 @@ def main():
     writeData(targetsIceland, "64.48", "-18.26", "7", "icelandJS.js", "iceland.html", path, fileCSS, googleAPI)
 
     ############ Oman, Israel, Egypth from ebird
-    targetsOman = ebirdGetArea("OM", "7")
-    writeData(targetsOman, "20.83", "56.89", "7", "omanJS.js", "oman.html", path, fileCSS, googleAPI)
-    targetsIsrael = ebirdGetArea("IL", "7")
-    writeData(targetsIsrael, "31.76", "35.21", "7", "israelJS.js", "israel.html", path, fileCSS, googleAPI)
-    targetsEgypt = ebirdGetArea("EG", "7")
-    writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS, googleAPI)
+    #targetsOman = ebirdGetArea("OM", "7")
+    #writeData(targetsOman, "20.83", "56.89", "7", "omanJS.js", "oman.html", path, fileCSS, googleAPI)
+    #targetsIsrael = ebirdGetArea("IL", "7")
+    #writeData(targetsIsrael, "31.76", "35.21", "7", "israelJS.js", "israel.html", path, fileCSS, googleAPI)
+    #targetsEgypt = ebirdGetArea("EG", "7")
+    #writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS, googleAPI)
 
     ############ USA  from ebird
-    targetsUSAwest = ebirdGetArea("US-NV", "7")
-    targetsUSAwest += ebirdGetArea("US-CA", "7")
-    targetsUSAwest += ebirdGetArea("US-TX", "7")
-    writeData(targetsUSAwest, "36.18", "-115.33", "7", "usaJSwest.js", "usawest.html", path, fileCSS, googleAPI)
-    targetsUSAeast = ebirdGetArea("US-NJ", "7")
-    targetsUSAeast += ebirdGetArea("US-NY", "7")
-    writeData(targetsUSAeast, "36.18", "-115.33", "7", "usaJSeast.js", "usaeast.html", path, fileCSS, googleAPI)
+    #targetsUSAwest = ebirdGetArea("US-NV", "7")
+    #targetsUSAwest += ebirdGetArea("US-CA", "7")
+    #targetsUSAwest += ebirdGetArea("US-TX", "7")
+    #writeData(targetsUSAwest, "36.18", "-115.33", "7", "usaJSwest.js", "usawest.html", path, fileCSS, googleAPI)
+    #targetsUSAeast = ebirdGetArea("US-NJ", "7")
+    #targetsUSAeast += ebirdGetArea("US-NY", "7")
+    #writeData(targetsUSAeast, "36.18", "-115.33", "7", "usaJSeast.js", "usaeast.html", path, fileCSS, googleAPI)
 
 if __name__ == "__main__":
     main()
