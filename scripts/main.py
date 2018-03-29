@@ -19,8 +19,8 @@ from configparser import ConfigParser
 # import functions
 from div import *
 from ebird_functions import *
-#from ornitho import *
-#from otus import *
+from ornitho import *
+from otus import *
 
 # setting utf-8 encoding
 #reload(sys) 
@@ -63,13 +63,13 @@ europe = ["AL", "AD", "AM", "AT", "AZ", "BY", "BE", "BA", "BG", "FR", "HR", "CY"
 def main():
     ############ Germany from ebird, ornitho.de & otus
     targetsGermany = ebirdGetArea("DE", "7") 
-#    targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
-#    targetsGermany += othusGetSightings(7) #time
+    targetsGermany = ornithoGetSpecies("7", "de", ornithodepayload, ornithodespecieslist)
+    targetsGermany += othusGetSightings(7) #time
     writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
 
     ############ Austria from ebird & ornitho.at
     targetsAustria = ebirdGetArea("AT", "7")
-#    targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
+    targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
     writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird

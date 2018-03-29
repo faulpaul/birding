@@ -9,7 +9,7 @@
 # the script can be found at goessinger.eu for more information send an email to paul (at) goessinger (dot) eu
 
 #from lxml import etree
-import requests, datetime, re, time
+import requests, datetime, re, time, gc
 from bs4 import BeautifulSoup
 
 ####################################
@@ -41,7 +41,10 @@ def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber
     s = requests.Session()
     response = s.post(ornithologin, data=ornithopayload)
     dataurl = ornithodataurl + str(currentpage)
-    soup = BeautifulSoup(OrnithoGetPage(s, dataurl).text, "lxml")
+    soup = BeautifulSoup(OrnithoGetPage(s, dataurl).text, "html.parser")
+    #filehtml = open("example_ornitho.de_index.html" , "r")
+    #soup = BeautifulSoup(filehtml, "html.parser")
+    soup.prettify()
     all = soup.find_all("div")
     for item in all:
         divclass = str(item.get("class"))
@@ -67,9 +70,9 @@ def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber
                             sciname = str(i.text).split("(")[1].strip(")") # remove the tailing "("
                             #find url
                         else: # runs first!
-                            number = i.text.decode('unicode_escape').encode('ascii','ignore')
+                            number = i.text
     #see if there are pages left to look at
-    soup = BeautifulSoup(OrnithoGetPage(s, dataurl).text, "lxml")
+    soup = BeautifulSoup(OrnithoGetPage(s, dataurl).text, "html.parser")
     pagedata = soup.find_all("div", { "class" : "mpButton" } )
     pagelist = []
     for j in pagedata:
@@ -93,7 +96,7 @@ def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
     response = s.post(ornithologin, data=ornithopayload)
     for sighting in ornithorelevantSpecies:
         url = sighting[4]
-        soup = BeautifulSoup(OrnithoGetPage(s, url).text, "lxml")
+        soup = BeautifulSoup(OrnithoGetPage(s, url).text, "html.parser")
         # itterate through all div elements
         all = soup.find_all("div")
         for item in all:
@@ -104,24 +107,13 @@ def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
                 break
         # read location url to find data
         v = requests.Session()
-        soup2 = BeautifulSoup(OrnithoGetPage(s, locurl).text, "lxml")
-        all2 = soup2.find_all("table")
+        soup2 = BeautifulSoup(OrnithoGetPage(s, locurl).text, "html.parser")
+        all2 = soup2.find_all("a")
         for item in all2:
-            tablewidth = str(item.get("width"))
-            if "100%" in tablewidth:
-                tables = item.find_all("table")
-                for table in tables:
-                    tablewidth = str(table.get("width"))
-                    if "780" in tablewidth:
-                        tables2 = table.find_all("table")
-                        for table2 in tables2:
-                            tablewidth = str(table2.get("width"))
-                            if "98" in tablewidth:
-                                m = re.findall("[0-9][0-9]*\xc2\xb0[0-9][0-9]*'[0-9][0-9]*.[0-9][0-9]''\s[E,N]", str(table2.text))
-                                sighting[5] = dms2dec(m[1])
-                                sighting[6] = dms2dec(m[0])
-                                targets.append(sighting)
-                break
+            if "javascript" in item.get("href"):
+                sighting[5] = item.get("href").split("(")[1].split(",")[0]
+                sighting[6] = item.get("href").split("(")[1].split(",")[1].strip("(")
+                targets.append(sighting)
     return targets
 
 def ornithoGetSpecies(time, area, ornithopayload, ornithospecieslist):
@@ -131,6 +123,7 @@ def ornithoGetSpecies(time, area, ornithopayload, ornithospecieslist):
     for speciesid in ornithospecieslist:
         ornithodataurl = "http://www.ornitho." + area + "/index.php?m_id=94&sp_DChoice=offset&sp_DOffset=" + time + "&sp_S=" + str(speciesid) + "&submit=Abfrage+starten&mp_item_per_page=60&sp_SChoice=species&mp_current_page="
         ornithoSpecies = OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
+        #gc.collect()
     targets = OrnithoGetLocations(ornithopayload, ornithologin, ornithoSpecies)
     return targets
 
