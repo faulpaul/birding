@@ -28,7 +28,7 @@ def ebirdCompareSpecies(ebirdLifeList, ebirdAllSpecies):
     for j in ebirdLifeList:
         for i in ebirdAllSpecies:
             sciName = i["sciName"]
-            if (j == sciName) or ("(" in sciName) or (" x " in sciName) or ("." in sciName) or ("/" in sciName) or ("Sylvia melanocephala" in sciName) or ("Monticola solitarius" in sciName) or ("Alectoris rufa" in sciName):
+            if (j == sciName) or ("(" in sciName) or (" x " in sciName) or ("." in sciName) or ("/" in sciName):
                 ebirdAllSpecies.remove(i)
     return(ebirdAllSpecies)   
 
@@ -50,7 +50,7 @@ def ebirdCleanData(ebirdTargets, region):
     for species in ebirdTargets:
         try: number = species["howMany"]
         except: number = "x"
-        name = species["comName"]
+        name = species["comName"].replace("'","`") #some names include ' that will break the java script later on
         sciname = species["sciName"]
         source = "<a target=\"_blank\" href=ebird.org>ebird.org</a>"
         url = "ebird.org"
