@@ -18,7 +18,7 @@ import time
 def writeData(targets, maplat, maplng, zoomset, filenameJS, filenameHTML, path, fileCSS, googleAPI):
     #check if there are any sightings
     if targets: 
-	    #draw map
+        #draw map
         contentmap = buildMap(targets, maplat, maplng, zoomset)
         writeFile(contentmap ,path + filenameJS)
         # write HTML file
@@ -36,8 +36,7 @@ def buildMap(targets, maplat, maplng, zoomset):
     birdVar += "var locations = ["
     for sight in targets:
         i += 1
-        #print(sight)
-        birdVar += "[\'" + str(sight[1]) +" (" + str(sight[0]) + ") " + "| " + "\'," + str(sight[5]) + "," + str(sight[6]) + "," + str(i) + "],"
+        birdVar += "[\'" + str(sight[1]) +" (" + str(sight[0]) + ") " + "| " + "\'," + str(sight[5]) + "," + str(sight[6]) + "," + str(i) + "],\n"
     birdVar += "];"
     return birdVar
 

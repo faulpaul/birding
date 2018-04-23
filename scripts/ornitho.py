@@ -111,7 +111,7 @@ def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
         for item in all2:
             if "javascript" in item.get("href"):
                 sighting[5] = item.get("href").split("(")[1].split(",")[0]
-                sighting[6] = item.get("href").split("(")[1].split(",")[1].strip("(")
+                sighting[6] = item.get("href").split("(")[1].split(",")[1].strip("(").split(")")[0]
                 targets.append(sighting)
     return targets
 
