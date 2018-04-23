@@ -7,6 +7,7 @@ goohleAPI:{google maps API key}
 [SectionOrnithode]
 user:{ornitho.de user}
 pass:{ornitho.de password}
+list:lifelists/ornithoReferenzlisteArten20130415.xls
 
 [SectionEbird]
 user:{ebird.org user}

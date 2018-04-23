@@ -10,6 +10,7 @@
 
 import requests, datetime, re, time, gc
 from bs4 import BeautifulSoup
+from xlrd import open_workbook
 
 ####################################
 #                                  #
@@ -27,6 +28,19 @@ def dms2dec(dms_str):
         sign = 1
     (degree, minute, second, frac_seconds, junk) = re.split('\D+', dms_str, maxsplit=4)
     return sign * (int(degree) + float(minute) / 60 + float(second) / 3600 + float(frac_seconds) / 36000)
+
+def OrnithoGetSpeciesList(ornitholist):
+    ornithospecieslist = []
+    book = open_workbook(ornitholist, on_demand=True)
+    sheet = book.sheet_by_index(0)
+    # row/column 1 equals row/column 0 in python, all row numbers are in python mode
+    # rows 2 - 679 contain values
+    # column 0 is the ArtID_ornitho, column 12 has an "X" if the species has not been seen jet
+    for i in range (3, 680):
+        cell = sheet.cell(i,12).value
+        if "X" in sheet.cell(i,12).value:
+            ornithospecieslist.append(int(sheet.cell(i,0).value))
+    return ornithospecieslist
 
 # ornitho does not offer any API and the results are spread over several pages
 # the first function will get the data from each page
@@ -115,10 +129,11 @@ def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
                 targets.append(sighting)
     return targets
 
-def ornithoGetSpecies(time, area, ornithopayload, ornithospecieslist):
+def ornithoGetSpecies(time, area, ornithopayload, ornitholist):
     ornithologin = "http://www.ornitho." + area + "/index.php"
     ornithoSpecies = []
     targets = []
+    ornithospecieslist = OrnithoGetSpeciesList(ornitholist)
     for speciesid in ornithospecieslist:
         ornithodataurl = "http://www.ornitho." + area + "/index.php?m_id=94&sp_DChoice=offset&sp_DOffset=" + time + "&sp_S=" + str(speciesid) + "&submit=Abfrage+starten&mp_item_per_page=60&sp_SChoice=species&mp_current_page="
         ornithoSpecies = OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
