@@ -9,4 +9,4 @@ RUN pip3 install requests ebird-api lxml urllib3 bs4 xlrd
 RUN sed -i "$ d" /etc/crontab
 RUN echo "15 *    * * *   root    cd /scripts/ && python3 main.py" >> /etc/crontab
 RUN echo "#"  >> /etc/crontab
-RUN /etc/init.d/cron start
+CMD /etc/init.d/cron start
