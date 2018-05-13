@@ -1,0 +1,697 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Greater Rhea - Rhea americana,20,Nandus,DE-MV,25 Jun 2016,L4740805,S30414348
+2,Streifengans - Anser indicus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+3,Schneegans - Anser caerulescens,,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+4,Ross-Schneegans - Anser rossii,2,Ismaninger Speichersee,DE-BY,01 Nov 2015,L1514846,S28058173
+5,Graugans - Anser anser,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+6,Blässgans - Anser albifrons,,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+7,Waldsaatgans - Anser fabalis,10,Rambin,DE-MV,16 Jan 2016,L4348483,S28040650
+8,Tundrasaatgans - Anser serrirostris,8,Illerstausee,DE-BY,27 Dec 2016,L5192738,S33284109
+9,Ringelgans - Branta bernicla,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+10,Weiβwangengans - Branta leucopsis,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+11,Zwergkanadagans - Branta hutchinsii,2,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+12,Kanadagans - Branta canadensis,40,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+13,Höckerschwan - Cygnus olor,1,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+14,Trauerschwan - Cygnus atratus,1,Ismaninger Speichersee,DE-BY,24 Jul 2017,L1514846,S38313717
+15,Pfeifschwan/Zwergschwan - Cygnus columbianus,1,Bodensee--Eriskircher Ried,DE-BW,14 Nov 2015,L2111946,S28157108
+16,Singschwan - Cygnus cygnus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+17,Nilgans - Alopochen aegyptiaca,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+18,Rostgans - Tadorna ferruginea,2,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+19,Brandgans - Tadorna tadorna,3,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+20,Ringed Teal - Callonetta leucophrys,3,Itzelberger See,DE-BW,04 May 2018,L7363554,S45400745
+21,Wood Duck - Aix sponsa,8,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+22,Mandarinente - Aix galericulata,30,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+23,Knäkente - Spatula querquedula,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+24,Blauflügelente - Spatula discors,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+25,Cinnamon Teal - Spatula cyanoptera,14,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+26,Löffelente - Spatula clypeata,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+27,Schnatterente - Mareca strepera,8,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+28,Pfeifente - Mareca penelope,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+29,Kanadapfeifente - Mareca americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+30,Stockente - Anas platyrhynchos,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+31,Spieβente - Anas acuta,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+32,Krickente (Eurasisch und Amerikanisch) - Anas crecca,,Camargue--Étang de Vaccarès,FR-U,02 Apr 2015,L964443,S27885026
+33,Marmelente - Marmaronetta angustirostris,2,s'Albufera de Mallorca PNat--Àrea General,ES-IB,28 May 2016,L919671,S29990362
+34,Kolbenente - Netta rufina,4,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+35,Riesentafelente - Aythya valisineria,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+36,Rotkopfente - Aythya americana,2,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+37,Tafelente - Aythya ferina,200,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+38,Ringschnabelente - Aythya collaris,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+39,Moorente - Aythya nyroca,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+40,Reiherente - Aythya fuligula,200,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+41,Bergente - Aythya marila,,Zicklacke,AT-1,22 May 2015,L1775989,S27828845
+42,Kleine Bergente - Aythya affinis,4,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+43,Eiderente - Somateria mollissima,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+44,Brillenente - Melanitta perspicillata,,Coyote Hills Regional Park,US-CA,18 Feb 2016,L216132,S27691580
+45,Samtente - Melanitta fusca,1,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
+46,Trauerente - Melanitta nigra,1,Starnberger See--Seeshaupt,DE-BY,06 Dec 2015,L1304836,S28157104
+47,Eisente - Clangula hyemalis,2,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
+48,Büffelkopfente - Bucephala albeola,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+49,Schellente - Bucephala clangula,45,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+50,Zwergsäger - Mergellus albellus,1,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
+51,Kappensäger - Lophodytes cucullatus,,Hollywood Reservoir,US-CA,06 Jan 2018,L380940,S41693158
+52,Gänsesäger - Mergus merganser,4,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+53,Mittelsäger - Mergus serrator,2,Sassnitz Hafen,DE-MV,15 Jan 2016,L4251877,S28092357
+54,Schwarzkopfruderente - Oxyura jamaicensis,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+55,Tabon Scrubfowl - Megapodius cumingii,6,Manukan Island,MY-12,05 Sep 2016,L1119542,S31427000
+56,California Quail - Callipepla californica,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+57,Gambel's Quail - Callipepla gambelii,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+58,Red-breasted Partridge - Arborophila hyperythra,3,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+59,Chestnut-necklaced Partridge - Arborophila charltonii,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+60,Crimson-headed Partridge - Haematortyx sanguiniceps,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+61,Wachtel - Coturnix coturnix,2,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+62,Steinhuhn - Alectoris graeca,,Velo Blato Reserve,HR-13,24 Jun 2015,L2344991,S27893158
+63,Chukarhuhn - Alectoris chukar,1,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+64,Rothuhn - Alectoris rufa,,Chemin du Mas de Chauvet,FR-U,01 Apr 2015,L933934,S27832379
+65,Jagdfasan - Phasianus colchicus,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+66,Rebhuhn - Perdix perdix,18,Parndorfer Platte,AT-1,17 Sep 2017,L3140740,S39227570
+67,Auerhuhn - Tetrao urogallus,1,Alpe Mittelberg,DE-BY,10 May 2018,L7383837,S45527597
+68,Birkhuhn - Tetrao tetrix,2,Wank,DE-BY,03 Apr 2016,L4355037,S28719804
+69,Willow Ptarmigan - Lagopus lagopus,,Glenmore Forest Park,GB-SCT,17 Sep 2014,L1795902,S27912431
+70,Alpenschneehuhn - Lagopus muta,1,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+71,Wild Turkey - Meleagris gallopavo,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+72,Sterntaucher - Gavia stellata,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+73,Prachttaucher - Gavia arctica,18,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+74,Eistaucher - Gavia immer,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+75,Zwergtaucher - Tachybaptus ruficollis,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+76,Bindentaucher - Podilymbus podiceps,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+77,Ohrentaucher - Podiceps auritus,,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+78,Rothalstaucher - Podiceps grisegena,1,Starnberger See - südlicher Teil,DE-BY,30 Dec 2015,L4314686,S28157092
+79,Haubentaucher - Podiceps cristatus,8,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+80,Schwarzhalstaucher - Podiceps nigricollis,,Camargue--Étang de Vaccarès,FR-U,02 Apr 2015,L964443,S27885026
+81,Western Grebe - Aechmophorus occidentalis,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+82,Clark's Grebe - Aechmophorus clarkii,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+83,Chilean Flamingo - Phoenicopterus chilensis,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+84,American Flamingo - Phoenicopterus ruber,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+85,Rosaflamingo - Phoenicopterus roseus,,Camargue--Étang de Vaccarès,FR-U,02 Apr 2015,L964443,S27885026
+86,Eissturmvogel - Fulmarus glacialis,,Scottish Seabird Centre,GB-SCT,24 Apr 2016,L3098010,S29190278
+87,Sepiasturmtaucher - Calonectris diomedea,8,Archipiélago de Cabrera National Park,ES-IB,02 Jun 2016,L4665623,S30043163
+88,Groβer Sturmtaucher - Ardenna gravis,1,PN Sudoeste Alentejano e Costa Vicentina--Estalagem,PT-08,30 Nov 2016,L991881,S32795486
+89,Dunkler Sturmtaucher - Ardenna grisea,,Lighthouse Pt.,US-CA,21 Sep 2015,L600607,S27996840
+90,Balearensturmtaucher - Puffinus mauretanicus,1,PN Sudoeste Alentejano e Costa Vicentina--Estalagem,PT-08,01 Dec 2016,L991881,S32806068
+91,Black-vented Shearwater - Puffinus opisthomelas,,Lighthouse Pt.,US-CA,21 Sep 2015,L600607,S27996840
+92,Schwarzstorch - Ciconia nigra,,RNN des Coussouls de Crau (RNN152)--La Grosse du Levant,FR-U,03 Apr 2015,L3200892,S27885058
+93,Storm's Stork - Ciconia stormi,3,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+94,Weiβstorch - Ciconia ciconia,,Chemin du Mas de Chauvet,FR-U,01 Apr 2015,L933934,S27832379
+95,Lesser Adjutant - Leptoptilos javanicus,1,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+96,Basstölpel - Morus bassanus,,Scottish Seabird Centre,GB-SCT,24 Apr 2016,L3098010,S29190278
+97,Zwergscharbe - Microcarbo pygmeus,,Warmblueterkoppel,AT-1,22 May 2015,L1647202,S27828806
+98,Brandt's Cormorant - Phalacrocorax penicillatus,,Pier 39,US-CA,20 Sep 2015,L213054,S27996768
+99,Pelagic Cormorant - Phalacrocorax pelagicus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+100,Kormoran - Phalacrocorax carbo,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+101,Krähenscharbe - Phalacrocorax aristotelis,,Scottish Seabird Centre,GB-SCT,24 Apr 2016,L3098010,S29190278
+102,Neotropic Cormorant - Phalacrocorax brasilianus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+103,Double-crested Cormorant - Phalacrocorax auritus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+104,Oriental Darter - Anhinga melanogaster,1,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+105,American White Pelican - Pelecanus erythrorhynchos,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+106,Brown Pelican - Pelecanus occidentalis,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+107,Rohrdommel - Botaurus stellaris,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+108,Zwergdommel - Ixobrychus minutus,,Fertő-Hanság NP--observation tower,HU-GS,21 May 2015,L2903196,S27828142
+109,Great Blue Heron - Ardea herodias,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+110,Graureiher - Ardea cinerea,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+111,Purpurreiher - Ardea purpurea,,Petite Camargue--Étang de Scamandre,FR-K,06 Apr 2015,L931716,S27885350
+112,Silberreiher - Ardea alba,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+113,Intermediate Egret - Ardea intermedia,2,Kota Kinabalu--Likas Lagoon,MY-12,06 Sep 2016,L1119754,S31445004
+114,Seidenreiher - Egretta garzetta,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+115,Pacific Reef-Heron - Egretta sacra,1,Kota Kinabalu--Tanjung Aru Beach,MY-12,04 Sep 2016,L1915564,S31409133
+116,Schmuckreiher - Egretta thula,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+117,Little Blue Heron - Egretta caerulea,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+118,Tricolored Heron - Egretta tricolor,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+119,Kuhreiher - Bubulcus ibis,,Etang d'Entressen,FR-U,01 Apr 2015,L2070239,S27832241
+120,Rallenreiher - Ardeola ralloides,1,s'Albufera de Mallorca PNat--Àrea General,ES-IB,28 May 2016,L919671,S29990362
+121,Mangrovereiher - Butorides striata,2,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+122,Nachtreiher - Nycticorax nycticorax,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+123,Rufous Night-Heron - Nycticorax caledonicus,2,Kota Kinabalu--Likas Lagoon,MY-12,06 Sep 2016,L1119754,S31445004
+124,White Ibis - Eudocimus albus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+125,Brauner Sichler - Plegadis falcinellus,,Petite Camargue--Étang de Scamandre,FR-K,06 Apr 2015,L931716,S27885350
+126,White-faced Ibis - Plegadis chihi,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+127,Heiliger Ibis - Threskiornis aethiopicus,1,Ismaninger Speichersee,DE-BY,13 Sep 2015,L1514846,S28092509
+128,Waldrapp - Geronticus eremita,12,Burghausen,DE-BY,18 Jun 2016,L4718359,S30313398
+129,Löffler - Platalea leucorodia,5,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+130,Roseate Spoonbill - Platalea ajaja,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+131,Turkey Vulture - Cathartes aura,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+132,Fischadler - Pandion haliaetus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+133,Gleitaar - Elanus caeruleus,1,Kota Kinabalu--Tanjung Aru Beach,MY-12,07 Sep 2016,L1915564,S31459031
+134,White-tailed Kite - Elanus leucurus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+135,Wespenbussard - Pernis apivorus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+136,Jerdon's Baza - Aviceda jerdoni,1,Kinabatangan Wildlife Sanctuary,MY-12,01 Sep 2016,L3880393,S31355261
+137,Mönchsgeier - Aegypius monachus,1,Embalse de Cuber,ES-IB,30 May 2016,L3187399,S29993044
+138,Gänsegeier - Gyps fulvus,,Mali Lok Koromacna,HR-08,26 Jun 2015,L4322795,S27893285
+139,Crested Serpent-Eagle - Spilornis cheela,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+140,Schlangenadler - Circaetus gallicus,1,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+141,Bat Hawk - Macheiramphus alcinus,2,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+142,Changeable Hawk-Eagle - Nisaetus limnaeetus,,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+143,Wallace's Hawk-Eagle - Nisaetus nanus,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+144,Black Eagle - Ictinaetus malaiensis,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+145,Zwergadler - Hieraaetus pennatus,1,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+146,östlicher Kaiseradler - Aquila heliaca,,Bewahrungszone Waasen-Hanság,AT-1,22 May 2015,L2243971,S27828783
+147,Steinadler - Aquila chrysaetos,1,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+148,Habichtsadler - Aquila fasciata,,Cavaillon (ville),FR-U,05 Apr 2015,L967387,S27885338
+149,Rohrweihe - Circus aeruginosus,,Camargue--Étang du Fangassier,FR-U,02 Apr 2015,L3201009,S27885054
+150,Kornweihe - Circus cyaneus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,16 May 2015,L942914,S28157166
+151,Northern Harrier - Circus hudsonius,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+152,Wiesenweihe - Circus pygargus,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+153,Crested Goshawk - Accipiter trivirgatus,1,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+154,Sperber - Accipiter nisus,,RNN des Coussouls de Crau (RNN152)--La Grosse du Levant,FR-U,03 Apr 2015,L3200892,S27885058
+155,Sharp-shinned Hawk - Accipiter striatus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+156,Cooper's Hawk - Accipiter cooperii,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+157,Habicht - Accipiter gentilis,,Chemin du Mas de Chauvet,FR-U,01 Apr 2015,L933934,S27832379
+158,Rotmilan - Milvus milvus,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+159,Schwarzmilan - Milvus migrans,,Hong Kong Zoological and Botanical gardens,HK-,24 May 2011,L2027973,S30470855
+160,Brahminy Kite - Haliastur indus,2,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+161,Weißkopfseeadler - Haliaeetus leucocephalus,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+162,Seeadler - Haliaeetus albicilla,1,Lange Lacke,AT-1,11 Dec 2015,L1103773,S27831909
+163,White-bellied Sea-Eagle - Haliaeetus leucogaster,2,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+164,Lesser Fish-Eagle - Haliaeetus humilis,1,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+165,Gray-headed Fish-Eagle - Haliaeetus ichthyaetus,1,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+166,Cuban Black Hawk - Buteogallus gundlachii,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+167,Red-shouldered Hawk - Buteo lineatus,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+168,Red-tailed Hawk - Buteo jamaicensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+169,Raufuβbussard - Buteo lagopus,1,Bewahrungszone Waasen-Hanság,AT-1,11 Dec 2015,L2243971,S27832009
+170,Mäusebussard - Buteo buteo,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+171,Groβtrappe - Otis tarda,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+172,Zwergtrappe - Tetrax tetrax,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+173,Wachtelkönig - Crex crex,5,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+174,Wasserralle - Rallus aquaticus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+175,White-breasted Waterhen - Amaurornis phoenicurus,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+176,Sora - Porzana carolina,1,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+177,Tüpfelsumpfhuhn - Porzana porzana,1,Kochelmoos,DE-BY,05 Jun 2017,L4421087,S37418866
+178,Kleines Sumpfhuhn - Zapornia parva,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+179,Purpurhuhn - Porphyrio porphyrio,,s'Albufera de Mallorca PNat--Àrea General,ES-IB,28 May 2016,L919671,S29990362
+180,Teichhuhn - Gallinula chloropus,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+181,Common Gallinule - Gallinula galeata,5,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+182,Red-knobbed Coot - Fulica cristata,,s'Albufera de Mallorca PNat--Àrea General,ES-IB,28 May 2016,L919671,S29990362
+183,Blässhuhn - Fulica atra,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+184,American Coot - Fulica americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+185,Kanadakranich - Antigone canadensis,9,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+186,Kranich - Grus grus,,Fertő-Hanság NP--observation tower,HU-GS,21 May 2015,L2903196,S27828142
+187,Triel - Burhinus oedicnemus,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+188,Stelzenläufer - Himantopus himantopus,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+189,Black-necked Stilt - Himantopus mexicanus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+190,Säbelschnäbler - Recurvirostra avosetta,,Camargue--Domaine de la Palissade,FR-U,02 Apr 2015,L2285547,S27885050
+191,American Avocet - Recurvirostra americana,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+192,Austernfischer - Haematopus ostralegus,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+193,Black Oystercatcher - Haematopus bachmani,1,Cesar Chavez Park,US-CA,13 Feb 2016,L285281,S27719969
+194,Kiebitzregenpfeifer - Pluvialis squatarola,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+195,Goldregenpfeifer - Pluvialis apricaria,,Camargue--Étang du Fangassier,FR-U,02 Apr 2015,L3201009,S27885054
+196,Kiebitz - Vanellus vanellus,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+197,Seeregenpfeifer - Charadrius alexandrinus,,Camargue--Étang du Fangassier,FR-U,02 Apr 2015,L3201009,S27885054
+198,Snowy Plover - Charadrius nivosus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+199,Sandregenpfeifer - Charadrius hiaticula,,Camargue--Grau d'Orgon,FR-U,04 Apr 2015,L3171150,S27885335
+200,Semipalmated Plover - Charadrius semipalmatus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+201,Flussregenpfeifer - Charadrius dubius,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+202,Killdeer - Charadrius vociferus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+203,Regenbrachvogel - Numenius phaeopus,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+204,Long-billed Curlew - Numenius americanus,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+205,Groβer Brachvogel - Numenius arquata,,Camargue--Étang du Fangassier,FR-U,02 Apr 2015,L3201009,S27885054
+206,Pfuhlschnepfe - Limosa lapponica,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+207,Uferschnepfe - Limosa limosa,1,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+208,Marbled Godwit - Limosa fedoa,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+209,Steinwälzer - Arenaria interpres,60,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+210,Black Turnstone - Arenaria melanocephala,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+211,Knutt - Calidris canutus,,Insel Sylt--List,DE-SH,06 May 2016,L1033468,S29511751
+212,Surfbird - Calidris virgata,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+213,Kampfläufer - Calidris pugnax,,Zicklacke,AT-1,21 May 2015,L1775989,S27828578
+214,Sichelstrandläufer - Calidris ferruginea,5,Warmblueterkoppel,AT-1,16 Sep 2017,L1647202,S39212670
+215,Temminckstrandläufer - Calidris temminckii,,Zicklacke,AT-1,28 Apr 2017,L1775989,S36612269
+216,Sanderling - Calidris alba,,"Moss Landing--jetties, channel and/or seawatch only",US-CA,22 Sep 2015,L512068,S27956703
+217,Alpenstrandläufer - Calidris alpina,,Camargue--Étang du Fangassier,FR-U,02 Apr 2015,L3201009,S27885054
+218,Zwergstrandläufer - Calidris minuta,1,PN Ria Formosa--Ludo--esteiros do Ancão e da Maria Nova (percurso sul),PT-08,02 Dec 2016,L964943,S32817570
+219,Wiesenstrandläufer - Calidris minutilla,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+220,Western Sandpiper - Calidris mauri,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+221,Kleiner Schlammläufer - Limnodromus griseus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+222,Groβer Schlammläufer - Limnodromus scolopaceus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+223,Waldschnepfe - Scolopax rusticola,3,Grafenaschau,DE-BY,13 Apr 2016,L4485443,S28935697
+224,Bekassine - Gallinago gallinago,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+225,Wilson's Snipe - Gallinago delicata,35,Cosumnes River Preserve,US-CA,19 Feb 2016,L656782,S27691504
+226,Odinshühnchen - Phalaropus lobatus,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+227,Flussuferläufer - Actitis hypoleucos,,Petite Camargue--Étang de Scamandre,FR-K,07 Apr 2015,L931716,S27885358
+228,Drosseluferläufer - Actitis macularius,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+229,Waldwasserläufer - Tringa ochropus,1,Ismaninger Speichersee,DE-BY,11 Jul 2015,L1514846,S28058148
+230,Wandering Tattler - Tringa incana,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+231,Dunkler Wasserläufer - Tringa erythropus,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+232,Greater Yellowlegs - Tringa melanoleuca,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+233,Grünschenkel - Tringa nebularia,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,05 Sep 2015,L942914,S28228467
+234,Willet - Tringa semipalmata,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+235,Kleiner Gelbschenkel - Tringa flavipes,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+236,Bruchwasserläufer - Tringa glareola,20,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+237,Rotschenkel - Tringa totanus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+238,Skua - Stercorarius skua,1,PN Sudoeste Alentejano e Costa Vicentina--Cabo de São Vicente,PT-08,30 Nov 2016,L997949,S32795407
+239,Trottellumme - Uria aalge,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+240,Tordalk - Alca torda,,Scottish Seabird Centre,GB-SCT,24 Apr 2016,L3098010,S29190278
+241,Papageitaucher - Fratercula arctica,3,Scottish Seabird Centre,GB-SCT,24 Apr 2016,L3098010,S29190278
+242,Dreizehenmöwe - Rissa tridactyla,,Scottish Seabird Centre,GB-SCT,24 Apr 2016,L3098010,S29190278
+243,Schwalbenmöwe - Xema sabini,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+244,Dünnschnabelmöwe - Chroicocephalus genei,,Camargue--Domaine de la Palissade,FR-U,02 Apr 2015,L2285547,S27885050
+245,Bonapartemöwe - Chroicocephalus philadelphia,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+246,Lachmöwe - Chroicocephalus ridibundus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+247,Zwergmöwe - Hydrocoloeus minutus,,Warmblueterkoppel,AT-1,22 May 2015,L1647202,S27828806
+248,Schwarzkopfmöwe - Ichthyaetus melanocephalus,,Camargue--Domaine de la Palissade,FR-U,02 Apr 2015,L2285547,S27885050
+249,Korallenmöwe - Ichthyaetus audouinii,,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+250,Heermann's Gull - Larus heermanni,,Pier 39,US-CA,20 Sep 2015,L213054,S27996768
+251,Sturmmöwe - Larus canus,,Fährfahrt Hiddensee - Rügen,DE-MV,16 Jan 2016,L4348486,S28040676
+252,Ringschnabelmöwe - Larus delawarensis,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+253,Western Gull - Larus occidentalis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+254,California Gull - Larus californicus,,Charleston Slough/Coast Casey Forebay,US-CA,21 Sep 2015,L730351,S27956878
+255,Silbermöwe/Kanadamöwe - Larus argentatus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+256,Mittelmeermöwe - Larus michahellis,,Camargue--Domaine de la Palissade,FR-U,02 Apr 2015,L2285547,S27885050
+257,Steppenmöwe - Larus cachinnans,1,Bodensee--Eriskircher Ried,DE-BW,14 Nov 2015,L2111946,S28157108
+258,Iceland Gull - Larus glaucoides,1,Büsum Ostdeich,DE-SH,23 Nov 2017,L6596492,S41261915
+259,Heringsmöwe - Larus fuscus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+260,Glaucous-winged Gull - Larus glaucescens,1,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+261,Mantelmöwe - Larus marinus,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+262,Zwergseeschwalbe - Sternula albifrons,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+263,Lachseeschwalbe - Gelochelidon nilotica,3,Neufeld Hafen,DE-SH,05 May 2016,L4425622,S29510009
+264,Raubseeschwalbe - Hydroprogne caspia,4,PN Ria Formosa--Ludo--esteiros do Ancão e da Maria Nova (percurso sul),PT-08,26 Nov 2016,L964943,S32732055
+265,Trauerseeschwalbe - Chlidonias niger,,Fertő-Hanság NP--observation tower,HU-GS,21 May 2015,L2903196,S27828142
+266,Weiβflügel-Seeschwalbe - Chlidonias leucopterus,,Lange Lacke,AT-1,20 May 2015,L1103773,S27828024
+267,Weiβbart-Seeschwalbe - Chlidonias hybrida,2,Kota Kinabalu--Likas Lagoon,MY-12,06 Sep 2016,L1119754,S31445004
+268,Fluβseeschwalbe - Sterna hirundo,,Petite Camargue--Étang de Scamandre,FR-K,06 Apr 2015,L931716,S27885350
+269,Küstenseeschwalbe - Sterna paradisaea,,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+270,Forster's Tern - Sterna forsteri,,Harry Bridges Memorial Park,US-CA,05 Oct 2015,L2708849,S27956632
+271,Royal Tern - Thalasseus maximus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+272,Brandseeschwalbe - Thalasseus sandvicensis,2,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+273,Schmuckseeschwalbe - Thalasseus elegans,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+274,Sandflughuhn - Pterocles orientalis,22,ZPE Castro Verde--Castro Verde,PT-02,28 Nov 2016,L2590526,S32769668
+275,Felsentaube/Stra§entaube - Columba livia,,Langkawi,MY-02,11 Feb 2013,L1346438,S30459010
+276,Hohltaube - Columba oenas,1,Bauerbach,DE-BY,14 Sep 2015,L4384375,S28228448
+277,Ringeltaube - Columba palumbus,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+278,Band-tailed Pigeon - Patagioenas fasciata,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+279,Turteltaube - Streptopelia turtur,,Fertő-Hanság NP--observation tower,HU-GS,21 May 2015,L2903196,S27828142
+280,Türkentaube - Streptopelia decaocto,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+281,Spotted Dove - Streptopelia chinensis,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+282,Little Cuckoo-Dove - Macropygia ruficeps,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+283,Asian Emerald Dove - Chalcophaps indica,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+284,Zebra Dove - Geopelia striata,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+285,Zenaida Dove - Zenaida aurita,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+286,Mourning Dove - Zenaida macroura,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+287,Little Green-Pigeon - Treron olax,,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+288,Pink-necked Pigeon - Treron vernans,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+289,Green Imperial-Pigeon - Ducula aenea,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+290,Gray Imperial-Pigeon - Ducula pickeringii,,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+291,Mountain Imperial-Pigeon - Ducula badia,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+292,Smooth-billed Ani - Crotophaga ani,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+293,Greater Roadrunner - Geococcyx californianus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+294,Greater Coucal - Centropus sinensis,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+295,Lesser Coucal - Centropus bengalensis,1,Kota Kinabalu--Tanjung Aru Beach,MY-12,07 Sep 2016,L1915564,S31459031
+296,Raffles's Malkoha - Rhinortha chlorophaea,2,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+297,Great Lizard-Cuckoo - Coccyzus merlini,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+298,Violet Cuckoo - Chrysococcyx xanthorhynchus,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+299,Plaintive Cuckoo - Cacomantis merulinus,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+300,Square-tailed Drongo-Cuckoo - Surniculus lugubris,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+301,Indian Cuckoo - Cuculus micropterus,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+302,Kuckuck - Cuculus canorus,,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+303,Schleiereule - Tyto alba,,Warmblueterkoppel,AT-1,21 May 2015,L1647202,S27828666
+304,Zwergohreule - Otus scops,1,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+305,Bare-legged Owl - Margarobyas lawrencii,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+306,Great Horned Owl - Bubo virginianus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+307,Uhu - Bubo bubo,1,Auweiher und Umgebug,DE-BY,06 Feb 2016,L4348474,S28040619
+308,Barred Eagle-Owl - Bubo sumatranus,2,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+309,Buffy Fish-Owl - Ketupa ketupu,3,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+310,Sperlingskauz - Glaucidium passerinum,1,Eibsee,DE-BY,16 Mar 2016,L962982,S28247877
+311,Cuban Pygmy-Owl - Glaucidium siju,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+312,Steinkauz - Athene noctua,,Velo Blato Reserve,HR-13,24 Jun 2015,L2344991,S27893158
+313,Brown Wood-Owl - Strix leptogrammica,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+314,Waldkauz - Strix aluco,1,Auweiher und Umgebug,DE-BY,06 Feb 2016,L4348474,S28040619
+315,Waldohreule - Asio otus,7,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+316,Stygian Owl - Asio stygius,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+317,Sumpfohreule - Asio flammeus,,Nationalpark Neusiedler See-Seewinkel,AT-1,22 May 2015,L963694,S27831576
+318,Brown Boobook - Ninox scutulata,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+319,Large Frogmouth - Batrachostomus auritus,1,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+320,Ziegenmelker - Caprimulgus europaeus,2,Forest Tennenlohe,DE-BY,21 May 2016,L2832195,S29853397
+321,Silver-rumped Needletail - Rhaphidura leucopygialis,2,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+322,Brown-backed Needletail - Hirundapus giganteus,2,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+323,Bornean Swiftlet - Collocalia dodgei,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31371701
+324,Plume-toed Swiftlet - Collocalia affinis,,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+325,Mossy-nest Swiftlet - Aerodramus salangana,,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+326,Black-nest Swiftlet - Aerodramus maximus,,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+327,White-nest Swiftlet - Aerodramus fuciphagus,,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+328,Alpensegler - Apus melba,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+329,Mauersegler - Apus apus,,Beijing--Zhongshan Park,CN-11,07 Jun 2011,L3565355,S30465095
+330,Fahlsegler - Apus pallidus,1,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+331,White-throated Swift - Aeronautes saxatalis,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+332,Asian Palm-Swift - Cypsiurus balasiensis,2,Manukan Island,MY-12,05 Sep 2016,L1119542,S31427000
+333,Anna's Hummingbird - Calypte anna,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+334,Costa's Hummingbird - Calypte costae,2,Joshua Tree NP,US-CA,08 Jan 2018,L385590,S41755618
+335,Allen's Hummingbird - Selasphorus sasin,1,Hollywood Reservoir,US-CA,06 Jan 2018,L380940,S41693158
+336,Cuban Emerald - Chlorostilbon ricordii,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+337,Cuban Trogon - Priotelus temnurus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+338,Red-naped Trogon - Harpactes kasumba,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+339,Whitehead's Trogon - Harpactes whiteheadi,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+340,Scarlet-rumped Trogon - Harpactes duvaucelii,2,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+341,Wiedehopf - Upupa epops,,Camargue--Parc ornithologique du Pont de Gau,FR-U,04 Apr 2015,L1067998,S27885074
+342,White-crowned Hornbill - Berenicornis comatus,3,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+343,Rhinoceros Hornbill - Buceros rhinoceros,3,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+344,Great Hornbill - Buceros bicornis,,Langkawi,MY-02,11 Feb 2013,L1346438,S30459010
+345,Bushy-crested Hornbill - Anorrhinus galeritus,8,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+346,Black Hornbill - Anthracoceros malayanus,4,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+347,Oriental Pied-Hornbill - Anthracoceros albirostris,1,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+348,Wrinkled Hornbill - Rhabdotorrhinus corrugatus,2,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+349,Cuban Tody - Todus multicolor,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+350,Eisvogel - Alcedo atthis,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+351,Blue-eared Kingfisher - Alcedo meninting,2,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+352,Black-backed Dwarf-Kingfisher - Ceyx erithaca,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+353,Rufous-backed Dwarf-Kingfisher - Ceyx rufidorsa,2,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+354,Stork-billed Kingfisher - Pelargopsis capensis,3,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+355,Collared Kingfisher - Todiramphus chloris,3,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+356,Belted Kingfisher - Megaceryle alcyon,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+357,Blue-throated Bee-eater - Merops viridis,3,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+358,Bienenfresser - Merops apiaster,,Gols,AT-1,20 May 2015,L4312168,S27827277
+359,Dollarbird - Eurystomus orientalis,,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+360,Brown Barbet - Caloramphus fuliginosus,4,Sepilok--Orang-utan sanctuary & forest reserve,MY-12,28 Aug 2016,L923940,S31289490
+361,Blue-eared Barbet - Psilopogon duvaucelii,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+362,Red-throated Barbet - Psilopogon mystacophanos,2,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+363,Golden-naped Barbet - Psilopogon pulcherrimus,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+364,Wendehals - Jynx torquilla,1,Murnauer Moos,DE-BY,25 Apr 2015,L1590602,S28228718
+365,Acorn Woodpecker - Melanerpes formicivorus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+366,Red-bellied Woodpecker - Melanerpes carolinus,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+367,West Indian Woodpecker - Melanerpes superciliaris,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+368,Yellow-bellied Sapsucker - Sphyrapicus varius,2,Central Park,US-NY,15 Jan 2018,L191106,S41954270
+369,Red-naped Sapsucker - Sphyrapicus nuchalis,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+370,Red-breasted Sapsucker - Sphyrapicus ruber,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+371,Cuban Green Woodpecker - Xiphidiopicus percussus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+372,Sunda Woodpecker - Dendrocopos moluccensis,2,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+373,Kleinspecht - Dendrocopos minor,2,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+374,Mittelspecht - Dendrocopos medius,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,01 Nov 2016,L942914,S32325062
+375,Weiβrückenspecht - Dendrocopos leucotos,3,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+376,Buntspecht - Dendrocopos major,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+377,Blutspecht - Dendrocopos syriacus,,Nationalpark Neusiedler See,AT-1,21 May 2015,L1103772,S27828709
+378,Ladder-backed Woodpecker - Picoides scalaris,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+379,Nuttall's Woodpecker - Picoides nuttallii,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+380,Downy Woodpecker - Picoides pubescens,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+381,Hairy Woodpecker - Picoides villosus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+382,White-headed Woodpecker - Picoides albolarvatus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+383,Dreizehenspecht - Picoides tridactylus,2,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
+384,Northern Flicker - Colaptes auratus,,Grand Canyon NP--Mather Point,US-AZ,24 Sep 2015,L586552,S27956526
+385,Fernandina's Flicker - Colaptes fernandinae,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+386,Schwarzspecht - Dryocopus martius,1,Murnauer Moos,DE-BY,06 Jun 2015,L1590602,S28093583
+387,Banded Woodpecker - Picus miniaceus,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+388,Crimson-winged Woodpecker - Picus puniceus,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+389,Grünspecht - Picus viridis,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+390,Grauspecht - Picus canus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+391,Buff-necked Woodpecker - Meiglyptes tukki,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+392,Maroon Woodpecker - Blythipicus rubiginosus,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+393,Gray-and-buff Woodpecker - Hemicircus concretus,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+394,Turmfalke - Falco tinnunculus,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+395,American Kestrel - Falco sparverius,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+396,Rotfuβfalke - Falco vespertinus,2,Ismaninger Speichersee,DE-BY,06 May 2017,L1514846,S36614723
+397,Eleonora's Falcon - Falco eleonorae,2,Arta Peninsula & Cala Torta,ES-IB,29 May 2016,L4655946,S29990993
+398,Merlin - Falco columbarius,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+399,Baumfalke - Falco subbuteo,4,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+400,Wanderfalke - Falco peregrinus,1,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+401,Alexandersittich - Psittacula eupatria,4,"Schlosspark, Wiesbaden",DE-HE,30 Apr 2018,L3838706,S45147150
+402,Halsbandsittich - Psittacula krameri,20,"Schlosspark, Wiesbaden",DE-HE,30 Apr 2018,L3838706,S45147150
+403,Long-tailed Parakeet - Psittacula longicauda,5,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+404,Blue-naped Parrot - Tanygnathus lucionensis,7,Kota Kinabalu--Tanjung Aru Beach,MY-12,04 Sep 2016,L1915564,S31409133
+405,Blue-crowned Hanging-Parrot - Loriculus galgulus,1,Kinabatangan Wildlife Sanctuary,MY-12,01 Sep 2016,L3880393,S31355261
+406,Gelbkopfamazone - Amazona oratrix,8,Rosensteinpark,DE-BW,16 Jun 2016,L4421051,S30265151
+407,Red-masked Parakeet - Psittacara erythrogenys,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+408,Black-and-red Broadbill - Cymbirhynchus macrorhynchos,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+409,Banded Broadbill - Eurylaimus javanicus,1,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+410,Black-and-yellow Broadbill - Eurylaimus ochromalus,,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+411,Black-crowned Pitta - Erythropitta ussheri,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+412,Hooded Pitta - Pitta sordida,1,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+413,Black Phoebe - Sayornis nigricans,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+414,Say's Phoebe - Sayornis saya,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+415,La Sagra's Flycatcher - Myiarchus sagrae,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+416,Cassin's Kingbird - Tyrannus vociferans,4,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+417,Gray Kingbird - Tyrannus dominicensis,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+418,Black-winged Flycatcher-shrike - Hemipus hirundinaceus,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+419,White-breasted Woodswallow - Artamus leucorynchus,3,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+420,Common Iora - Aegithina tiphia,,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+421,Green Iora - Aegithina viridissima,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+422,Fiery Minivet - Pericrocotus igneus,2,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+423,Gray-chinned Minivet - Pericrocotus solaris,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+424,Pied Triller - Lalage nigra,1,Kota Kinabalu--Tanjung Aru Beach,MY-12,04 Sep 2016,L1915564,S31409133
+425,Lesser Cuckooshrike - Lalage fimbriata,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+426,Bornean Whistler - Pachycephala hypoxantha,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+427,Mangrove Whistler - Pachycephala cinerea,,Manukan Island,MY-12,05 Sep 2016,L1119542,S31427000
+428,Neuntöter - Lanius collurio,,Bewahrungszone Waasen-Hanság,AT-1,20 May 2015,L2243971,S27827915
+429,Long-tailed Shrike - Lanius schach,1,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+430,Loggerhead Shrike - Lanius ludovicianus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+431,Raubwürger - Lanius excubitor,,Bewahrungszone Waasen-Hanság,AT-1,11 Dec 2015,L2243971,S27832009
+432,Southern Gray Shrike - Lanius meridionalis,,ZPE Castro Verde--Castro Verde,PT-02,27 Nov 2016,L2590526,S32750658
+433,Rotkopfwürger - Lanius senator,,Velo Blato Reserve,HR-13,24 Jun 2015,L2344991,S27893158
+434,Hutton's Vireo - Vireo huttoni,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+435,Pirol - Oriolus oriolus,,Illmitz-Hölle,AT-1,22 May 2015,L1505438,S27828767
+436,Black-naped Oriole - Oriolus chinensis,,Langkawi,MY-02,11 Feb 2013,L1346438,S30459010
+437,Black-hooded Oriole - Oriolus xanthornus,1,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+438,Ashy Drongo - Dicrurus leucophaeus,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,01 Sep 2016,L923936,S31355269
+439,Greater Racket-tailed Drongo - Dicrurus paradiseus,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+440,Malaysian Pied-Fantail - Rhipidura javanica,,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+441,White-throated Fantail - Rhipidura albicollis,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+442,Black-naped Monarch - Hypothymis azurea,1,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+443,Black Magpie - Platysmurus leucopterus,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+444,Steller's Jay - Cyanocitta stelleri,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+445,Blue Jay - Cyanocitta cristata,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+446,California Scrub-Jay - Aphelocoma californica,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+447,Eichelhäher - Garrulus glandarius,1,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+448,Iberian Magpie - Cyanopica cooki,8,PN Ria Formosa--Ludo--esteiros do Ancão e da Maria Nova (percurso sul),PT-08,26 Nov 2016,L964943,S32732055
+449,Bornean Green-Magpie - Cissa jefferyi,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+450,Bornean Treepie - Dendrocitta cinerascens,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+451,Elster - Pica pica,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+452,Black-billed Magpie - Pica hudsonia,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+453,Clark's Nutcracker - Nucifraga columbiana,,Devils Postpile NM,US-CA,24 Sep 2015,L278424,S27956489
+454,Tannenhäher - Nucifraga caryocatactes,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,15 Aug 2015,L942914,S28228476
+455,Alpenkrähe - Pyrrhocorax pyrrhocorax,30,PN Sudoeste Alentejano e Costa Vicentina--Vale Santo,PT-08,29 Nov 2016,L1006212,S32778860
+456,Alpendohle - Pyrrhocorax graculus,1,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+457,Dohle - Corvus monedula,,Etang d'Entressen,FR-U,01 Apr 2015,L2070239,S27832241
+458,House Crow - Corvus splendens,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+459,Slender-billed Crow - Corvus enca,,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+460,Saatkrähe - Corvus frugilegus,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+461,American Crow - Corvus brachyrhynchos,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+462,Rabenkrähe - Corvus corone,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+463,Nebelkrähe - Corvus cornix,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+464,Kolkrabe - Corvus corax,6,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+465,Bartmeise - Panurus biarmicus,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+466,Ohrenlerche - Eremophila alpestris,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+467,Kalanderlerche - Melanocorypha calandra,6,Cap de ses Salines,ES-IB,04 Jun 2016,L4406771,S30101379
+468,Heidelerche - Lullula arborea,3,Forest Tennenlohe,DE-BY,21 May 2016,L2832195,S29853397
+469,Feldlerche - Alauda arvensis,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+470,Thekla's Lark - Galerida theklae,1,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+471,Haubenlerche - Galerida cristata,,Nationalpark Neusiedler See-Seewinkel,AT-1,22 May 2015,L963694,S27831576
+472,Northern Rough-winged Swallow - Stelgidopteryx serripennis,3,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+473,Tree Swallow - Tachycineta bicolor,7,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+474,Violet-green Swallow - Tachycineta thalassina,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+475,Uferschwalbe - Riparia riparia,2,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+476,Felsenschwalbe - Ptyonoprogne rupestris,,Les Baux-de-Provence (ville),FR-U,03 Apr 2015,L934008,S27885060
+477,Rauchschwalbe - Hirundo rustica,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+478,Pacific Swallow - Hirundo tahitica,,MY-Sabah-Kota Kinabalu inanam Bus Station ,MY-12,27 Aug 2016,L4884405,S31289285
+479,Mehlschwalbe - Delichon urbicum,,Schwarzachwiesen,DE-BY,26 Apr 2015,L4384370,S28228418
+480,Tannenmeise - Periparus ater,2,Eibsee,DE-BY,05 Mar 2016,L962982,S27979058
+481,Haubenmeise - Lophophanes cristatus,,Glenmore Forest Park,GB-SCT,17 Sep 2014,L1795902,S27912431
+482,Sombre Tit - Poecile lugubris,,Mali Lok Koromacna,HR-08,26 Jun 2015,L4322795,S27893285
+483,Sumpfmeise - Poecile palustris,1,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+484,Weidenmeise - Poecile montanus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+485,Black-capped Chickadee - Poecile atricapillus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+486,Mountain Chickadee - Poecile gambeli,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+487,Chestnut-backed Chickadee - Poecile rufescens,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+488,Blaumeise - Cyanistes caeruleus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+489,Oak Titmouse - Baeolophus inornatus,5,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+490,Juniper Titmouse - Baeolophus ridgwayi,,Grand Canyon NP--Mather Point,US-AZ,24 Sep 2015,L586552,S27956526
+491,Kohlmeise - Parus major,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+492,Verdin - Auriparus flaviceps,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+493,Beutelmeise - Remiz pendulinus,,Nationalpark Neusiedler See--Biological Station,AT-1,21 May 2015,L1120016,S27828733
+494,Schwanzmeise - Aegithalos caudatus,6,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+495,Bushtit - Psaltriparus minimus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+496,Kleiber - Sitta europaea,2,Starnberger See - südlicher Teil,DE-BY,24 Dec 2014,L4314686,S28075791
+497,Red-breasted Nuthatch - Sitta canadensis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+498,White-breasted Nuthatch - Sitta carolinensis,,Bryce Canyon NP -- Visitor Center,US-UT,27 Sep 2015,L695942,S27956320
+499,Pygmy Nuthatch - Sitta pygmaea,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+500,Mauerläufer - Tichodroma muraria,,Les Baux-de-Provence (ville),FR-U,03 Apr 2015,L934008,S27885060
+501,Waldbaumläufer - Certhia familiaris,1,Bernried,DE-BY,02 May 2015,L4384400,S28228546
+502,Brown Creeper - Certhia americana,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+503,Gartenbaumläufer - Certhia brachydactyla,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+504,Rock Wren - Salpinctes obsoletus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+505,Canyon Wren - Catherpes mexicanus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+506,House Wren - Troglodytes aedon,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+507,Zaunkönig - Troglodytes troglodytes,1,Park Roseninsel,DE-BY,27 Feb 2016,L4314419,S27841418
+508,Marsh Wren - Cistothorus palustris,5,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+509,Bewick's Wren - Thryomanes bewickii,,Sunset SB,US-CA,22 Sep 2015,L454234,S27996862
+510,Cactus Wren - Campylorhynchus brunneicapillus,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+511,Black-tailed Gnatcatcher - Polioptila melanura,3,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+512,Wasseramsel - Cinclus cinclus,,Plitvice Lakes National Park,HR-09,22 Jun 2015,L2338015,S27892708
+513,American Dipper - Cinclus mexicanus,,Yosemite NP--Glacier Point Four Mile Trail,US-CA,24 Sep 2015,L2980351,S27996919
+514,Light-vented Bulbul - Pycnonotus sinensis,,豫园 (Yuyuan Garden),CN-31,05 Jun 2011,L2090848,S30465094
+515,Yellow-vented Bulbul - Pycnonotus goiavier,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+516,Olive-winged Bulbul - Pycnonotus plumosus,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+517,Cream-vented Bulbul - Pycnonotus simplex,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+518,Ochraceous Bulbul - Alophoixus ochraceus,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31371701
+519,Charlotte's Bulbul - Iole charlottae,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+520,Streaked Bulbul - Ixos malaccensis,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+521,Ruby-crowned Kinglet - Regulus calendula,4,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+522,Wintergoldhähnchen - Regulus regulus,,Glenmore Forest Park,GB-SCT,17 Sep 2014,L1795902,S27912431
+523,Sommergoldhähnchen - Regulus ignicapilla,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+524,Seidensänger - Cettia cetti,,Camargue--Parc ornithologique du Pont de Gau,FR-U,04 Apr 2015,L1067998,S27885074
+525,Fitis - Phylloscopus trochilus,5,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+526,Zilpzalp - Phylloscopus collybita,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+527,Berglaubsänger - Phylloscopus bonelli,2,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+528,Waldlaubsänger - Phylloscopus sibilatrix,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+529,Mountain Leaf Warbler - Phylloscopus trivirgatus,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,04 Sep 2016,L923936,S31409134
+530,Yellow-breasted Warbler - Seicercus montis,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+531,Gelbspötter - Hippolais icterina,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+532,Mariskenrohrsänger - Acrocephalus melanopogon,1,Illmitz Seebad,AT-1,29 Apr 2017,L1776010,S36612317
+533,Schilfrohrsänger - Acrocephalus schoenobaenus,10,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+534,Sumpfrohrsänger - Acrocephalus palustris,2,zwischen Ähndl und Lindenbach-Brücke,DE-BY,22 May 2017,L4467952,S37058313
+535,Teichrohrsänger - Acrocephalus scirpaceus,3,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+536,Drosselrohrsänger - Acrocephalus arundinaceus,,Fertő-Hanság NP--observation tower,HU-GS,21 May 2015,L2903196,S27828142
+537,Rohrschwirl - Locustella luscinioides,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+538,Feldschwirl - Locustella naevia,2,Murnauer Moos,DE-BY,25 May 2015,L1590602,S28228513
+539,Zistensänger - Cisticola juncidis,,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+540,Ashy Tailorbird - Orthotomus ruficeps,3,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+541,Rufous-tailed Tailorbird - Orthotomus sericeus,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+542,Mönchsgrasmücke - Sylvia atricapilla,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+543,Gartengrasmücke - Sylvia borin,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+544,Sperbergrasmücke - Sylvia nisoria,1,Podersdorfer Pferdekoppel,AT-1,30 Apr 2017,L3140798,S36614195
+545,Klappergrasmücke - Sylvia curruca,1,Havelländisches Luch bei Garlitz,DE-BB,15 Apr 2016,L2438798,S28983682
+546,Samtkopf-Grasmücke - Sylvia melanocephala,,Camargue--Marais du Grenouillet,FR-U,02 Apr 2015,L2089346,S27885047
+547,Dorngrasmücke - Sylvia communis,,Camargue--Étang du Fangassier,FR-U,06 Apr 2015,L3201009,S27885353
+548,Balearic Warbler - Sylvia balearica,2,Archipiélago de Cabrera National Park,ES-IB,02 Jun 2016,L4665623,S30043163
+549,Wrentit - Chamaea fasciata,4,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+550,Chestnut-crested Yuhina - Yuhina everetti,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+551,Black-capped White-eye - Zosterops atricapilla,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31370603
+552,Everett's White-eye - Zosterops everetti,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,04 Sep 2016,L923936,S31409134
+553,Bold-striped Tit-Babbler - Mixornis bornensis,,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+554,Chestnut-winged Babbler - Cyanoderma erythropterum,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+555,Sooty-capped Babbler - Malacopteron affine,,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+556,Sunda Laughingthrush - Garrulax palliatus,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+557,Masked Laughingthrush - Garrulax perspicillatus,,Hong Kong Zoological and Botanical gardens,HK-,24 May 2011,L2027973,S30470855
+558,Black-throated Laughingthrush - Ianthocincla chinensis,,Hong Kong Zoological and Botanical gardens,HK-,24 May 2011,L2027973,S30470855
+559,Chestnut-hooded Laughingthrush - Ianthocincla treacheri,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31371701
+560,Grauschnäpper - Muscicapa striata,2,Schwaiganger,DE-BY,02 Aug 2015,L4384383,S28228485
+561,Oriental Magpie-Robin - Copsychus saularis,,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+562,White-rumped Shama - Copsychus malabaricus,,Kinabatangan Wildlife Sanctuary,MY-12,31 Aug 2016,L3880393,S31355259
+563,Mangrove Blue Flycatcher - Cyornis rufigastra,1,Manukan Island,MY-12,05 Sep 2016,L1119542,S31427000
+564,Indigo Flycatcher - Eumyias indigo,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31371701
+565,Rotkehlchen - Erithacus rubecula,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+566,Eyebrowed Jungle-Flycatcher - Vauriella gularis,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,04 Sep 2016,L923936,S31409134
+567,Nachtigall - Luscinia megarhynchos,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+568,Blaukehlchen - Luscinia svecica,1,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 Oct 2016,L942914,S31961555
+569,Bornean Whistling-Thrush - Myophonus borneensis,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+570,White-crowned Forktail - Enicurus leschenaulti,2,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,02 Sep 2016,L923936,S31371701
+571,Snowy-browed Flycatcher - Ficedula hyperythra,,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,04 Sep 2016,L923936,S31409134
+572,Little Pied Flycatcher - Ficedula westermanni,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,04 Sep 2016,L923936,S31409134
+573,Zwergschnäpper - Ficedula parva,1,Walchenseekraftwerk,DE-BY,03 Jun 2017,L5901392,S37375167
+574,Trauerschnäpper - Ficedula hypoleuca,1,Linderhof,DE-BY,11 Jun 2017,L5981275,S37620972
+575,Halsbandschnäpper - Ficedula albicollis,2,Schleifermosach östlich Freising,DE-BY,15 May 2016,L4451541,S29725556
+576,Rufous-chested Flycatcher - Ficedula dumetoria,2,Gomantong Cave & forest reserve,MY-12,31 Aug 2016,L923942,S31763732
+577,Gartenrotschwanz - Phoenicurus phoenicurus,,Aérodrome de Salon-Eyguières,FR-U,05 Apr 2015,L4312844,S27885344
+578,Hausrotschwanz - Phoenicurus ochruros,,Alpilles--La Caume,FR-U,03 Apr 2015,L2093582,S27885063
+579,Blaumerle - Monticola solitarius,,Les Baux-de-Provence (ville),FR-U,03 Apr 2015,L934008,S27885060
+580,Braunkehlchen - Saxicola rubetra,8,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,09 May 2015,L942914,S28075480
+581,Schwarzkehlchen - Saxicola rubicola,,Aérodrome de Salon-Eyguières,FR-U,03 Apr 2015,L4312844,S27885065
+582,Steinschmätzer - Oenanthe oenanthe,2,Rantumbecken,DE-SH,15 May 2015,L4351035,S28058214
+583,Maurensteinschmätzer - Oenanthe hispanica,,Plitvice Lakes National Park,HR-09,22 Jun 2015,L2338015,S27892708
+584,Everett's Thrush - Zoothera everetti,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+585,Western Bluebird - Sialia mexicana,,Bryce Canyon NP -- Visitor Center,US-UT,27 Sep 2015,L695942,S27956320
+586,Ringdrossel - Turdus torquatus,,Aérodrome de Salon-Eyguières,FR-U,05 Apr 2015,L4312844,S27885344
+587,Amsel - Turdus merula,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+588,Wacholderdrossel - Turdus pilaris,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+589,Singdrossel - Turdus philomelos,,Großer Garten (Dresden),DE-SN,27 Feb 2015,L3115396,S28059875
+590,Misteldrossel - Turdus viscivorus,4,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+591,Wanderdrossel - Turdus migratorius,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+592,Red-legged Thrush - Turdus plumbeus,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+593,California Thrasher - Toxostoma redivivum,,Sunset SB,US-CA,22 Sep 2015,L454234,S27996862
+594,Sage Thrasher - Oreoscoptes montanus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+595,Northern Mockingbird - Mimus polyglottos,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+596,Asian Glossy Starling - Aplonis panayensis,,MY-Sabah-Kota Kinabalu inanam Bus Station ,MY-12,27 Aug 2016,L4884405,S31289285
+597,Common Hill Myna - Gracula religiosa,1,Kinabatangan Wildlife Sanctuary,MY-12,30 Aug 2016,L3880393,S31355258
+598,Star - Sturnus vulgaris,,Longman Bird Hide area,GB-SCT,17 Sep 2014,L2782843,S27912488
+599,Einfarbstar - Sturnus unicolor,,PN Ria Formosa--Ludo--esteiros do Ancão e da Maria Nova (percurso sul),PT-08,26 Nov 2016,L964943,S32732055
+600,Common Myna - Acridotheres tristis,,Langkawi,MY-02,11 Feb 2013,L1346438,S30459010
+601,Javan Myna - Acridotheres javanicus,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+602,Crested Myna - Acridotheres cristatellus,5,Kota Kinabalu--Tanjung Aru Beach,MY-12,07 Sep 2016,L1915564,S31459031
+603,Greater Green Leafbird - Chloropsis sonnerati,2,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+604,Lesser Green Leafbird - Chloropsis cyanopogon,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+605,Bornean Leafbird - Chloropsis kinabaluensis,4,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31385993
+606,Yellow-rumped Flowerpecker - Prionochilus xanthopygius,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+607,Orange-bellied Flowerpecker - Dicaeum trigonostigma,,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+608,Black-sided Flowerpecker - Dicaeum monticolum,1,Kinabalu Park HQ (use more specific hotspot if possible),MY-12,03 Sep 2016,L923936,S31387238
+609,Scarlet-backed Flowerpecker - Dicaeum cruentatum,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+610,Plain Sunbird - Anthreptes simplex,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+611,Plain-throated Sunbird - Anthreptes malacensis,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+612,Red-throated Sunbird - Anthreptes rhodolaemus,2,Manukan Island,MY-12,05 Sep 2016,L1119542,S31427000
+613,Copper-throated Sunbird - Leptocoma calcostetha,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+614,Olive-backed Sunbird - Cinnyris jugularis,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+615,Crimson Sunbird - Aethopyga siparaja,1,MY-Sabah-Sandakan-Jalan Rambutan - sepilok forest edge resort ,MY-12,28 Aug 2016,L4884419,S31289333
+616,Little Spiderhunter - Arachnothera longirostra,1,Manukan Island,MY-12,05 Sep 2016,L1119542,S31427000
+617,Yellow-eared Spiderhunter - Arachnothera chrysogenys,1,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+618,Alpenbraunelle - Prunella collaris,2,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+619,Heckenbraunelle - Prunella modularis,1,Notkarspitze,DE-BY,04 Jun 2015,L4384394,S28228498
+620,Wiesenschafstelze - Motacilla flava,,Camargue--Grau d'Orgon,FR-U,04 Apr 2015,L3171150,S27885335
+621,Gebirgsstelze - Motacilla cinerea,1,Chiemsee--Hirschauer Bucht,DE-BY,09 Aug 2015,L2299294,S28092692
+622,Bachstelze - Motacilla alba,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+623,Brachpieper - Anthus campestris,,Velo Blato Reserve,HR-13,24 Jun 2015,L2344991,S27893158
+624,Wiesenpieper - Anthus pratensis,,Insel Sylt,DE-SH,16 May 2015,L2430769,S28157134
+625,Baumpieper - Anthus trivialis,4,Klammspitze,DE-BY,05 Aug 2015,L4384386,S28228481
+626,Bergpieper - Anthus spinoletta,,Wank,DE-BY,03 Jul 2016,L4355037,S30518983
+627,Pazifikpieper - Anthus rubescens,2,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+628,Cedar Waxwing - Bombycilla cedrorum,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+629,Phainopepla - Phainopepla nitens,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+630,Orange-crowned Warbler - Oreothlypis celata,1,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+631,Common Yellowthroat - Geothlypis trichas,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+632,American Redstart - Setophaga ruticilla,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+633,Yellow Warbler - Setophaga petechia,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+634,Palm Warbler - Setophaga palmarum,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+635,Yellow-rumped Warbler - Setophaga coronata,,Mono Lake County Park,US-CA,24 Sep 2015,L270903,S27956660
+636,Townsend's Warbler - Setophaga townsendi,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+637,Chipping Sparrow - Spizella passerina,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+638,Brewer's Sparrow - Spizella breweri,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+639,Black-throated Sparrow - Amphispiza bilineata,,Joshua Tree NP,US-CA,10 Oct 2015,L385590,S27956615
+640,Lark Sparrow - Chondestes grammacus,,Joshua Tree NP,US-CA,08 Jan 2018,L385590,S41755618
+641,Fox Sparrow - Passerella iliaca,2,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+642,Dark-eyed Junco - Junco hyemalis,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+643,White-crowned Sparrow - Zonotrichia leucophrys,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+644,Golden-crowned Sparrow - Zonotrichia atricapilla,,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+645,White-throated Sparrow - Zonotrichia albicollis,,Central Park,US-NY,15 Jan 2018,L191106,S41954270
+646,Savannah Sparrow - Passerculus sandwichensis,1,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+647,Song Sparrow - Melospiza melodia,7,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+648,Lincoln's Sparrow - Melospiza lincolnii,,Playa del Rey/Ballona area,US-CA,07 Jan 2018,L2999612,S41717964
+649,Abert's Towhee - Melozone aberti,4,Henderson Bird Viewing Preserve,US-NV,09 Jan 2018,L209342,S41772346
+650,California Towhee - Melozone crissalis,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+651,Spotted Towhee - Pipilo maculatus,,Zion NP,US-UT,27 Sep 2015,L140673,S27996991
+652,Goldammer - Emberiza citrinella,,Camargue--Étang du Fangassier,FR-U,02 Apr 2015,L3201009,S27885054
+653,Zaunammer - Emberiza cirlus,,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+654,Zippammer - Emberiza cia,1,Feldberg,DE-BW,29 Apr 2018,L2991675,S45060313
+655,Ortolan - Emberiza hortulana,1,Ortolanfläche,DE-BY,21 May 2016,L4631880,S29853380
+656,Yellow-throated Bunting - Emberiza elegans,,Moschee zu Xi’an,CN-61,02 Jun 2011,L4747924,S30465099
+657,Rohrammer - Emberiza schoeniclus,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,28 Mar 2015,L942914,S28092923
+658,Grauammer - Emberiza calandra,,RNN des Coussouls de Crau (RNN152)--La Grosse du Levant,FR-U,03 Apr 2015,L3200892,S27885058
+659,Summer Tanager - Piranga rubra,,Morongo Valley,US-CA,02 Oct 2015,L896785,S27956285
+660,Western Tanager - Piranga ludoviciana,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+661,Northern Cardinal - Cardinalis cardinalis,,Mercer Sod Farm IBA,US-NJ,07 Oct 2015,L766009,S27956779
+662,Black-headed Grosbeak - Pheucticus melanocephalus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+663,Western Meadowlark - Sturnella neglecta,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+664,Cuban Oriole - Icterus melanopsis,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+665,Red-winged Blackbird - Agelaius phoeniceus,,American Canyon Wetlands--Eucalyptus Rd.,US-CA,13 Feb 2016,L590817,S27719971
+666,Brewer's Blackbird - Euphagus cyanocephalus,,Golden Gate Park,US-CA,19 Sep 2015,L109439,S27996644
+667,Great-tailed Grackle - Quiscalus mexicanus,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+668,Greater Antillean Grackle - Quiscalus niger,,PN Ciénaga de Zapata--San Tomas,CU-04,20 Mar 2014,L3726484,S27720666
+669,Buchfink - Fringilla coelebs,,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+670,Bergfink - Fringilla montifringilla,3,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+671,Kernbeiβer - Coccothraustes coccothraustes,1,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+672,Karmingimpel - Carpodacus erythrinus,2,Murnauer Moos,DE-BY,30 May 2015,L1590602,S28075585
+673,Gimpel - Pyrrhula pyrrhula,4,Starnberger See - südlicher Teil,DE-BY,01 Jan 2015,L4314686,S28093392
+674,House Finch - Haemorhous mexicanus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+675,Purple Finch - Haemorhous purpureus,,Fort Mason Park,US-CA,20 Sep 2015,L389606,S27996540
+676,Grünling - Chloris chloris,,Camargue--Mas de la Capelière,FR-U,02 Apr 2015,L2075971,S27885036
+677,Bluthänfling - Linaria cannabina,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+678,Alpenbirkenzeisig - Acanthis cabaret,2,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,12 May 2017,L942914,S36765685
+679,Fichtenkreuzschnabel - Loxia curvirostra,,Heimgarten,DE-BY,30 May 2015,L4353851,S28075692
+680,Stieglitz - Carduelis carduelis,,Aérodrome de Salon-Eyguières,FR-U,01 Apr 2015,L4312844,S27832307
+681,Zitronenzeisig - Carduelis citrinella,4,Wank,DE-BY,03 Jul 2016,L4355037,S30518983
+682,Girlitz - Serinus serinus,,Chemin du Mas de Chauvet,FR-U,01 Apr 2015,L933934,S27832379
+683,Erlenzeisig - Spinus spinus,10,Ammersee-Südufer und Raistinger Wiesen--Ammer River mouth trails,DE-BY,27 Dec 2014,L942914,S28228628
+684,Pine Siskin - Spinus pinus,1,EBMUD--Valle Vista Staging Area (permit required),US-CA,13 Feb 2016,L596210,S27719968
+685,Lesser Goldfinch - Spinus psaltria,,Desert NWR--Corn Creek (Field Station),US-NV,26 Sep 2015,L168656,S27956360
+686,Haussperling - Passer domesticus,,Etang d'Entressen,FR-U,01 Apr 2015,L2070239,S27832241
+687,Italiensperling - Passer italiae,,Kalterer See / Lago di Caldaro--zona umida Sud,IT-32,21 Oct 2017,L5711542,S40062083
+688,Spanish Sparrow - Passer hispaniolensis,,ZPE Castro Verde--Castro Verde,PT-02,27 Nov 2016,L2590526,S32750658
+689,Feldsperling - Passer montanus,,豫园 (Yuyuan Garden),CN-31,05 Jun 2011,L2090848,S30465094
+690,Steinsperling - Petronia petronia,,Ferienhaus,ES-IB,27 May 2016,L4643998,S29931331
+691,Schneesperling - Montifringilla nivalis,6,Karwendel,DE-BY,16 Jun 2015,L3166522,S28040861
+692,Common Waxbill - Estrilda astrild,30,Lagoa dos Salgados,PT-08,01 Dec 2016,L962500,S32806027
+693,Javan Munia - Lonchura leucogastroides,,Pasir Ris Park,SG-,26 Aug 2016,L1459790,S31256257
+694,Dusky Munia - Lonchura fuscans,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+695,Scaly-breasted Munia - Lonchura punctulata,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589
+696,Chestnut Munia - Lonchura atricapilla,,Sepilok--Rainforest Discovery Center,MY-12,28 Aug 2016,L1119692,S31289589

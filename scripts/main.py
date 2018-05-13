@@ -77,8 +77,8 @@ def main():
     #for country in europe:
     #    targetsEurope += ebirdGetArea(country, "7")
     #writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
-    targetsIceland = ebirdGetArea("IS", "7")
-    writeData(targetsIceland, "64.48", "-18.26", "7", "icelandJS.js", "iceland.html", path, fileCSS, googleAPI)
+    #targetsIceland = ebirdGetArea("IS", "7")
+    #writeData(targetsIceland, "64.48", "-18.26", "7", "icelandJS.js", "iceland.html", path, fileCSS, googleAPI)
 
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")

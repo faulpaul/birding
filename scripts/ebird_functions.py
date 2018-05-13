@@ -10,7 +10,7 @@ def ebirdGetLifeList(region):
     ebirdLifeList = []
     filename = "./lifelists/ebird_" + region + "_life_list.csv"
     if not os.path.exists(filename):
-        filename = "./lifelists/ebird_world_life_list.csv"
+        filename = "./lifelists/ebird_WORLD_life_list.csv"
     with open(filename, "rt") as mylist:
        reader = csv.reader(mylist)
        next(reader, None)
