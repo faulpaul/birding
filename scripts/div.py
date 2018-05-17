@@ -41,6 +41,7 @@ def buildMap(targets, maplat, maplng, zoomset):
     return birdVar
 
 def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
+    sortedlist = []
     source = "<html><head>\n"
     source += "<title>Automatic generated sightings page</title>\n"
     source += "<link rel=\"stylesheet\" href=\"" + fileCSS + "\">\n"
@@ -54,6 +55,14 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "<body id=birding><div id=header>All relevant sightings in your area:</div>\n"
     source += "<div id=\"map\"></div>\n"
     source += "<script src=\"" + fileJS + "\"></script> <script src=\"birdMap.js\"></script>\n"
+    source += "<table class=\"sortable\">\n"
+    sortedlist = [item[1] for item in targetlist]
+    print(sortedlist)
+    for name in set(sortedlist):
+        source += "<tr> <td>"
+        source += str(name)
+        source += "</td> </tr>\n"
+    source += "</table>\n"
     source += "<table class=\"sortable\">\n"
     source += "<tr><th>Datum</th><th>Land</th><th>Anzahl</th><th>Name</th><th>Wiss. Name</th><th>Ort</th><th>Quelle</th></tr>\n"
     for line in targetlist:
