@@ -37,7 +37,7 @@ def ebirdGetSightings(ebirdRelevantSpecies, region, time):
     ebirdTargets = []
     for species in ebirdRelevantSpecies:
         sciName = species["sciName"]
-        answer = region_species(sciName, region)
+        answer = region_species(sciName, region, locale="de")
         for line in answer:
             ebirdTargets.append(line)
     return(ebirdTargets)

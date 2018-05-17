@@ -53,16 +53,15 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "<script src=\"https://maps.googleapis.com/maps/api/js?v=3.exp&key=" + googleAPI + "\" type=\"text/javascript\"></script>\n"
     source += "<div class=\"date\">File generated: " + time.strftime("%Y/%m/%d @ %H:%M:%S") + "</div>\n"
     source += "<body id=birding><div id=header>All relevant sightings in your area:</div>\n"
-    source += "<div id=\"map\"></div>\n"
-    source += "<script src=\"" + fileJS + "\"></script> <script src=\"birdMap.js\"></script>\n"
     source += "<table class=\"sortable\">\n"
     sortedlist = [item[1] for item in targetlist]
-    print(sortedlist)
     for name in set(sortedlist):
         source += "<tr> <td>"
         source += str(name)
         source += "</td> </tr>\n"
     source += "</table>\n"
+    source += "<div id=\"map\"></div>\n"
+    source += "<script src=\"" + fileJS + "\"></script> <script src=\"birdMap.js\"></script>\n"
     source += "<table class=\"sortable\">\n"
     source += "<tr><th>Datum</th><th>Land</th><th>Anzahl</th><th>Name</th><th>Wiss. Name</th><th>Ort</th><th>Quelle</th></tr>\n"
     for line in targetlist:
