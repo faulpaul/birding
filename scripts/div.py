@@ -7,7 +7,7 @@
 ####################################
 # these functions handle file wirting etc.
 
-import time
+import time, glob, os
 
 ####################################
 #                                  #
@@ -48,13 +48,20 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "<link rel=\"shortcut icon\" type=\"image/png\" href=\"./img/favicon.ico\">\n"
     source += "<meta charset=\"utf-8\">"
     source += "</head>\n"
+    source += "<script src=\"includehtml.js\"></script>\n"
     source += "<script src=\"sorttable.js\"></script>\n"
     source += "<script src=\"markerclusterer.js\" type=\"text/javascript\"></script>\n"
     source += "<script src=\"https://maps.googleapis.com/maps/api/js?v=3.exp&key=" + googleAPI + "\" type=\"text/javascript\"></script>\n"
-    source += "<div class=\"date\">File generated: " + time.strftime("%Y/%m/%d @ %H:%M:%S") + "</div>\n"
-    source += "<body id=birding><div id=header>All relevant sightings in your area:</div>\n"
+    source += "<body id=birding>"
+    source += "<div class=\"icon\"><img src=\"./img/birding_icon.png\"></img></div>\n"
+    source += "<div class=\"header\">\n"
+    source += "<div class=\"title\">All relevant sightings in your area:</br></div>\n"
+    source += "<div class=\"date\">File generated: " + time.strftime("%Y/%m/%d @ %H:%M:%S") + "</br></div>\n"
+    source += "<div w3-include-html=\"menu.src\"></div>\n"
+    source += "</div>\n"
     source += "<table class=\"sortable\">\n"
     sortedlist = [item[1] for item in targetlist]
+    source += "<tr><th>Name</th></tr>"
     for name in set(sortedlist):
         source += "<tr> <td>"
         source += str(name)
@@ -63,6 +70,7 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "<div id=\"map\"></div>\n"
     source += "<script src=\"" + fileJS + "\"></script> <script src=\"birdMap.js\"></script>\n"
     source += "<table class=\"sortable\">\n"
+    source += "<script>includeHTML();</script>"
     source += "<tr><th>Datum</th><th>Land</th><th>Anzahl</th><th>Name</th><th>Wiss. Name</th><th>Ort</th><th>Quelle</th></tr>\n"
     for line in targetlist:
         try: target = [line[8], line[9], line[0], line[1], line[2], line[7], line[3]]  # date, land, number, commonname, sciencename, source, locationname,
@@ -77,4 +85,12 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "<div class=\"footer\">Script can be found at <a href=\"http://goessinger.eu/\">goessinger.eu</a></div>\n"
     source += "</body></html>"
     return source
+
+def writeMenu(path):
+    source = ""
+    filelist = glob.glob(path+"*.html")
+    for item in filelist:
+        filename = os.path.basename(item)
+        source += ("<a href=\""+filename+"\">"+filename+"</a>")
+    writeFile(source, path+"menu.src")
 

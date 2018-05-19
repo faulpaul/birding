@@ -73,12 +73,12 @@ def main():
     #writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird
-    #targetsEurope = []
-    #for country in europe:
-    #    targetsEurope += ebirdGetArea(country, "7")
-    #writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
-    #targetsIceland = ebirdGetArea("IS", "7")
-    #writeData(targetsIceland, "64.48", "-18.26", "7", "icelandJS.js", "iceland.html", path, fileCSS, googleAPI)
+    targetsEurope = []
+    for country in europe:
+        targetsEurope += ebirdGetArea(country, "7")
+    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+    targetsIceland = ebirdGetArea("IS", "7")
+    writeData(targetsIceland, "64.48", "-18.26", "7", "icelandJS.js", "iceland.html", path, fileCSS, googleAPI)
 
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")
@@ -96,6 +96,9 @@ def main():
     #targetsUSAeast = ebirdGetArea("US-NJ", "7")
     #targetsUSAeast += ebirdGetArea("US-NY", "7")
     #writeData(targetsUSAeast, "36.18", "-115.33", "7", "usaJSeast.js", "usaeast.html", path, fileCSS, googleAPI)
+
+    ############ create menue
+    writeMenu(path)
 
 if __name__ == "__main__":
     main()
