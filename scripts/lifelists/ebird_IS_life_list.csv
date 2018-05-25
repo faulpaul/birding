@@ -1,0 +1,51 @@
+Row #,Species,Count,Location,S/P,Date,LocID,SubID
+1,Ringelgans - Branta bernicla,25,Rif--tjarnir (ponds),IS-3,25 May 2018,L1213235,S46011826
+2,Singschwan - Cygnus cygnus,2,"Snæfellsnesvegur, IS (64,649, -22,063)",IS-3,24 May 2018,L7461080,S45991911
+3,Pfeifente - Mareca penelope,1,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+4,Stockente - Anas platyrhynchos,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+5,Reiherente - Aythya fuligula,2,Arnarstapi,IS-3,25 May 2018,L1213231,S46004285
+6,Eiderente - Somateria mollissima,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+7,Mittelsäger - Mergus serrator,3,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+8,Alpenschneehuhn - Lagopus muta,2,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
+9,Sterntaucher - Gavia stellata,1,"62 Ólafsbraut, Ólafsvík, IS (64,891, -23,689)",IS-3,25 May 2018,L7465519,S46015073
+10,Eistaucher - Gavia immer,1,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+11,Eissturmvogel - Fulmarus glacialis,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+12,Atlantiksturmtaucher - Puffinus puffinus,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+13,Basstölpel - Morus bassanus,10,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+14,Kormoran - Phalacrocorax carbo,1,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+15,Krähenscharbe - Phalacrocorax aristotelis,2,Arnarstapi,IS-3,25 May 2018,L1213231,S46004285
+16,Austernfischer - Haematopus ostralegus,3,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+17,Goldregenpfeifer - Pluvialis apricaria,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+18,Sandregenpfeifer - Charadrius hiaticula,7,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+19,Regenbrachvogel - Numenius phaeopus,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+20,Uferschnepfe - Limosa limosa,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+21,Steinwälzer - Arenaria interpres,6,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+22,Knutt - Calidris canutus,2,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+23,Sanderling - Calidris alba,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+24,Alpenstrandläufer - Calidris alpina,2,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+25,Meerstrandläufer - Calidris maritima,3,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+26,Bekassine - Gallinago gallinago,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+27,Odinshühnchen - Phalaropus lobatus,10,Rif--tjarnir (ponds),IS-3,25 May 2018,L1213235,S46011826
+28,Rotschenkel - Tringa totanus,3,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+29,Trottellumme - Uria aalge,,Svörtuloft,IS-3,25 May 2018,L2947838,S46015205
+30,Dickschnabellumme - Uria lomvia,,Svörtuloft,IS-3,25 May 2018,L2947838,S46015205
+31,Tordalk - Alca torda,,Svörtuloft,IS-3,25 May 2018,L2947838,S46015205
+32,Gryllteiste - Cepphus grylle,2,Svörtuloft,IS-3,25 May 2018,L2947838,S46015205
+33,Papageitaucher - Fratercula arctica,1,Svörtuloft,IS-3,25 May 2018,L2947838,S46015205
+34,Dreizehenmöwe - Rissa tridactyla,3,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+35,Lachmöwe - Chroicocephalus ridibundus,3,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+36,Silbermöwe/Kanadamöwe - Larus argentatus,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+37,Iceland Gull - Larus glaucoides,1,Staðarsveit--Ytritunga,IS-3,25 May 2018,L2081220,S46002551
+38,Heringsmöwe - Larus fuscus,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+39,Eismöwe - Larus hyperboreus,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+40,Mantelmöwe - Larus marinus,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+41,Küstenseeschwalbe - Sterna paradisaea,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+42,Sumpfohreule - Asio flammeus,1,"Þjóðvegur, IS (64,253, -21,824)",IS-1,24 May 2018,L7460841,S45990688
+43,Kolkrabe - Corvus corax,1,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
+44,Zaunkönig - Troglodytes troglodytes,1,Hofsstaðaskógur,IS-3,25 May 2018,L1213221,S46001984
+45,Steinschmätzer - Oenanthe oenanthe,2,Malarrif,IS-3,25 May 2018,L5088512,S46006045
+46,Rotdrossel - Turdus iliacus,1,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
+47,Star - Sturnus vulgaris,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+48,Bachstelze - Motacilla alba,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+49,Wiesenpieper - Anthus pratensis,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+50,Taigabirkenzeisig - Acanthis flammea,3,Hofsstaðaskógur,IS-3,25 May 2018,L1213221,S46001984
