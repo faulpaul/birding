@@ -57,15 +57,18 @@ Row #,Species,Count,Location,S/P,Date,LocID,SubID
 56,Eismöwe - Larus hyperboreus,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
 57,Mantelmöwe - Larus marinus,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
 58,Küstenseeschwalbe - Sterna paradisaea,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
-59,Ringeltaube - Columba palumbus,2,Húsavík--Skálamelur,IS-6,29 May 2018,L1135146,S46125871
-60,Sumpfohreule - Asio flammeus,1,"Þjóðvegur, IS (64,253, -21,824)",IS-1,24 May 2018,L7460841,S45990688
-61,Kolkrabe - Corvus corax,1,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
-62,Zaunkönig - Troglodytes troglodytes,1,Hofsstaðaskógur,IS-3,25 May 2018,L1213221,S46001984
-63,Wintergoldhähnchen - Regulus regulus,3,Húsavík--Skálamelur,IS-6,29 May 2018,L1135146,S46125871
-64,Steinschmätzer - Oenanthe oenanthe,2,Malarrif,IS-3,25 May 2018,L5088512,S46006045
-65,Rotdrossel - Turdus iliacus,1,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
-66,Star - Sturnus vulgaris,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
-67,Bachstelze - Motacilla alba,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
-68,Wiesenpieper - Anthus pratensis,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
-69,Schneeammer - Plectrophenax nivalis,10,Flatey,IS-4,26 May 2018,L1215159,S46039528
-70,Taigabirkenzeisig - Acanthis flammea,3,Hofsstaðaskógur,IS-3,25 May 2018,L1213221,S46001984
+59,Felsentaube/Stra§entaube - Columba livia,11,Reykjavík--Tjörnin pond,IS-1,01 Jun 2018,L1025679,S46209408
+60,Ringeltaube - Columba palumbus,2,Húsavík--Skálamelur,IS-6,29 May 2018,L1135146,S46125871
+61,Sumpfohreule - Asio flammeus,1,"Þjóðvegur, IS (64,253, -21,824)",IS-1,24 May 2018,L7460841,S45990688
+62,Gerfalke - Falco rusticolus,2,Mývatnssveit--Dimmuborgir,IS-6,31 May 2018,L2103382,S46209376
+63,Kolkrabe - Corvus corax,1,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
+64,Zaunkönig - Troglodytes troglodytes,1,Hofsstaðaskógur,IS-3,25 May 2018,L1213221,S46001984
+65,Wintergoldhähnchen - Regulus regulus,3,Húsavík--Skálamelur,IS-6,29 May 2018,L1135146,S46125871
+66,Steinschmätzer - Oenanthe oenanthe,2,Malarrif,IS-3,25 May 2018,L5088512,S46006045
+67,Amsel - Turdus merula,1,Reykjavík--Tjörnin pond,IS-1,01 Jun 2018,L1025679,S46209408
+68,Rotdrossel - Turdus iliacus,1,Keflavíkurflugvöllur,IS-2,24 May 2018,L1232491,S45989548
+69,Star - Sturnus vulgaris,,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+70,Bachstelze - Motacilla alba,2,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+71,Wiesenpieper - Anthus pratensis,1,Garður--Garðskagi lighthouse,IS-2,24 May 2018,L1010991,S45989459
+72,Schneeammer - Plectrophenax nivalis,10,Flatey,IS-4,26 May 2018,L1215159,S46039528
+73,Taigabirkenzeisig - Acanthis flammea,3,Hofsstaðaskógur,IS-3,25 May 2018,L1213221,S46001984
