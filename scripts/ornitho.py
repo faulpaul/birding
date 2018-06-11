@@ -48,7 +48,7 @@ def OrnithoGetPage(s, dataurl):
     htmlsource = s.get(dataurl)
     return htmlsource
 
-# the function OrnithoGetSightings is used to read all sightings from http://ornitho.de/    
+# the function OrnithoGetSightings is used to read all sightings from https://ornitho.de/    
 def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber, ornithoSpecies, area):
     currentpage = pagenumber
     s = requests.Session()
@@ -130,12 +130,12 @@ def OrnithoGetLocations(ornithopayload, ornithologin, ornithorelevantSpecies):
     return targets
 
 def ornithoGetSpecies(time, area, ornithopayload, ornitholist):
-    ornithologin = "http://www.ornitho." + area + "/index.php"
+    ornithologin = "https://www.ornitho." + area + "/index.php"
     ornithoSpecies = []
     targets = []
     ornithospecieslist = OrnithoGetSpeciesList(ornitholist)
     for speciesid in ornithospecieslist:
-        ornithodataurl = "http://www.ornitho." + area + "/index.php?m_id=94&sp_DChoice=offset&sp_DOffset=" + time + "&sp_S=" + str(speciesid) + "&submit=Abfrage+starten&mp_item_per_page=60&sp_SChoice=species&mp_current_page="
+        ornithodataurl = "https://www.ornitho." + area + "/index.php?m_id=94&sp_DChoice=offset&sp_DOffset=" + time + "&sp_S=" + str(speciesid) + "&submit=Abfrage+starten&mp_item_per_page=60&sp_SChoice=species&mp_current_page="
         ornithoSpecies = OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, 1, ornithoSpecies, area)
         #gc.collect()
     targets = OrnithoGetLocations(ornithopayload, ornithologin, ornithoSpecies)
