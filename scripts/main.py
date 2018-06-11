@@ -73,10 +73,10 @@ def main():
     #writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
 
     ############ Europe from ebird
-    #targetsEurope = []
-    #for country in europe:
-    #    targetsEurope += ebirdGetArea(country, "7")
-    #writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+    targetsEurope = []
+    for country in europe:
+        targetsEurope += ebirdGetArea(country, "7")
+    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
 
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")
