@@ -75,7 +75,6 @@ def OrnithoGetSightings(ornithopayload, ornithologin, ornithodataurl, pagenumber
                                 href = url.get("href")
                                 source = "<a target=\"_blank\" href=\"" + href + "\">ornitho.de</a>"
                                 ornithoSpecies.append([number, name, sciname, source, href, "pointnorth", "pointeast", location, date, area])
-                                print(number, name, sciname, source, href, location, date, area)
                         except:
                             continue
                     if "bodynocolor" in str(i.get("class")): 

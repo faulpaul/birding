@@ -13,7 +13,7 @@
 ##### WARNING: the script will load a lot of webpages, so be patient!!!!
 
 # import python modules
-import locale
+import locale, datetime
 from configparser import ConfigParser
 
 # import functions
@@ -61,22 +61,27 @@ europe = ["AL", "AD", "AM", "AT", "AZ", "BY", "BE", "BA", "BG", "FR", "HR", "CY"
 ####################################
 
 def main():
+    print("=======================================================")
+    print("script startet @ " + str(datetime.now()))
     ############ Germany from ebird, ornitho.de & otus
     targetsGermany = ebirdGetArea("DE", "7") 
     targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodelist)
     #targetsGermany += othusGetSightings(7) #time
     writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
+    print("finished germany @ " + str(datetime.now()))
 
     ############ Austria from ebird & ornitho.at
     #targetsAustria = ebirdGetArea("AT", "7")
     #targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
     #writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
+    #print("finished austria @ " + str(datetime.now()))
 
     ############ Europe from ebird
     targetsEurope = []
     for country in europe:
         targetsEurope += ebirdGetArea(country, "7")
     writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+    print("finished europe @ " + str(datetime.now()))
 
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")
@@ -97,6 +102,8 @@ def main():
 
     ############ create menue
     writeMenu(path)
+    print("script finished @ " + str(datetime.now()))
+    print("=======================================================")
 
 if __name__ == "__main__":
     main()
