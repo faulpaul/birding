@@ -83,6 +83,12 @@ def main():
     writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
     print("finished europe @ " + str(datetime.now()))
 
+    ############ Southafrika, Lesotho, Swasiland
+    targetsSA = ebirdGetArea("ZA", "7")
+    targetsSA += ebirdGetArea("LS", "7")
+    targetsSA += ebirdGetArea("SZ", "7")
+    writeData(targetsSA, "-30.50", "20.43", "4", "SAJS.js", "SA.html", path, fileCSS, googleAPI)
+
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")
     #writeData(targetsOman, "20.83", "56.89", "7", "omanJS.js", "oman.html", path, fileCSS, googleAPI)
