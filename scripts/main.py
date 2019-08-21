@@ -13,21 +13,22 @@
 ##### WARNING: the script will load a lot of webpages, so be patient!!!!
 
 # import python modules
-import locale, datetime
+import locale
+from datetime import datetime
 from configparser import ConfigParser
 
 # import functions
 from div import *
 from ebird_functions import *
-from ornitho import *
-from otus import *
+#from ornitho import *
+#from otus import *
 
 # setting utf-8 encoding
 #reload(sys) 
 #sys.setdefaultencoding('utf8')
 
 # set german weekdays
-loc= locale.setlocale(locale.LC_TIME, "de_DE.utf-8")
+#loc = locale.setlocale(locale.LC_TIME, "de_DE.utf-8")
 
 ####################################
 #                                  #
@@ -46,6 +47,7 @@ ornithodelist = config.get('SectionOrnithode', 'list')
 ebirduser = config.get('SectionEbird', 'user')
 ebirdpass = config.get('SectionEbird', 'pass')
 ebirdkey = config.get('SectionEbird', 'key')
+ebirdlocale = config.get('SectionEbird', 'locale')
 
 #ornitho.de
 ornithodepayload = { "login":"1", "USERNAME":ornithodeuser, "REMEMBER":"ON", "PASSWORD":ornithodepass }
@@ -62,32 +64,33 @@ europe = ["AL", "AD", "AM", "AT", "AZ", "BY", "BE", "BA", "BG", "FR", "HR", "CY"
 
 def main():
     print("=======================================================")
-    print("script startet @ " + str(datetime.now()))
+    print("script startet @ " + str(datetime.datetime.now()))
     ############ Germany from ebird, ornitho.de & otus
-    targetsGermany = ebirdGetArea("DE", "7") 
-    targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodelist)
+    targetsGermany = ebirdGetArea("DE", "7", ebirdkey, ebirdlocale) 
+    #targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodelist)
     #targetsGermany += othusGetSightings(7) #time
     writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
-    print("finished germany @ " + str(datetime.now()))
+    print("finished Germany @ " + str(datetime.datetime.now()))
 
     ############ Austria from ebird & ornitho.at
     #targetsAustria = ebirdGetArea("AT", "7")
     #targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
     #writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
-    #print("finished austria @ " + str(datetime.now()))
+    #print("finished austria @ " + str(datetime.datetime.now()))
 
     ############ Europe from ebird
     targetsEurope = []
     for country in europe:
-        targetsEurope += ebirdGetArea(country, "7")
+        targetsEurope += ebirdGetArea(country, "7", ebirdkey, ebirdlocale)
     writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
-    print("finished europe @ " + str(datetime.now()))
+    print("finished Europe @ " + str(datetime.datetime.now()))
 
     ############ Southafrika, Lesotho, Swasiland
-    targetsSA = ebirdGetArea("ZA", "7")
-    targetsSA += ebirdGetArea("LS", "7")
-    targetsSA += ebirdGetArea("SZ", "7")
+    targetsSA = ebirdGetArea("ZA", "7", ebirdkey, ebirdlocale)
+    targetsSA += ebirdGetArea("LS", "7", ebirdkey, ebirdlocale)
+    targetsSA += ebirdGetArea("SZ", "7", ebirdkey, ebirdlocale)
     writeData(targetsSA, "-30.50", "20.43", "4", "SAJS.js", "SA.html", path, fileCSS, googleAPI)
+    print("finished southern Africa @ " + str(datetime.datetime.now()))
 
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")
@@ -97,18 +100,23 @@ def main():
     #targetsEgypt = ebirdGetArea("EG", "7")
     #writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS, googleAPI)
 
-    ############ USA  from ebird
+    ############ USA from ebird
     #targetsUSAwest = ebirdGetArea("US-NV", "7")
     #targetsUSAwest += ebirdGetArea("US-CA", "7")
     #targetsUSAwest += ebirdGetArea("US-TX", "7")
-    #writeData(targetsUSAwest, "36.18", "-115.33", "7", "usaJSwest.js", "usawest.html", path, fileCSS, googleAPI)
+    #writeData(targetsUSAwest, "36.18", "-115.33", "7", "USAwest.js", "USAwest.html", path, fileCSS, googleAPI)
     #targetsUSAeast = ebirdGetArea("US-NJ", "7")
     #targetsUSAeast += ebirdGetArea("US-NY", "7")
-    #writeData(targetsUSAeast, "36.18", "-115.33", "7", "usaJSeast.js", "usaeast.html", path, fileCSS, googleAPI)
+    #writeData(targetsUSAeast, "36.18", "-115.33", "7", "USAeast.js", "USAeast.html", path, fileCSS, googleAPI)
+
+    ############ Thailand from ebird
+    targetThailand = ebirdGetArea("TH", "7", ebirdkey, ebirdlocale)
+    writeData(targetThailand, "36.18", "-115.33", "7", "Thailand.js", "Thailand.html", path, fileCSS, googleAPI)
+    print("finished Thailand @ " + str(datetime.datetime.now()))
 
     ############ create menue
     writeMenu(path)
-    print("script finished @ " + str(datetime.now()))
+    print("script finished @ " + str(datetime.datetime.now()))
     print("=======================================================")
 
 if __name__ == "__main__":

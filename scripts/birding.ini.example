@@ -2,7 +2,7 @@
 [SectionGeneral]
 fileCSS:paul.css
 path:/app/
-goohleAPI:{google maps API key} 
+googleAPI:{google maps API key} 
 
 [SectionOrnithode]
 user:{ornitho.de user}
@@ -12,3 +12,5 @@ list:lifelists/ornithoReferenzlisteArten20130415.xls
 [SectionEbird]
 user:{ebird.org user}
 pass:{ebird.org password}
+key:{ebird.org API key}
+locale=en

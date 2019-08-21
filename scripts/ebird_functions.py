@@ -3,14 +3,14 @@
 # an returning the sightings
 
 import csv, requests, datetime, os.path
-from ebird.api import region_observations, region_species
+from ebird.api import get_observations
 
 # read life list
 def ebirdGetLifeList(region):
     ebirdLifeList = []
     filename = "./lifelists/ebird_" + region + "_life_list.csv"
     if not os.path.exists(filename):
-        filename = "./lifelists/ebird_WORLD_life_list.csv"
+        filename = "./lifelists/ebird_world_life_list.csv"
     with open(filename, "rt") as mylist:
        reader = csv.reader(mylist)
        next(reader, None)
@@ -18,29 +18,19 @@ def ebirdGetLifeList(region):
           ebirdLifeList.append(row[1].split(" - ")[1].strip(" "))
     return(ebirdLifeList)
 
-# get list of observed species in the region
-def ebirdGetAllSpecies(region, time):
-    ebirdAllSpecies = region_observations(region, back=time, provisional=True)
-    return(ebirdAllSpecies)
+# get list of observations in the region
+def ebirdGetAllObservations(region, time, ebirdkey, ebirdlocale):
+    ebirdAllObservations = get_observations(ebirdkey, region, back=time, locale=ebirdlocale)
+    return(ebirdAllObservations)
 
-# compare ebirdLifeList and eBirdAllSpecies and return the ones not on the ebirdLifeList
-def ebirdCompareSpecies(ebirdLifeList, ebirdAllSpecies):
+# compare ebirdLifeList and ebirdAllObservations and return the ones not on the ebirdLifeList
+def ebirdCompareSpecies(ebirdLifeList, ebirdAllObservations):
     for j in ebirdLifeList:
-        for i in ebirdAllSpecies:
+        for i in ebirdAllObservations:
             sciName = i["sciName"]
             if (j == sciName) or ("(" in sciName) or (" x " in sciName) or ("." in sciName) or ("/" in sciName):
-                ebirdAllSpecies.remove(i)
-    return(ebirdAllSpecies)   
-
-# get all sightings of the last "time" days in "region" that are not on the lifelist
-def ebirdGetSightings(ebirdRelevantSpecies, region, time):
-    ebirdTargets = []
-    for species in ebirdRelevantSpecies:
-        sciName = species["sciName"]
-        answer = region_species(sciName, region, locale="de")
-        for line in answer:
-            ebirdTargets.append(line)
-    return(ebirdTargets)
+                ebirdAllObservations.remove(i)
+    return(ebirdAllObservations)   
 
 # get the data in the right format to put it on a google map
 # original structure: {'lng': 8.2904298, 'locName': 'Mainz, Volkspark', 'howMany': 2, 'sciName': 'Psittacula krameri', 'obsValid': True, 'locationPrivate': True, 'obsDt': '2018-03-17 08:35', 'obsReviewed': False, 'comName': 'Rose-ringed Parakeet', 'lat': 49.9877824, 'locID': 'L6362779', 'locId': 'L6362779'}
@@ -63,10 +53,9 @@ def ebirdCleanData(ebirdTargets, region):
         ebirdCleanTargets.append([number, name, sciname, source, url, latitude, longitude, location, date, area])
     return(ebirdCleanTargets)
 
-def ebirdGetArea(region, time):
+def ebirdGetArea(region, time, ebirdkey, ebirdlocale):
     ebirdLifeList = ebirdGetLifeList(region)
-    ebirdAllSpecies = ebirdGetAllSpecies(region, time)
-    ebirdRelevantSpecies = ebirdCompareSpecies(ebirdLifeList, ebirdAllSpecies)
-    ebirdTargets = ebirdGetSightings(ebirdRelevantSpecies, region, time)
+    ebirdAllObservations = ebirdGetAllObservations(region, time, ebirdkey, ebirdlocale)
+    ebirdTargets = ebirdCompareSpecies(ebirdLifeList, ebirdAllObservations)
     ebirdCleanTargets = ebirdCleanData(ebirdTargets, region)
     return(ebirdCleanTargets)
