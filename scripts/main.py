@@ -79,11 +79,11 @@ def main():
     #print("finished austria @ " + str(datetime.datetime.now()))
 
     ############ Europe from ebird
-    targetsEurope = []
-    for country in europe:
-        targetsEurope += ebirdGetArea(country, "7", ebirdkey, ebirdlocale)
-    writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
-    print("finished Europe @ " + str(datetime.datetime.now()))
+    #targetsEurope = []
+    #for country in europe:
+    #    targetsEurope += ebirdGetArea(country, "7", ebirdkey, ebirdlocale)
+    #writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+    #print("finished Europe @ " + str(datetime.datetime.now()))
 
     ############ Southafrika, Lesotho, Swasiland
     targetsSA = ebirdGetArea("ZA", "7", ebirdkey, ebirdlocale)
@@ -111,7 +111,7 @@ def main():
 
     ############ Thailand from ebird
     targetThailand = ebirdGetArea("TH", "7", ebirdkey, ebirdlocale)
-    writeData(targetThailand, "36.18", "-115.33", "7", "Thailand.js", "Thailand.html", path, fileCSS, googleAPI)
+    writeData(targetThailand, "17.72", "100.35", "5", "Thailand.js", "Thailand.html", path, fileCSS, googleAPI)
     print("finished Thailand @ " + str(datetime.datetime.now()))
 
     ############ create menue

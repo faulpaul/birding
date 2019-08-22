@@ -87,10 +87,11 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     return source
 
 def writeMenu(path):
-    source = ""
+    source = "<ul>\n"
     filelist = glob.glob(path+"*.html")
     for item in filelist:
         filename = os.path.basename(item)
-        source += ("<a href=\""+filename+"\">"+filename+"</a>")
+        source += ("<li><a href=\""+filename+"\">"+filename+"</a></li>\n")
+    source += "</ul>"
     writeFile(source, path+"menu.src")
 
