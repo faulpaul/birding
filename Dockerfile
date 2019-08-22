@@ -9,6 +9,6 @@ RUN pip3 install requests ebird-api lxml urllib3 bs4 xlrd
 RUN echo "#!/bin/bash" >> /root/start.sh
 RUN echo "cd /scripts/" >> /root/start.sh
 RUN echo "python3 main.py" >> /root/start.sh
-RUN echo "sleep 3600"
+RUN echo "sleep 3600" >> /root/start.sh
 RUN chmod +x /root/start.sh
 ENTRYPOINT ["/root/start.sh"]
