@@ -66,6 +66,14 @@ img { border: 0; }
 	border: 5px #FFF solid;
 	}
 
+ul {
+	list-style-type: none;
+	font-size:8px;
+	font-family: 'lane_-_narrowregular', Georgia, Helvetica, FreeSans;
+        font-size:12px;
+        font-color:#000;
+}
+
 th {
     font-style: bold;
     font-size: 1em;
