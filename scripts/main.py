@@ -69,20 +69,20 @@ def main():
     targetsGermany = ebirdGetArea("DE", "7", ebirdkey, ebirdlocale) 
     #targetsGermany += ornithoGetSpecies("7", "de", ornithodepayload, ornithodelist)
     #targetsGermany += othusGetSightings(7) #time
-    writeData(targetsGermany, "47.86", "11.28", "7", "germanyJS.js", "germany.html", path, fileCSS, googleAPI)
+    writeData(targetsGermany, "47.86", "11.28", "7", "GermanyJS.js", "Germany.html", path, fileCSS, googleAPI)
     print("finished Germany @ " + str(datetime.datetime.now()))
 
     ############ Austria from ebird & ornitho.at
     #targetsAustria = ebirdGetArea("AT", "7")
     #targetsAustria = ornithoGetSpecies("7", "at", ornithodepayload, ornithoatspecieslist)
-    #writeData(targetsAustria, "47.86", "11.28", "7", "austriaJS.js", "austria.html", path, fileCSS, googleAPI)
+    #writeData(targetsAustria, "47.86", "11.28", "7", "AustriaJS.js", "Austria.html", path, fileCSS, googleAPI)
     #print("finished austria @ " + str(datetime.datetime.now()))
 
     ############ Europe from ebird
     #targetsEurope = []
     #for country in europe:
     #    targetsEurope += ebirdGetArea(country, "7", ebirdkey, ebirdlocale)
-    #writeData(targetsEurope, "47.86", "11.28", "4", "europeJS.js", "europe.html", path, fileCSS, googleAPI)
+    #writeData(targetsEurope, "47.86", "11.28", "4", "EuropeJS.js", "Europe.html", path, fileCSS, googleAPI)
     #print("finished Europe @ " + str(datetime.datetime.now()))
 
     ############ Southafrika, Lesotho, Swasiland
@@ -94,9 +94,9 @@ def main():
 
     ############ Oman, Israel, Egypth from ebird
     #targetsOman = ebirdGetArea("OM", "7")
-    #writeData(targetsOman, "20.83", "56.89", "7", "omanJS.js", "oman.html", path, fileCSS, googleAPI)
+    #writeData(targetsOman, "20.83", "56.89", "7", "OmanJS.js", "Oman.html", path, fileCSS, googleAPI)
     #targetsIsrael = ebirdGetArea("IL", "7")
-    #writeData(targetsIsrael, "31.76", "35.21", "7", "israelJS.js", "israel.html", path, fileCSS, googleAPI)
+    #writeData(targetsIsrael, "31.76", "35.21", "7", "IsraelJS.js", "Israel.html", path, fileCSS, googleAPI)
     #targetsEgypt = ebirdGetArea("EG", "7")
     #writeData(targetsEgypt, "30.97", "27.43", "7", "EgyptJS.js", "Egypt.html", path, fileCSS, googleAPI)
 

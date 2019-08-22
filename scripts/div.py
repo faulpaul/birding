@@ -57,7 +57,7 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
     source += "<div class=\"header\">\n"
     source += "<div class=\"title\">All relevant sightings in your area:</br></div>\n"
     source += "<div class=\"date\">File generated: " + time.strftime("%Y/%m/%d @ %H:%M:%S") + "</br></div>\n"
-    source += "<div w3-include-html=\"menu.src\"></div>\n"
+    source += "<div w3-include-html=\"menu.html\"></div>\n"
     source += "</div>\n"
     source += "<table class=\"sortable\">\n"
     sortedlist = [item[1] for item in targetlist]
@@ -89,9 +89,11 @@ def buildHTMLpage(targetlist, fileCSS ,fileJS, googleAPI):
 def writeMenu(path):
     source = "<ul>\n"
     filelist = glob.glob(path+"*.html")
+    
     for item in filelist:
-        filename = os.path.basename(item)
-        source += ("<li><a href=\""+filename+"\">"+filename+"</a></li>\n")
+        pathtofile = os.path.basename(item)
+        filename = os.path.splitext(pathtofile)[0]
+        source += ("<li><a href=\""+pathtofile+"\">"+filename+"</a></li>\n")
     source += "</ul>"
-    writeFile(source, path+"menu.src")
+    writeFile(source, path+"menu.html")
 

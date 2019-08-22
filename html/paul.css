@@ -67,10 +67,9 @@ img { border: 0; }
 	}
 
 ul {
-	list-style-type: none;
-	font-size:8px;
+	list-style-type: none !important;
 	font-family: 'lane_-_narrowregular', Georgia, Helvetica, FreeSans;
-        font-size:12px;
+        font-size:4ex;
         font-color:#000;
 }
 
