@@ -78,6 +78,11 @@ def main():
     #writeData(targetsAustria, "47.86", "11.28", "7", "AustriaJS.js", "Austria.html", path, fileCSS, googleAPI)
     #print("finished austria @ " + str(datetime.datetime.now()))
 
+    ############ Spain from ebird
+    targetsSpain = ebirdGetArea("ES", "7", ebirdkey, ebirdlocale)
+    writeData(targetsSpain, "39.57", "2.64", "7", "SpainJS.js", "Spain.html", path, fileCSS, googleAPI)
+    print("finished Spain @ " + str(datetime.datetime.now()))
+
     ############ Europe from ebird
     #targetsEurope = []
     #for country in europe:
@@ -114,7 +119,7 @@ def main():
     writeData(targetThailand, "17.72", "100.35", "5", "Thailand.js", "Thailand.html", path, fileCSS, googleAPI)
     print("finished Thailand @ " + str(datetime.datetime.now()))
 
-    ############ create menue
+    ############ create menu
     writeMenu(path)
     print("script finished @ " + str(datetime.datetime.now()))
     print("=======================================================")
