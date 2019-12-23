@@ -78,10 +78,10 @@ def main():
     #writeData(targetsAustria, "47.86", "11.28", "7", "AustriaJS.js", "Austria.html", path, fileCSS, googleAPI)
     #print("finished austria @ " + str(datetime.datetime.now()))
 
-    ############ Turkye from ebird
-    targetsSpain = ebirdGetArea("TR", "7", ebirdkey, ebirdlocale)
-    writeData(targetsSpain, "39.00", "35.00", "7", "SpainJS.js", "Turkey.html", path, fileCSS, googleAPI)
-    print("finished Spain @ " + str(datetime.datetime.now()))
+    ############ Turkey from ebird
+    targetsTurkey = ebirdGetArea("TR", "30", ebirdkey, ebirdlocale)
+    writeData(targetsTurkey, "39.00", "35.00", "7", "TurkeyJS.js", "Turkey.html", path, fileCSS, googleAPI)
+    print("finished Turkey @ " + str(datetime.datetime.now()))
 
     ############ Spain from ebird
     targetsSpain = ebirdGetArea("ES", "7", ebirdkey, ebirdlocale)
